@@ -21,6 +21,10 @@ class Concept:
         object,
         address,
         poignancy,
+        election,
+        AAfriend,
+        flapflap,
+        flapeye,
         create=None,
         expire=None,
         access=None,
@@ -31,6 +35,10 @@ class Concept:
             subject, predicate, object, describe=describe, address=address.split(":")
         )
         self.poignancy = poignancy
+        self.election = election
+        self.AAfriend = AAfriend
+        self.flapflap = flapflap
+        self.flapeye = flapeye
         self.create = utils.to_date(create) if create else utils.get_timer().get_date()
         if expire:
             self.expire = utils.to_date(expire)
@@ -60,7 +68,7 @@ class Concept:
         return cls(node.text, node.id_, **node.metadata)
 
     @classmethod
-    def from_event(cls, node_id, node_type, event, poignancy):
+    def from_event(cls, node_id, node_type, event, poignancy, election,AAfriend, flapflap, flapeye):
         return cls(
             event.get_describe(),
             node_id,
@@ -70,6 +78,10 @@ class Concept:
             event.object,
             ":".join(event.address),
             poignancy,
+            election,
+            AAfriend,
+            flapflap,
+            flapeye,
         )
 
 
@@ -169,6 +181,10 @@ class Associate:
         node_type,
         event,
         poignancy,
+        election,
+        AAfriend,
+        flapflap,
+        flapeye,
         create=None,
         expire=None,
         filling=None,
@@ -182,6 +198,10 @@ class Associate:
             "object": event.object,
             "address": ":".join(event.address),
             "poignancy": poignancy,
+            "election": election,
+            "AAfriend": AAfriend,
+            "flapflap": flapflap,
+            "flapeye": flapeye,
             "create": create.strftime("%Y%m%d-%H:%M:%S"),
             "expire": expire.strftime("%Y%m%d-%H:%M:%S"),
             "access": create.strftime("%Y%m%d-%H:%M:%S"),

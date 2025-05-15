@@ -61,6 +61,7 @@ class LLMModel:
         self._summary.setdefault(caller, [0, 0, 0])
         for _ in range(retry):
             try:
+                print(f"LLMModel.completion() prompt: {prompt}, kwargs: {kwargs}")
                 meta_response = self._completion(prompt, **kwargs)
                 self._meta_responses.append(meta_response)
                 self._summary["total"][0] += 1
@@ -113,7 +114,7 @@ class OpenAILLMModel(LLMModel):
         from openai import OpenAI
 
         self._embedding_model = config.get("embedding_model", "text-embedding-3-small")
-        return OpenAI(api_key=keys["OPENAI_API_KEY"])
+        return OpenAI(api_key=keys["OPENAI_API_KEY"], base_url="https://api.moonshot.cn/v1")
 
     def _embedding(self, text):
         response = self._handle.embeddings.create(
@@ -121,7 +122,8 @@ class OpenAILLMModel(LLMModel):
         )
         return response.data[0].embedding
 
-    def _completion(self, prompt, temperature=0.00001):
+    def _completion(self, prompt, temperature=1):
+        print(f"OpenAI LLMModel._completion() prompt: {prompt}")
         messages = [{"role": "user", "content": prompt}]
         response = self._handle.chat.completions.create(
             model=self._model, messages=messages, temperature=temperature
@@ -132,7 +134,7 @@ class OpenAILLMModel(LLMModel):
 
     @classmethod
     def support_model(cls, model):
-        return model in ("gpt-3.5-turbo", "text-embedding-3-small")
+        return True
 
     @classmethod
     def creatable(cls, keys, config):
@@ -188,6 +190,7 @@ class OllamaLLMModel(LLMModel):
         return response["data"][0]["embedding"]
 
     def _completion(self, prompt, temperature=0.00001):
+        print(f"Ollama LLMModel._completion() prompt: {prompt}")
         messages = [{"role": "user", "content": prompt}]
         response = self.ollama_chat(messages=messages, temperature=temperature, stream=False)
         if response and len(response["choices"]) > 0:
@@ -219,6 +222,7 @@ class ZhipuAILLMModel(LLMModel):
         return response.data[0].embedding
 
     def _completion(self, prompt, temperature=0.00001):
+        print(f"ZhipuAI LLMModel._completion() prompt: {prompt}")
         messages = [{"role": "user", "content": prompt}]
         response = self._handle.chat.completions.create(
             model=self._model, messages=messages, temperature=temperature
@@ -271,6 +275,7 @@ class QIANFANLLMModel(LLMModel):
     def _completion(self, prompt, temperature=0.00001):
         import qianfan
 
+        print(f"QIANFAN LLMModel._completion() prompt: {prompt}")
         messages = [{"role": "user", "content": prompt}]
         resp = qianfan.ChatCompletion().do(
             messages=messages, model=self._model, temperature=temperature
@@ -323,6 +328,7 @@ class SparkAILLMModel(LLMModel):
         from sparkai.llm.llm import ChatSparkLLM
         from sparkai.core.messages import ChatMessage
 
+        print(f"SparkAI LLMModel._completion() prompt: {prompt}")
         spark_llm = ChatSparkLLM(
             spark_api_url=self._handle["params"]["spark_url"],
             spark_app_id=self._handle["keys"]["SPARK_APPID"],
@@ -354,8 +360,13 @@ def create_llm_model(base_url, model, embedding_model, keys, config=None):
     """Create llm model"""
 
     for _, model_cls in utils.get_registered_model(ModelType.LLM).items():
-        if model_cls.support_model(model) and model_cls.creatable(keys, config):
+        print(f"Trying to Create model: {model_cls}")
+        cond1 = model_cls.support_model(model)
+        cond2 = model_cls.creatable(keys, config)
+        print(f"cond1: {cond1}, cond2: {cond2}, base_url: {base_url}, model: {model}, embedding_model: {embedding_model}")
+        if cond1 and cond2:
             return model_cls(base_url, model, embedding_model, keys, config=config)
+            
     return None
 
 
@@ -363,6 +374,7 @@ def parse_llm_output(response, patterns, mode="match_last", ignore_empty=False):
     if isinstance(patterns, str):
         patterns = [patterns]
     rets = []
+    print("response:", response)
     for line in response.split("\n"):
         line = line.replace("**", "").strip()
         for pattern in patterns:

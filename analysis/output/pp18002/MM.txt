@@ -1,0 +1,1245 @@
+===== Node: node_0 =====
+Type: thought
+Subject: MM
+Predicate: 计划
+Object: 2025年05月12日（星期一）09:00
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Create: 20250512-09:00:00
+Expire: 20250611-09:00:00
+Access: 20250512-09:00:00
+Doc Hash: db1a42458f739268c393c894dab6becf3633dfd1c0ff2b294e211065694e4d58
+Text:
+这是 MM 在 2025年05月12日（星期一）09:00 的计划：早上 9 点到幼儿园教室；和老师 Miss T 打招呼；参加幼儿园的开学典礼；上午 10 点上课；中午 12 点吃午饭；下午 1 点参加兴趣活动；下午 2 点去操场玩；下午 3 点讨论班长选举投票；下午 4 点进行班长投票；下午 4 点半收拾东西准备放学
+
+===== Node: node_1 =====
+Type: chat
+Subject: MM
+Predicate: 对话
+Object: GG
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 3bc57428bc6fde85b0530a57e598f1c80754c59bf6541d75517bbc67083484c2
+Text:
+MM和GG在学校开学第一天相识。MM喜欢玩恐龙大乱斗，能够扮演霸王龙。GG喜欢捉迷藏和搭积木。两人提议一起玩这些游戏。
+
+===== Node: node_10 =====
+Type: event
+Subject: OO
+Predicate: 此时
+Object: 请老师介绍其他小朋友
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 8
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: 1b2e5ad1103e1b2945fdeb84c6a39bdf69347b6a05d7c4e756aac2de8002572a
+Text:
+OO 请老师介绍其他小朋友
+
+===== Node: node_11 =====
+Type: event
+Subject: BB
+Predicate: 对话
+Object: AA
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: 28398dfc19bd2aee304f6495e56c06155cd0f46a87083bb1b7b82e9dbf9c6551
+Text:
+BB向AA请教关于恐龙的知识，AA介绍了霸王龙、三角龙和翼龙的特征，提到霸王龙是食肉恐龙，三角龙有三个角并且生活在群体中，而翼龙则是与恐龙同时期的飞行爬行动物。
+
+===== Node: node_12 =====
+Type: event
+Subject: MissT
+Predicate: 对话
+Object: KK
+Address: the Ville:毛绒玩具:教室:幼儿园
+Poignancy: 7
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: e0abd8f41cbcaa75d856881c6fd4daf03cb4b67b69f52678df8fbf335f239a06
+Text:
+MissT和KK在开学第一天交流。KK兴奋地希望认识新朋友并玩有趣的游戏。MissT提到自我介绍和音乐课，鼓励他们分享和一起唱跳。KK最喜欢超级英雄探险，并希望和老师一起用积木搭建。
+
+===== Node: node_13 =====
+Type: event
+Subject: JJ
+Predicate: 对话
+Object: HH
+Address: the Ville:操场:幼儿园
+Poignancy: 3
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: 09eb340dfc11ebb170ff589d8f18d24ac9039308d2aff3590d1a06df3943fdbc
+Text:
+JJ和HH在教室里聊天。JJ提到教室很好，想玩游戏。HH回应说正在看玩具，建议一起玩换衣服的游戏，并表示愿意分享关于毛绒熊“点点”的故事。
+
+===== Node: node_14 =====
+Type: event
+Subject: PP
+Predicate: 此时
+Object: QQ和PP都是新来的幼儿园小朋友，他们开心地交流。QQ提到要一起上课和讨论选班长的事情，PP分享了自己喜欢跑步和踢球。两人计划一起在操场玩耍和聊选举。
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: 1dd674f2cbf16de137ee6ce1ba2d75c127a96ba51aca436b863c6096fed9a7da
+Text:
+QQ和PP都是新来的幼儿园小朋友，他们开心地交流。QQ提到要一起上课和讨论选班长的事情，PP分享了自己喜欢跑步和踢球。两人计划一起在操场玩耍和聊选举。
+
+===== Node: node_15 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 同其他小朋友进行自我介绍
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: 9c8de15bd4e9b82d601529377e944bc27557b06d5c4680cfa07cc40040e947c0
+Text:
+MM 同其他小朋友进行自我介绍
+
+===== Node: node_16 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 和新同学打招呼，换名片
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: 883034d93b7ad23e27998b137913b3db88ae70f37a3dff46d33b41ea61105974
+Text:
+FF 和新同学打招呼，换名片
+
+===== Node: node_17 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 慢慢走向刚认识的小朋友，尝试主动交流
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: 6b1ca450594133d6f15f3e21097792ff350e35350265d65c616a878622fbd3fb
+Text:
+LL 慢慢走向刚认识的小朋友，尝试主动交流
+
+===== Node: node_18 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 观察其他小朋友，思考如何与他们互动
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: ec4caa5f9625400e353ab4c8c3e5be54a04a92ce6e5460866f505f8e0a941311
+Text:
+DD 观察其他小朋友，思考如何与他们互动
+
+===== Node: node_19 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 主动向旁边的小朋友问好，介绍自己
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: e2a4c3784cfc854e88882371ed1f0b3001fd055745a5384b4f3135206d853644
+Text:
+GG 主动向旁边的小朋友问好，介绍自己
+
+===== Node: node_2 =====
+Type: event
+Subject: DD
+Predicate: 对话
+Object: CC
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 65baab79414dcac900b6551002bc6af891c9a0e0d686bb7b3eba441c0cc6983d
+Text:
+DD和CC互相问候，CC是新来的学生。两人期待认识新朋友，并决定一起去教室。CC询问DD喜欢什么玩具。
+
+===== Node: node_20 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 询问老师关于上课的内容
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: 43d63d3921a8247a1fa9021aa0b072dce837923f613feb3a6979e4f6da679761
+Text:
+KK 询问老师关于上课的内容
+
+===== Node: node_21 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 聆听其他小朋友的介绍，分享自己的兴趣
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 5
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: e03c9ba34481319209b36bdcb7cb138cc8be0bdfaa4d0799b31bad6f5ba1588b
+Text:
+BB 聆听其他小朋友的介绍，分享自己的兴趣
+
+===== Node: node_22 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 给新认识的小朋友分享“点点”的故事
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 7
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: b1da03bf1e5a8fa8e95bb3a1f7bb34f4c6ab2d2dd0b020dc232063e234614e61
+Text:
+HH 给新认识的小朋友分享“点点”的故事
+
+===== Node: node_23 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 热闹且充满笑声
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Create: 20250512-09:50:00
+Expire: 20250611-09:50:00
+Access: 20250512-09:50:00
+Doc Hash: 0c736efddf863ccd655c8dd8528b8c5d82681e9f6ce4a3a51a58c606b288af5d
+Text:
+幼儿园 热闹且充满笑声
+
+===== Node: node_24 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 同其他小朋友进行自我介绍
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Create: 20250512-09:50:00
+Expire: 20250611-09:50:00
+Access: 20250512-09:50:00
+Doc Hash: 5c09594c0b76e83b657b59695b6682a9141f54418a18e35e0922d87d41883be2
+Text:
+MM 同其他小朋友进行自我介绍
+
+===== Node: node_25 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 和新朋友讨论游戏规则，互相了解
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 98f0d3ab37a9493930afa3f2186a7967556599242e51f605a8c0f47aa4fd28f9
+Text:
+MM 和新朋友讨论游戏规则，互相了解
+
+===== Node: node_26 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 组织大家讨论如何选班长
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 7a4f82d97cf624398a1767a4ea29c1dc77eb707f2838a6c40ee7a6b060de6deb
+Text:
+FF 组织大家讨论如何选班长
+
+===== Node: node_27 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 听老师MissT的课堂介绍
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: c7935a9df3e7d44f4f15315872392db1319421701bc59a8b636483811a2d8189
+Text:
+LL 听老师MissT的课堂介绍
+
+===== Node: node_28 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 见到老师 MissT，轻声打招呼
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: fe47e54e3af2338a854c8d52f6c2acc8b79c1352ae5e9df11c34b1ebc2f1f298
+Text:
+DD 见到老师 MissT，轻声打招呼
+
+===== Node: node_29 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 聆听老师关于幼儿园的介绍
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: a969a7d8370c55935c099be0ef9b62f9a3be0d4965b89a537f588dc29a6cdd16
+Text:
+GG 聆听老师关于幼儿园的介绍
+
+===== Node: node_3 =====
+Type: event
+Subject: II
+Predicate: 对话
+Object: HH
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 7f66b1d2ae4f8cf35b0d2e1b538695df62d16a19710e3d356bf96cb44e2c2d26
+Text:
+II和HH在幼儿园相遇，II兴奋地询问HH的动画角色喜好。HH喜欢小熊维尼。II提到自己喜欢超级闪亮小魔法，建议一起扮演小熊维尼角色，自己则想当公主。
+
+===== Node: node_30 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 向老师询问班长选举的方式
+Address: the Ville:皮鼓:教室:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 4829a6342b291ad4864c6128f5c418b2a93f12396c5365537fe0c886deaf3353
+Text:
+KK 向老师询问班长选举的方式
+
+===== Node: node_31 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 向老师询问班长竞选的相关信息
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: df8ebcfc6ed37b98f21df501a6d7c2d721ca2f8213b15c9b21cbd408c9ef50f4
+Text:
+BB 向老师询问班长竞选的相关信息
+
+===== Node: node_32 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 确定投票方式，准备参与投票
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 735f77536a81c473759dd274e5d72cdf70ee6fd51008ada254fc6c03a48a8085
+Text:
+HH 确定投票方式，准备参与投票
+
+===== Node: node_33 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 班长选举引发了幼儿园小朋友间的积极互动与讨论。
+Address: the Ville:操场:幼儿园
+Poignancy: 9
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 5ae15238e98a1d00ed25f2b61a040998699c41538b3641df7da97ba1953bf301
+Text:
+MM 班长选举引发了幼儿园小朋友间的积极互动与讨论。
+
+===== Node: node_34 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 老师在新学期扮演了关键的引导角色，促进孩子们自我介绍与交流。
+Address: the Ville:操场:幼儿园
+Poignancy: 9
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: e4f41132403af91e3f3848611cf8465e8bbf8460c774f365d98d26649a981d23
+Text:
+MM 老师在新学期扮演了关键的引导角色，促进孩子们自我介绍与交流。
+
+===== Node: node_35 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 新朋友之间的兴趣分享促进了彼此关系的建立。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 905cf34a33d0061214fc83990f38d7f645b77fe90fb5bc5368359b12a6e2ddd8
+Text:
+MM 新朋友之间的兴趣分享促进了彼此关系的建立。
+
+===== Node: node_36 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 幼儿园提供了一个丰富多彩的社交环境，鼓励小朋友探索新事物。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 9b1e12d5029470bbf0937b90e8a4ec5594fe2a551b687824ac8ef62c4189aeb8
+Text:
+MM 幼儿园提供了一个丰富多彩的社交环境，鼓励小朋友探索新事物。
+
+===== Node: node_37 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 合作与互动在孩子们的游戏中增强了团队意识及友谊。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 354e5265b23699f0f0b68101aede7e6582e89644ed315bec78d2b02b7f748103
+Text:
+MM 合作与互动在孩子们的游戏中增强了团队意识及友谊。
+
+===== Node: node_38 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 班长选举激发了孩子们的互动与沟通能力。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: f72177c50de9de5b2f357d39acb6ff64d56ef1d1b9dcfcc21cb2d41b0c89d542
+Text:
+MM 班长选举激发了孩子们的互动与沟通能力。
+
+===== Node: node_39 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 新朋友之间的交流促进了社交技能和团队合作意识。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 631023371aa45c786d944546c94a55eab9ed657b3a522c610fcee01419b36989
+Text:
+MM 新朋友之间的交流促进了社交技能和团队合作意识。
+
+===== Node: node_4 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: NN和FF在小北幼儿园第一次见面，互相介绍。NN提议一起去操场玩足球，FF表示赞同。
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 5
+Create: 20250512-09:20:00
+Expire: 20250611-09:20:00
+Access: 20250512-09:20:00
+Doc Hash: 93ac95a84ec331da91f34b7a82004ed41fd2ccabd5bc50d1b17e2f14cd00bb88
+Text:
+NN和FF在小北幼儿园第一次见面，互相介绍。NN提议一起去操场玩足球，FF表示赞同。
+
+===== Node: node_40 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 对兴趣与玩具的分享帮助孩子们建立共同话题。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 5907358f7e5a77c503b143debd569fedcc1632978373f7b756beabd6ed7c0a7b
+Text:
+MM 对兴趣与玩具的分享帮助孩子们建立共同话题。
+
+===== Node: node_41 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 老师的引导在新环境中帮助孩子们适应与交流。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: fd72d6f51b8a040434e72b15c9fe6543c1171c3fc229adfea7145f471631dae7
+Text:
+MM 老师的引导在新环境中帮助孩子们适应与交流。
+
+===== Node: node_42 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 孩子们通过自我介绍和互动增强了自信心。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 918e9fdcfbb2058050406eaa85aceb7227c241c2950281e37553072a09126914
+Text:
+MM 孩子们通过自我介绍和互动增强了自信心。
+
+===== Node: node_43 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 幼儿园的社交互动促使小朋友们积极交流与合作。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 6d84a3b7e163f894aee9202af02e02311f3d1204ac8f139cde06a6c60f6e6d54
+Text:
+MM 幼儿园的社交互动促使小朋友们积极交流与合作。
+
+===== Node: node_44 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 班长选举活动激发了幼儿园中的团队意识与参与感。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 9b345aa45078addaffbeb8ba57d18fb48dc6b39c70c33b64714bcb2774333690
+Text:
+MM 班长选举活动激发了幼儿园中的团队意识与参与感。
+
+===== Node: node_45 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 新孩子之间的交流有助于他们快速适应新环境。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: f113da8e1362bfd667e4b18345b93525a5696bda4a368d972f6c61886c5add22
+Text:
+MM 新孩子之间的交流有助于他们快速适应新环境。
+
+===== Node: node_46 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 教师在课堂上起到了连接与引导的重要作用。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: da4786a3ec2899423907a50a0d967315067aec89c7662d929a0ea93f3092c5d4
+Text:
+MM 教师在课堂上起到了连接与引导的重要作用。
+
+===== Node: node_47 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 共同的兴趣可以搭建友谊的桥梁，增强小朋友的凝聚力。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 81470f4adc72d686515fad813389e1afe12e63f927b0e1363f927812cf097494
+Text:
+MM 共同的兴趣可以搭建友谊的桥梁，增强小朋友的凝聚力。
+
+===== Node: node_48 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 对于 MM 的计划：MM 需要记住自己的计划，以便能够邀请 GG 一起玩她喜欢的恐龙大乱斗，同时也能参与 GG 的喜好。
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: fba7bd8f6313585b5ed47d9a46e22a29d9b863d7031065cf0789fd7a3ce0f6bc
+Text:
+对于 MM 的计划：MM 需要记住自己的计划，以便能够邀请 GG 一起玩她喜欢的恐龙大乱斗，同时也能参与 GG 的喜好。
+
+===== Node: node_49 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object:  对话中最有趣的地方是我提到可以扮演霸王龙，发出超大的音效时，GG对于我提议一起玩的热情反应。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 42a7ebf2d23b5e3b208ec100ec93d967b3be26ff3385ea916c9ee0f05d2031ce
+Text:
+MM 对话中最有趣的地方是我提到可以扮演霸王龙，发出超大的音效时，GG对于我提议一起玩的热情反应。
+
+===== Node: node_5 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 和老师MissT打招呼
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-09:20:00
+Expire: 20250611-09:20:00
+Access: 20250512-09:20:00
+Doc Hash: 3e0eb621e948cb1c8bdce1ec94d9c43f3ac74737b14d7bbbdabcc465e33c1400
+Text:
+LL 和老师MissT打招呼
+
+===== Node: node_50 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 和新朋友讨论游戏规则，互相了解
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 98f0d3ab37a9493930afa3f2186a7967556599242e51f605a8c0f47aa4fd28f9
+Text:
+MM 和新朋友讨论游戏规则，互相了解
+
+===== Node: node_51 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 组织大家讨论如何选班长
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: eaccb71e10b2653c6f28084c95a7115827fff52515fdbf39dbc00cc2f72ad9e8
+Text:
+FF 组织大家讨论如何选班长
+
+===== Node: node_52 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 听老师MissT的课堂介绍
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 4
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 3879445e5e9572df4b818dfb6ce3684f337d1830549ca5adb27d69bd7fd7eca1
+Text:
+LL 听老师MissT的课堂介绍
+
+===== Node: node_53 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 见到老师 MissT，轻声打招呼
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: fe47e54e3af2338a854c8d52f6c2acc8b79c1352ae5e9df11c34b1ebc2f1f298
+Text:
+DD 见到老师 MissT，轻声打招呼
+
+===== Node: node_54 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 聆听老师关于幼儿园的介绍
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: a2fe31bff5f40daa2df58c07551203357f9014708451befb9a71fb4c9b6ecec7
+Text:
+GG 聆听老师关于幼儿园的介绍
+
+===== Node: node_55 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 向老师询问班长选举的方式
+Address: the Ville:皮鼓:教室:幼儿园
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: d12597757fb657176bdd8d4d46ee8eb4bcfd760d4f19f7ff55955ec87e52ac52
+Text:
+KK 向老师询问班长选举的方式
+
+===== Node: node_56 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 向老师询问班长竞选的相关信息
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: df8ebcfc6ed37b98f21df501a6d7c2d721ca2f8213b15c9b21cbd408c9ef50f4
+Text:
+BB 向老师询问班长竞选的相关信息
+
+===== Node: node_57 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 确定投票方式，准备参与投票
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: b2a866ad6af69b11e77be07966e62dd658cefc7a88cad59168aab46337528e9b
+Text:
+HH 确定投票方式，准备参与投票
+
+===== Node: node_58 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 幼儿园的环境促进了孩子们的社交互动与沟通能力发展。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: ac53f12bc8416e215887084821f739917929d82e58c14aeca57355ce6801bbdf
+Text:
+MM 幼儿园的环境促进了孩子们的社交互动与沟通能力发展。
+
+===== Node: node_59 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 班长选举激发了孩子们的参与意识和集体讨论能力。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: eca64d3f8d5231f72cd48d0c6a90d10793774b8490ded22b70eeafdab970414c
+Text:
+MM 班长选举激发了孩子们的参与意识和集体讨论能力。
+
+===== Node: node_6 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 和老师打招呼
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-09:20:00
+Expire: 20250611-09:20:00
+Access: 20250512-09:20:00
+Doc Hash: 0623204848c73c9a7f1667dec730a0efac05bfc73c4e500d51a3dbffbf8de48b
+Text:
+KK 和老师打招呼
+
+===== Node: node_60 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 老师的引导在孩子们的自我介绍和互动中起到了重要作用。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 7365768f9ba81ae081f756c57551bf138f431eb4e46f79661d46f70741f84a7c
+Text:
+MM 老师的引导在孩子们的自我介绍和互动中起到了重要作用。
+
+===== Node: node_61 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 新朋友间的兴趣分享有助于建立更深层次的友谊和理解。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 2844a6cfc80ab0fe8391740d9c17b5b7d31356bf8152448c133fd51662f83176
+Text:
+MM 新朋友间的兴趣分享有助于建立更深层次的友谊和理解。
+
+===== Node: node_62 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 通过游戏和角色扮演，孩子们能够更好地表达自我和探索创造力。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 1ec62648d8db7d0891108f5250f48cfab51d6034fc9f28dd5ecc042385e3cb11
+Text:
+MM 通过游戏和角色扮演，孩子们能够更好地表达自我和探索创造力。
+
+===== Node: node_63 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 班长选举激发幼儿之间的互动与交流机制。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 971705a12982a273b233f083422a002bdd507e7cf5b9d0f1198121efcf6c8abc
+Text:
+MM 班长选举激发幼儿之间的互动与交流机制。
+
+===== Node: node_64 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 新朋友的自我介绍增强了幼儿社交技能与自信心。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 03238e28a0a7823e3c3fc740b7e4e2e3af7c1a130336eeeeb94d60244a07669c
+Text:
+MM 新朋友的自我介绍增强了幼儿社交技能与自信心。
+
+===== Node: node_65 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 对老师的询问表明幼儿对校园生活的好奇和参与感。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 4486435af39e645454ccf0bb86d830f08f98f0728b2bd4e814960734acb13825
+Text:
+MM 对老师的询问表明幼儿对校园生活的好奇和参与感。
+
+===== Node: node_66 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 分组活动和游戏促进了幼儿的团队合作意识。
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 0290d36585b2aeee11c42a30d4593b9c1b4c47bc707c29a18902c4ea4149e103
+Text:
+MM 分组活动和游戏促进了幼儿的团队合作意识。
+
+===== Node: node_67 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 幼儿对兴趣和爱好的分享加强了友谊的建立。
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: bad3cf36fa9935044b0e30a21612f3211d4ed668a8b9527ef9faf1c99fcd79fe
+Text:
+MM 幼儿对兴趣和爱好的分享加强了友谊的建立。
+
+===== Node: node_68 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 新生小朋友之间通过共同兴趣建立友谊，促进交流。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 2cc9713e96bb94778256ac1ce460b81da737e8063744e81bc0aecf9f4d7387c9
+Text:
+MM 新生小朋友之间通过共同兴趣建立友谊，促进交流。
+
+===== Node: node_69 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 老师在开学典礼中引导孩子们进行自我介绍，增强社交互动。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 72eddacdbb5f2e0d20bfbc9b6b9bf2063fef54c547d9b33e294095b750891912
+Text:
+MM 老师在开学典礼中引导孩子们进行自我介绍，增强社交互动。
+
+===== Node: node_7 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 向老师MissT问好，介绍自己
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Create: 20250512-09:20:00
+Expire: 20250611-09:20:00
+Access: 20250512-09:20:00
+Doc Hash: 319ed8a198754dd0e7181d657cdcd0527f546c9163f71ffda9e5463687503021
+Text:
+BB 向老师MissT问好，介绍自己
+
+===== Node: node_70 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 班长选举成为新朋友互动与讨论的主题，增强集体意识。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: f1d2362d72f48496ce49b9305cd689e3ff721a06511ae962c5395e64c509e69a
+Text:
+MM 班长选举成为新朋友互动与讨论的主题，增强集体意识。
+
+===== Node: node_71 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 幼儿园提供多样化的兴趣活动，有助于孩子发展个人特长。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 3d3de59d4e5da131abf35359704f06f82df4c62c2f673cc3de1c20b9027309cd
+Text:
+MM 幼儿园提供多样化的兴趣活动，有助于孩子发展个人特长。
+
+===== Node: node_72 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 通过共同游戏和活动，孩子们可以更好地适应新环境。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 93e6212a2f2ea15722471bf83e0893aa180a1d8da45f7bfc460c140c1e6b5556
+Text:
+MM 通过共同游戏和活动，孩子们可以更好地适应新环境。
+
+===== Node: node_73 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object: 对于 MM 的计划：MM 需要记住自己的计划，因为她希望能与 GG 一起玩捉迷藏或者搭积木，这样可以增进彼此的友谊。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 0b35361bbdba96b1d7624bf0f4b6da3a1e6a68f596936ad0036316157d8a5a98
+Text:
+对于 MM 的计划：MM 需要记住自己的计划，因为她希望能与 GG 一起玩捉迷藏或者搭积木，这样可以增进彼此的友谊。
+
+===== Node: node_74 =====
+Type: thought
+Subject: MM
+Predicate: 此时
+Object:  我觉得最有趣的是我可以扮演霸王龙发出超大的音效，想象着和GG一起玩耍的场景！
+Address: the Ville:操场:幼儿园
+Poignancy: 9
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 5b1ef5e3f52aa1ccc98eb176b6d49a6176fef8dca6e24ec0aab6243ffeb5a8b8
+Text:
+MM 我觉得最有趣的是我可以扮演霸王龙发出超大的音效，想象着和GG一起玩耍的场景！
+
+===== Node: node_75 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满欢声笑语
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 9
+Create: 20250512-10:10:00
+Expire: 20250611-10:10:00
+Access: 20250512-10:10:00
+Doc Hash: 54ae1aacc4df521905e75d20797a5beb64d936a5e60f78a5733f08e1140b4ccf
+Text:
+幼儿园 充满欢声笑语
+
+===== Node: node_76 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 听老师介绍课堂规则和内容
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 4
+Create: 20250512-10:10:00
+Expire: 20250611-10:10:00
+Access: 20250512-10:10:00
+Doc Hash: 48f0a8545065897613732c6a181e9ae896ee4a0ce0ee0f4685f5d95ce0261033
+Text:
+EE 听老师介绍课堂规则和内容
+
+===== Node: node_77 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 和新朋友讨论游戏规则，互相了解
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 7
+Create: 20250512-10:10:00
+Expire: 20250611-10:10:00
+Access: 20250512-10:10:00
+Doc Hash: b1fcecdbe6a31c791ea6a4d17a20e12b60e7b503b6a9f5b7bde850ce6ce1b62d
+Text:
+MM 和新朋友讨论游戏规则，互相了解
+
+===== Node: node_78 =====
+Type: chat
+Subject: MM
+Predicate: 对话
+Object: EE
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 4
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 96dd82aeaf9e2a55624fca9e4394d6ba0c9a46fd4ce42e558c2346e3d119d45b
+Text:
+MM和EE讨论游戏规则，MM提议玩恐龙大乱斗或捉迷藏。EE同意捉迷藏，并建议先玩捉迷藏，再玩恐龙大乱斗。
+
+===== Node: node_79 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 听老师MissT讲课
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 303c83cef742fca3a5c0e10acf0cbd871f4ae38f423ed28658af27e40c851c6a
+Text:
+FF 听老师MissT讲课
+
+===== Node: node_8 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 找到自己的座位，放好“点点”
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 1
+Create: 20250512-09:20:00
+Expire: 20250611-09:20:00
+Access: 20250512-09:20:00
+Doc Hash: fd166a53cfa6a7e73babe72737a66bdc9b8091f79a27dae32a648c667ef775cf
+Text:
+HH 找到自己的座位，放好“点点”
+
+===== Node: node_80 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 观察其他小朋友的表现，选择愿意互相介绍的新朋友
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: f01e093d3d4828445774bb672f701332d4a03729c3ed5b5015b15e48991b18a3
+Text:
+LL 观察其他小朋友的表现，选择愿意互相介绍的新朋友
+
+===== Node: node_81 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 和老师 MissT 自我介绍
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: bfd226c7583436470b635cc2a0e90efc9323bdf6b1eec6999cf41bb45252f7df
+Text:
+DD 和老师 MissT 自我介绍
+
+===== Node: node_82 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 观察老师Miss T，以及其他小朋友的表现
+Address: the Ville:窗户:教室:幼儿园
+Poignancy: 5
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: a322b3a4cef8468c7a300a8c5a4b6bc878785ce6754cbd6622e9899bc3c49dee
+Text:
+GG 观察老师Miss T，以及其他小朋友的表现
+
+===== Node: node_83 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 听老师讲课，学习新知识
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: c52dd9d1b2cd027ca8f5ac64902e830a459f32d94bac76cac9bd3320b145404a
+Text:
+KK 听老师讲课，学习新知识
+
+===== Node: node_84 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 参与老师的课堂介绍
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 92fc42711c707dfc193adc45e44f21a93ac290c21c3c65b67b17776db9f6a6c4
+Text:
+BB 参与老师的课堂介绍
+
+===== Node: node_85 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 参与开学欢迎活动的准备
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 76a8614b2bc5628b264d50c4b393eff55c76bc698f87b3dfaea1fede1db7e0ea
+Text:
+HH 参与开学欢迎活动的准备
+
+===== Node: node_86 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满欢声笑语
+Address: the Ville:树:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: 29acabffc449bcbec20b487864e4d552b7e7536fb0436f466719d09b044bb128
+Text:
+幼儿园 充满欢声笑语
+
+===== Node: node_87 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 和小朋友们一起玩捉迷藏
+Address: the Ville:树:操场:幼儿园
+Poignancy: 7
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: 7c01f4fe6a20d0cb7de48e8e56c1b6e26c9620c4f8ec34204a23fd936d33c795
+Text:
+MM 和小朋友们一起玩捉迷藏
+
+===== Node: node_88 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 参与开学典礼的集体活动
+Address: the Ville:树:操场:幼儿园
+Poignancy: 8
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 9dd5b31b2b05a2cfe27e395b6f4071ee3499e28bc7c9c65ab24987cd55677add
+Text:
+MM 参与开学典礼的集体活动
+
+===== Node: node_9 =====
+Type: event
+Subject: KK
+Predicate: 对话
+Object: CC
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: 69925efac1edd7e07e1f46d7a1ff7b2c05532bf934db9213db76df0ab68ebf6f
+Text:
+KK和CC交流各自喜欢的玩具，KK喜欢搭积木和设计超级英雄，CC则喜欢洋娃娃和画画。他们决定一起搭建一个超级英雄的家，并让洋娃娃参与冒险。CC准备带洋娃娃来一起玩。

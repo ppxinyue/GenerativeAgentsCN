@@ -9,6 +9,7 @@ from llama_index import core as index_core
 from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core import Settings
+from llama_index.embeddings.openai import OpenAIEmbedding
 from modules import utils
 
 
@@ -22,6 +23,12 @@ class LlamaIndex:
                 model_name=embedding["model"],
                 base_url=embedding["base_url"],
                 ollama_additional_kwargs={"mirostat": 0},
+            )
+        elif embedding["type"] == "openai":
+            embed_model = OpenAIEmbedding(
+                model_name=embedding["model"],
+                api_base=embedding.get("base_url"),  # Use api_base for OpenAI
+                api_key=embedding.get("api_key"),    # Optional: Pass API key if required
             )
         else:
             raise NotImplementedError(

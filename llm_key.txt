@@ -1,0 +1,21 @@
+openai
+kimimoonshot
+api_key = sk-5hWUm3UyJDisCZyvWlNiEFk6DUYhwGf5UeqlYiXg7UreuN8C
+base_url = https://api.moonshot.cn/v1
+model = kimi-latest-128k
+
+
+ZhipuAI
+base_url = https://open.bigmodel.cn/api/paas/v4
+model = charglm-4  / GLM-4-Plus
+api_key = 501e715297d14d5ab6e1626469f6c031.ZtiLDCRLSSyijhEC
+Embedding-3
+
+
+        "associate": {
+            "embedding": {
+                "type": "openai",
+                "base_url": "https://api.openai-proxy.org/v1",
+                "model": "text-embedding-3-small",
+                "api_key": "sk-3ijUbpq1p9DtmydgTk0Rr1cWRZVbRtT8QlZ2nv2wXZgZ6P9x"
+            },

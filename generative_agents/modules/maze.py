@@ -161,6 +161,8 @@ class Maze:
         return path[::-1]
 
     def tile_at(self, coord):
+        if coord[0] < 0 or coord[0] >= self.maze_width:
+            raise ValueError("coord[0] out of range")
         return self.tiles[coord[1]][coord[0]]
 
     def update_obj(self, coord, obj_event):

@@ -41,6 +41,100 @@ class Scratch:
             }
         )
 
+    def prompt_election_event(self, event):
+        prompt = self.build_prompt(
+            "election_event",
+            {
+                "base_desc": self._base_desc(),
+                "agent": self.name,
+            }
+        )
+
+        def _callback(response):
+            pattern = [
+                "选举[:： ]+(\d{1,2})",
+                "(\d{1,2})",
+            ]
+            return int(parse_llm_output(response, pattern, "match_last"))
+
+        return {
+            "prompt": prompt,
+            "callback": _callback,
+            "failsafe": random.choice(list(range(10))) + 1,
+        }
+
+
+    def prompt_flapflap_event(self, event):
+        prompt = self.build_prompt(
+            "flapflap_event",
+            {
+                "base_desc": self._base_desc(),
+                "agent": self.name,
+            }
+        )
+
+        def _callback(response):
+            pattern = [
+                "flapflap[:： ]+(\d{1,2})",
+                "(\d{1,2})",
+            ]
+            return int(parse_llm_output(response, pattern, "match_last"))
+
+        return {
+            "prompt": prompt,
+            "callback": _callback,
+            "failsafe": random.choice(list(range(10))) + 1,
+        }
+    
+
+    def prompt_flapeye_event(self, event):
+        prompt = self.build_prompt(
+            "flapeye_event",
+            {
+                "base_desc": self._base_desc(),
+                "agent": self.name,
+            }
+        )
+
+        def _callback(response):
+            pattern = [
+                "flapeye[:： ]+(\d{1,2})",
+                "(\d{1,2})",
+            ]
+            return int(parse_llm_output(response, pattern, "match_last"))
+
+        return {
+            "prompt": prompt,
+            "callback": _callback,
+            "failsafe": random.choice(list(range(10))) + 1,
+        }
+
+
+    def prompt_AAfriend_event(self, event):
+        prompt = self.build_prompt(
+            "AAfriend_event",
+            {
+                "base_desc": self._base_desc(),
+                "agent": self.name,
+            }
+        )
+
+        def _callback(response):
+            pattern = [
+                "打分[:： ]+(\d{1,2})",
+                "(\d{1,2})",
+            ]
+            return int(parse_llm_output(response, pattern, "match_last"))
+
+        return {
+            "prompt": prompt,
+            "callback": _callback,
+            "failsafe": random.choice(list(range(10))) + 1,
+        }
+
+
+
+
     def prompt_poignancy_event(self, event):
         prompt = self.build_prompt(
             "poignancy_event",
@@ -63,6 +157,7 @@ class Scratch:
             "callback": _callback,
             "failsafe": random.choice(list(range(10))) + 1,
         }
+
 
     def prompt_poignancy_chat(self, event):
         prompt = self.build_prompt(
@@ -133,22 +228,23 @@ class Scratch:
             return parse_llm_output(response, patterns, mode="match_all")
 
         failsafe = [
-            "早上6点起床并完成早餐的例行工作",
-            "早上7点吃早餐",
-            "早上8点看书",
+            "早上9点到教室门前",
+            "早上11点在教室里上音乐课",
             "中午12点吃午饭",
             "下午1点小睡一会儿",
-            "晚上7点放松一下，看电视",
-            "晚上11点睡觉",
+            "下午3点去操场踢球"
         ]
         return {"prompt": prompt, "callback": _callback, "failsafe": failsafe}
 
     def prompt_schedule_daily(self, wake_up, daily_schedule):
         hourly_schedule = ""
+        wake_up = 9
         for i in range(wake_up):
             hourly_schedule += f"[{i}:00] 睡觉\n"
-        for i in range(wake_up, 24):
+        for i in range(wake_up, 17):
             hourly_schedule += f"[{i}:00] <活动>\n"
+        for i in range(17, 24):
+            hourly_schedule += f"[{i}:00] 放学\n"
 
         prompt = self.build_prompt(
             "schedule_daily",
@@ -161,24 +257,15 @@ class Scratch:
         )
 
         failsafe = {
-            "6:00": "起床并完成早晨的例行工作",
-            "7:00": "吃早餐",
-            "8:00": "读书",
-            "9:00": "读书",
-            "10:00": "读书",
-            "11:00": "读书",
+            "9:00": "开学第一天，进入教室",
+            "10:00": "自我介绍",
+            "11:00": "音乐课",
             "12:00": "吃午饭",
-            "13:00": "小睡一会儿",
-            "14:00": "小睡一会儿",
-            "15:00": "小睡一会儿",
-            "16:00": "继续工作",
-            "17:00": "继续工作",
-            "18:00": "回家",
-            "19:00": "放松，看电视",
-            "20:00": "放松，看电视",
-            "21:00": "睡前看书",
-            "22:00": "准备睡觉",
-            "23:00": "睡觉",
+            "13:00": "午休",
+            "14:00": "科学课",
+            "15:00": "在操场踢球",
+            "16:00": "玩捉迷藏",
+            "17:00": "放学",
         }
 
         def _callback(response):

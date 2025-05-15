@@ -19,6 +19,7 @@ class Agent:
         self.logger = logger
 
         # agent config
+        self.raw_config = config
         self.percept_config = config["percept"]
         self.think_config = config["think"]
         self.chat_iter = config["chat_iter"]
@@ -87,7 +88,7 @@ class Agent:
 
     def reset(self, keys):
         if self.think_config["mode"] == "llm" and not self._llm:
-            self._llm = create_llm_model(**self.think_config["llm"], keys=keys)
+            self._llm = create_llm_model(**self.think_config["llm"], keys=keys, config=self.raw_config)
 
     def completion(self, func_hint, *args, **kwargs):
         assert hasattr(
@@ -103,7 +104,7 @@ class Agent:
             msg = {"<PROMPT>": "\n" + prompt["prompt"] + "\n"}
             msg.update(
                 {
-                    "<RESPONSE[{}/{}]>".format(idx+1, len(responses)): "\n" + r + "\n"
+                    "<RESPONSE[{}/{}]>".format(idx+1, len(responses)): "\n" + (r or "") + "\n"
                     for idx, r in enumerate(responses)
                 }
             )
@@ -303,7 +304,7 @@ class Agent:
             if event.get_describe() not in recent_nodes:
                 if event.object == "idle" or event.object == "空闲":
                     node = Concept.from_event(
-                        "idle_" + str(idx), "event", event, poignancy=1
+                        "idle_" + str(idx), "event", event, poignancy=1,election=0,AAfriend=0,flapflap=0,flapeye=0,
                     )
                 else:
                     valid_num += 1
@@ -654,11 +655,19 @@ class Agent:
             poignancy = self.completion("poignancy_chat", event)
         else:
             poignancy = self.completion("poignancy_event", event)
+        election = self.completion("election_event", event)
+        AAfriend = self.completion("AAfriend_event", event)
+        flapflap = self.completion("flapflap_event", event)
+        flapeye = self.completion("flapeye_event", event)
         self.logger.debug("{} add associate {}".format(self.name, event))
         return self.associate.add_node(
             e_type,
             event,
             poignancy,
+            election,
+            AAfriend,
+            flapflap,
+            flapeye,
             create=create,
             expire=expire,
             filling=filling,
