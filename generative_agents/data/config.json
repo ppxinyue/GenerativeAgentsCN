@@ -12,9 +12,9 @@
         "think": {
             "mode": "llm",
             "llm": {
-                "base_url": "https://api.moonshot.cn/v1",
-                "model": "kimi-latest",
-                "embedding_model": "text-embedding-3-small"
+                "base_url": "https://api.openai-proxy.org/v1",
+                "model": "deepseek-chat",
+                "embedding_model": "text-embedding-3-large"
             },
             "interval": 1000,
             "poignancy_max": 150
@@ -23,16 +23,16 @@
         "associate": {
             "embedding": {
                 "type": "openai",
-                "base_url": "https://api.moonshot.cn/v1",
-                "model": "text-embedding-3-small",
-                "api_key": "sk-5hWUm3UyJDisCZyvWlNiEFk6DUYhwGf5UeqlYiXg7UreuN8C"
+                "base_url": "https://api.openai-proxy.org/v1",
+                "model": "text-embedding-3-large",
+                "api_key": "sk-3ijUbpq1p9DtmydgTk0Rr1cWRZVbRtT8QlZ2nv2wXZgZ6P9x"
             },
             "retention": 8
         }
     },
 
     "api_keys": {
-        "OPENAI_API_KEY": "sk-5hWUm3UyJDisCZyvWlNiEFk6DUYhwGf5UeqlYiXg7UreuN8C",
+        "OPENAI_API_KEY": "sk-3ijUbpq1p9DtmydgTk0Rr1cWRZVbRtT8QlZ2nv2wXZgZ6P9x",
         "QIANFAN_AK": "",
         "QIANFAN_SK": "",
         "SPARK_APPID": "",

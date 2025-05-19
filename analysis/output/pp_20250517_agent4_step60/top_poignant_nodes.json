@@ -1,0 +1,90 @@
+{
+  "AA": {
+    "character": "AA",
+    "node_id": "node_111",
+    "poignancy": 9.0,
+    "metadata": {
+      "node_type": "event",
+      "subject": "AA",
+      "predicate": "此时",
+      "object": "坐在绿色凳子上，发现被其他小朋友占用",
+      "address": "the Ville:幼儿园:教室:书架",
+      "poignancy": 9,
+      "election": 9,
+      "AAfriend": 0,
+      "flapflap": 0,
+      "flapeye": 0,
+      "create": "20250512-15:06:00",
+      "expire": "20250611-15:06:00",
+      "access": "20250512-15:06:00"
+    },
+    "text": "AA 坐在绿色凳子上，发现被其他小朋友占用",
+    "doc_hash": "4f9984e2217fc26bc728447170d2fe681f5506358f976e76327cf586048e7f68"
+  },
+  "BB": {
+    "character": "BB",
+    "node_id": "node_69",
+    "poignancy": 10.0,
+    "metadata": {
+      "node_type": "chat",
+      "subject": "BB",
+      "predicate": "对话",
+      "object": "MissT",
+      "address": "the Ville:操场:幼儿园",
+      "poignancy": 10,
+      "election": 9,
+      "AAfriend": 0,
+      "flapflap": 0,
+      "flapeye": 0,
+      "create": "20250512-12:48:00",
+      "expire": "20250611-12:48:00",
+      "access": "20250512-12:48:00"
+    },
+    "text": "BB 两个小朋友都轻轻地“嗯”了一声，像两只小鸟互相点点头，谁也没多说，但都知道对方在听呢！(✧ω✧)",
+    "doc_hash": "e7e0f38e698d2e5dccef105b23d0726926adf7ebc8fe2aee8593eb7988155fd2"
+  },
+  "QQ": {
+    "character": "QQ",
+    "node_id": "node_240",
+    "poignancy": 10.0,
+    "metadata": {
+      "node_type": "chat",
+      "subject": "QQ",
+      "predicate": "对话",
+      "object": "MissT",
+      "address": "the Ville:爬行毯:教室:幼儿园",
+      "poignancy": 10,
+      "election": 9,
+      "AAfriend": 0,
+      "flapflap": 0,
+      "flapeye": 0,
+      "create": "20250512-16:33:00",
+      "expire": "20250611-16:33:00",
+      "access": "20250512-16:33:00"
+    },
+    "text": "MissT老师轻轻“嗯”了一声，QQ小朋友超兴奋地邀请她去秘密基地玩恐龙游戏，还骄傲地说自己的霸王龙最厉害！(◕‿◕✿)",
+    "doc_hash": "0ed0ab6ef6b0b16c47ac6d63fa7cddfd61f072d2ac89f032b3a36e70c7e1386c"
+  },
+  "MissT": {
+    "character": "MissT",
+    "node_id": "node_106",
+    "poignancy": 9.0,
+    "metadata": {
+      "node_type": "event",
+      "subject": "MissT",
+      "predicate": "此时",
+      "object": "引导其他孩子鼓掌感谢AA：\"大家看，AA帮助我们多认真呀！\"",
+      "address": "the Ville:幼儿园:教室:皮鼓",
+      "poignancy": 9,
+      "election": 9,
+      "AAfriend": 0,
+      "flapflap": 0,
+      "flapeye": 0,
+      "create": "20250512-13:45:00",
+      "expire": "20250611-13:45:00",
+      "access": "20250512-13:45:00"
+    },
+    "text": "MissT 引导其他孩子鼓掌感谢AA：\"大家看，AA帮助我们多认真呀！\"",
+    "doc_hash": "25c3478e19fd0c224653bf62f9490a16ecdc82b511a5ee0f985a92451e3e0591"
+  }
+}

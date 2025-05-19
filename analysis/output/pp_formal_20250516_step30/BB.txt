@@ -1,0 +1,1907 @@
+===== Node: node_0 =====
+Type: thought
+Subject: BB
+Predicate: 计划
+Object: 2025年05月12日（星期一）09:00
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:00:00
+Expire: 20250611-09:00:00
+Access: 20250512-09:00:00
+Doc Hash: 20d8d919b236806fc13d68314a08d80f2234e542ad47007a8129325e470a887e
+Text:
+这是 BB 在 2025年05月12日（星期一）09:00 的计划：早上7点到幼儿园教室，向MissT老师问好并整理自己的小书包；早上7:30和同桌小朋友分享自编的“秘密花园音乐”钢琴曲；早上8点参与晨圈活动，主动牵新朋友的手唱《早安歌》；早上8:30在美工区用黏土制作“竞选班长小勋章”分发给同学；上午9点上课时举手说：“我可以帮发蜡笔给大家吗？”；上午10点点心时间把自己的水果分给害羞的小朋友；上午10:30户外活动前提醒大家：“我们要排队轮流玩滑梯哦”；中午11:30午餐后主动收拾餐盘并擦拭桌子；中午12点午休时轻声给睡不着的小朋友哼《小星星》；下午1:30在操场教同学用树叶拼“班长”字样并拍照留念；下午2:30自由活动时组织“花朵跳舞”钢琴小音乐会；下午3:30离园前对每个同学说：“明天选班长请投我一票呀！”
+
+===== Node: node_1 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 安静坐好，观察老师准备课堂材料
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 7552841c402c9f0c8f2b95238f7e3e0637306aabdc00869ab0f5da367eeb0cd8
+Text:
+BB 安静坐好，观察老师准备课堂材料
+
+===== Node: node_10 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在运作中
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 79369815fb2c1be9aa6e7c1faa85fc097c4d0d63620b3aa954db99ad4eb5649c
+Text:
+幼儿园 正在运作中
+
+===== Node: node_100 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在清洁中
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 3
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:40:00
+Expire: 20250611-12:40:00
+Access: 20250512-12:40:00
+Doc Hash: 2dfb300ff8add137288911ee7c830f40cd8b068e42c775a5883fb8d086041e4b
+Text:
+幼儿园 正在清洁中
+
+===== Node: node_101 =====
+Type: event
+Subject: PP
+Predicate: 对话
+Object: EE
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:40:00
+Expire: 20250611-12:40:00
+Access: 20250512-12:40:00
+Doc Hash: 996d9880f48ac35b27c7b91d6f7af5cc94df6a95f20ad35aa6fd00f85b0f976e
+Text:
+PP邀请EE加入泡泡英雄团队，EE拒绝并坚持要玩自己的闪亮比赛，要求大家服从她的规则。PP提议兼顾双方游戏，但EE态度强硬，威胁不妥协就绝交。
+
+===== Node: node_102 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 检查地面并捡拾食物残渣（原12:35-12:40压缩为4分钟）
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:40:00
+Expire: 20250611-12:40:00
+Access: 20250512-12:40:00
+Doc Hash: ba363c092ba7cbbfc1e0ce6ea58867937c6c91bc22ef662f1ea97e351fb35a40
+Text:
+BB 检查地面并捡拾食物残渣（原12:35-12:40压缩为4分钟）
+
+===== Node: node_103 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 活动进行中
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:50:00
+Expire: 20250611-12:50:00
+Access: 20250512-12:50:00
+Doc Hash: c0669e15a9cda504c5160de11f82cae6dbba5b35db98de195cbc304dbac87755
+Text:
+幼儿园 活动进行中
+
+===== Node: node_104 =====
+Type: event
+Subject: PP
+Predicate: 对话
+Object: BB
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:50:00
+Expire: 20250611-12:50:00
+Access: 20250512-12:50:00
+Doc Hash: b0d081c4432fe96089364a000033c7e2c371d0899e877eb3257c96aa90baeac6
+Text:
+BB和PP发现EE不开心，决定一起关心她。他们提议结合泡泡英雄和闪亮比赛设计游戏，创造泡泡魔法星星和闪亮陷阱保护蝴蝶城堡，并强调要尊重EE的想法。两人默契配合，计划温柔邀请EE，像超级英雄团队般团结友爱，注重倾听与分享快乐。
+
+===== Node: node_105 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 发现无人理会自己的抗议，主动返回群体但拒绝参与当前活动
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:50:00
+Expire: 20250611-12:50:00
+Access: 20250512-12:50:00
+Doc Hash: 053fd40c775445f8db55024519e053aee95f31aef0715f68f62867ff07e42ae3
+Text:
+EE 发现无人理会自己的抗议，主动返回群体但拒绝参与当前活动
+
+===== Node: node_11 =====
+Type: chat
+Subject: BB
+Predicate: 对话
+Object: AA
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 6
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 5e34085ce42801e8a3abc4d0efda4dc10c744758a8d35dfcf002b904e6c0492c
+Text:
+AA和BB讨论当班长和恐龙爱好，AA强调班长应记录生日和天气，喜欢霸王龙但讨厌钢琴声；BB提议合作做霸王龙勋章和画“天气生日板”，AA负责天气，BB画蛋糕，共同服务同学。
+
+===== Node: node_12 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 在规则手册上画战斗场景时，主动分给AA同学一支彩色蜡笔
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:00:00
+Expire: 20250611-10:00:00
+Access: 20250512-10:00:00
+Doc Hash: 5ce7b2cd50831b23aafc902d7e9130c42c3a6a9af9e88e39627443c8ec3ca272
+Text:
+MM 在规则手册上画战斗场景时，主动分给AA同学一支彩色蜡笔
+
+===== Node: node_13 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在运营中
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:10:00
+Expire: 20250611-10:10:00
+Access: 20250512-10:10:00
+Doc Hash: 20682cedf73ffa21ddadf8db27624be152e2d7aaa54066f39131470e49333ac8
+Text:
+幼儿园 正在运营中
+
+===== Node: node_14 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 帮老师收绘本前先确认："我可以当霸王龙搬运工吗？"
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:10:00
+Expire: 20250611-10:10:00
+Access: 20250512-10:10:00
+Doc Hash: a68fb7f2b220f19e6f5a65e17a3642cf8b74e416d12392fae2f2022aaec5098d
+Text:
+MM 帮老师收绘本前先确认："我可以当霸王龙搬运工吗？"
+
+===== Node: node_15 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满童趣互动
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: a646ddfea74e4ac44ddf6fbc6a70de90f8f642ba0d48ad62dd73b0927fc341b9
+Text:
+幼儿园 充满童趣互动
+
+===== Node: node_16 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 跑到点心桌前挑选最闪亮的饼干
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 9663cef4b981f036c660b2ffc9cc72976a1015dcdad574176a67cbd91c404f72
+Text:
+II 跑到点心桌前挑选最闪亮的饼干
+
+===== Node: node_17 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 主动坐到害羞的小朋友旁边，微笑说“我们一起吃水果吧”
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 5ac6f46f0684b7239589230fca1f5f4c050ad3b27f955d05428577245dfd15af
+Text:
+BB 主动坐到害羞的小朋友旁边，微笑说“我们一起吃水果吧”
+
+===== Node: node_18 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 走到教室前排，等待老师宣布自我介绍开始
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:20:00
+Expire: 20250611-10:20:00
+Access: 20250512-10:20:00
+Doc Hash: 1524815a69ef72dcfdec0d2bfe0c19abbade4dea0ecf65045f186896884014b2
+Text:
+EE 走到教室前排，等待老师宣布自我介绍开始
+
+===== Node: node_19 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在开展互动活动
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: 273fd4280a016b749bbf591391a6c66f4255e443e21b75d161890d984b228ecf
+Text:
+幼儿园 正在开展互动活动
+
+===== Node: node_2 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 安静坐好，观察老师准备课堂材料
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 7552841c402c9f0c8f2b95238f7e3e0637306aabdc00869ab0f5da367eeb0cd8
+Text:
+BB 安静坐好，观察老师准备课堂材料
+
+===== Node: node_20 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 把饼干摆成舞台形状并大声宣布表演开始
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: 409346203526e6e7c46b1f8f31350befcc7f205fd45122c2d720a1419f3ec0b4
+Text:
+II 把饼干摆成舞台形状并大声宣布表演开始
+
+===== Node: node_21 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 轻声询问：“你喜欢草莓还是苹果呀？”
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: c6f74d130b63c00981072c204e08ac9aedd34bf7784ef62b1d6808e42f4f62ae
+Text:
+BB 轻声询问：“你喜欢草莓还是苹果呀？”
+
+===== Node: node_22 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 大声介绍自己的名字、年龄和新发夹
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 6
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: 7cfb958cc69f949617df2d434ffa42db974ff3424ab0637ba6a62c684fad5c2d
+Text:
+EE 大声介绍自己的名字、年龄和新发夹
+
+===== Node: node_23 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满欢声笑语
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: d3282fab3bd14091e00c5e7555adb638e61caa15c498eda9080b5f2058275bcd
+Text:
+幼儿园 充满欢声笑语
+
+===== Node: node_24 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 即兴编造"饼干超人"故事，手舞足蹈地表演
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 6
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 0f066a7608ef9716f8be374ec3de1b58a5144a09b2aacdcff6a3b3e0d3b05de5
+Text:
+II 即兴编造"饼干超人"故事，手舞足蹈地表演
+
+===== Node: node_25 =====
+Type: chat
+Subject: BB
+Predicate: 对话
+Object: II
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 9ce4dfefa3ac38713f4d0f4cc53e982a2cca914c16699bf4a4bbd86205aaaf88
+Text:
+II坚持饼干超人最厉害，拒绝合作；BB包容接纳，先认可对方再提议融合创意，被拒后尊重II的选择并保持开放态度，展现了以柔克刚的冲突解决智慧。（99字）
+
+===== Node: node_26 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 展示发夹并点名让特定小朋友评价
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 6
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 976f4cc5188366aba8896e7b8ade1c93dbc3b337f21dba4b3b879de790b6641c
+Text:
+EE 展示发夹并点名让特定小朋友评价
+
+===== Node: node_27 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 儿童通过主动分享（如食物、音乐）建立社交纽带，体现早期同理心培养的重要性。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 9fc250c983f730b931b725e71d6f22b5da8fd1b752cdecc1e36c471a35db0c83
+Text:
+BB 儿童通过主动分享（如食物、音乐）建立社交纽带，体现早期同理心培养的重要性。
+
+===== Node: node_28 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 角色扮演与创造性游戏（如恐龙搬运工、英雄城堡）是儿童社会规则认知与团队协作的雏形。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 4d0f592e9111db72b1e8b03a714867e906bb16a82f0b80b9d310654d37c2e604
+Text:
+BB 角色扮演与创造性游戏（如恐龙搬运工、英雄城堡）是儿童社会规则认知与团队协作的雏形。
+
+===== Node: node_29 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 教师引导下的任务分配（如发蜡笔）能激发儿童责任感与自主意识，促进领导力萌芽。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: b0e29eaca2425bf5920766af4c210593a76ddfa3be75d29b7e19c402ef5a2fa2
+Text:
+BB 教师引导下的任务分配（如发蜡笔）能激发儿童责任感与自主意识，促进领导力萌芽。
+
+===== Node: node_3 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 坐在绿色凳子上等待上课开始
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 3
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 1825072e75c957b82e668d12ee97a5391da69fffe1969a544d09435c3fc917f9
+Text:
+AA 坐在绿色凳子上等待上课开始
+
+===== Node: node_30 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 艺术表达（黏土勋章、树叶拼字）成为儿童政治竞选意识的非语言化启蒙载体。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 392a673bdda220dfb69e1eb0ee759560039228816c3ae603c5504909133e124a
+Text:
+BB 艺术表达（黏土勋章、树叶拼字）成为儿童政治竞选意识的非语言化启蒙载体。
+
+===== Node: node_31 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 情绪管理策略分化：内向儿童通过绘本稳定情绪，外向儿童用表演释放能量。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 2453a0e2439a34296604f88f94f068686df2b73a778d66b75b0bb3d071a94f1b
+Text:
+BB 情绪管理策略分化：内向儿童通过绘本稳定情绪，外向儿童用表演释放能量。
+
+===== Node: node_32 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 主动社交行为能有效缓解同伴害羞情绪，促进互动融入
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: bad0d542741d35e5dfc105daa9ebe008a09eb5f5aa4c658b0dfc8ca5f40f912f
+Text:
+BB 主动社交行为能有效缓解同伴害羞情绪，促进互动融入
+
+===== Node: node_33 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 童趣化任务设计（如"霸王龙搬运工"）显著提升儿童执行指令的积极性
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: e408433f677f58f765642c82b5a604c5c6465c25fcb1494dc7b9727071b67872
+Text:
+BB 童趣化任务设计（如"霸王龙搬运工"）显著提升儿童执行指令的积极性
+
+===== Node: node_34 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 艺术表达（音乐/美工）是幼儿建立社交影响力的有效媒介
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: d892bab0366560419146d5a5e1ed101a8aceeb861023715432d0a83f36b6b872
+Text:
+BB 艺术表达（音乐/美工）是幼儿建立社交影响力的有效媒介
+
+===== Node: node_35 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 规则内化的关键在将抽象要求转化为具象角色扮演（如排队→滑梯管理员）
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: dee8685b0d9ac845bdf7dbb9ccc20ffeec7d294f766c55b6980e3af9a3a28a8f
+Text:
+BB 规则内化的关键在将抽象要求转化为具象角色扮演（如排队→滑梯管理员）
+
+===== Node: node_36 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 合作性游戏设计能激发复杂问题解决能力与团队意识
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: fe2d00a0dfd0694064b089b7783538f4855d1153a9f4fd047f5ae12f47fcdf02
+Text:
+BB 合作性游戏设计能激发复杂问题解决能力与团队意识
+
+===== Node: node_37 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 儿童通过创造性表演（如饼干舞台）和主动社交（如邀请害羞同伴）展现领导力萌芽，暗示游戏是早期社会性发展的关键载体。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 21184d5c12eeec5dab5002e7abef69cde5896c4575ad8583fa4f5c11119a2c84
+Text:
+BB 儿童通过创造性表演（如饼干舞台）和主动社交（如邀请害羞同伴）展现领导力萌芽，暗示游戏是早期社会性发展的关键载体。
+
+===== Node: node_38 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 规则内化与想象力并存：MM在遵守收纳指令时融入角色扮演（霸王龙搬运工），显示儿童能将规范与幻想创造性结合。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: c0562dc7fdcc12c3487896ec1c0d6919f5861ed79720c8d8e8ec9beb89d7e214
+Text:
+BB 规则内化与想象力并存：MM在遵守收纳指令时融入角色扮演（霸王龙搬运工），显示儿童能将规范与幻想创造性结合。
+
+===== Node: node_39 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 物质分享的深层动机：BB分发蜡笔时关注个体偏好（询问颜色/水果），揭示高阶共情能力正在通过具体互动形成。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 3fec32cb1b6dee770e9af3f222c89703ef8fd06a2c53b6c9d03395c717face16
+Text:
+物质分享的深层动机：BB分发蜡笔时关注个体偏好（询问颜色/水果），揭示高阶共情能力正在通过具体互动形成。
+
+===== Node: node_4 =====
+Type: event
+Subject: KK
+Predicate: 对话
+Object: CC
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:10:00
+Expire: 20250611-09:10:00
+Access: 20250512-09:10:00
+Doc Hash: 2700160da323e8da8a6914573e2d4a3adf1762c1f8d4a910d311aa518fba91ed
+Text:
+KK和CC一起用积木搭建超级英雄城堡，设计了火山陷阱、瞭望台和岩浆瀑布等关卡，并约定喊口号“英雄无敌”跳跃。他们还计划建造会喷水的魔法墙陷阱，用“泡泡攻击”击退敌人，合作扮演英雄守护基地。
+
+===== Node: node_40 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 竞选行为中的隐性学习：BB通过黏土勋章、树叶拼字等具象化手段拉票，反映幼儿已掌握符号化表达与社会资本积累的初级策略。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 03bb0079aaed680028f4ef6aa5b6bf4298c351f861758de0b12868f0856fd30a
+Text:
+竞选行为中的隐性学习：BB通过黏土勋章、树叶拼字等具象化手段拉票，反映幼儿已掌握符号化表达与社会资本积累的初级策略。
+
+===== Node: node_41 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 协作游戏中的系统思维：KK和CC设计复杂城堡陷阱（火山/魔法墙），展现幼儿在合作中发展出目标分解与风险预判能力。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 96deeb63b64d04eb01fefe8ea6464d9044f30669cbffa6a5ffa8f40d372ca8e0
+Text:
+BB 协作游戏中的系统思维：KK和CC设计复杂城堡陷阱（火山/魔法墙），展现幼儿在合作中发展出目标分解与风险预判能力。
+
+===== Node: node_42 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 对于 BB 的计划：BB需要记住自己与AA共同制定的计划，包括用画画记录生日和天气、制作霸王龙勋章以及创建“天气生日板”，同时也要灵活应对II的独断要求，保持开放态度以备后续可能的合作。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: c89d4dd5ba78291d6aea0180fc326b6ea4c01418104cb660594a2da2d48086a3
+Text:
+对于 BB 的计划：BB需要记住自己与AA共同制定的计划，包括用画画记录生日和天气、制作霸王龙勋章以及创建“天气生日板”，同时也要灵活应对II的独断要求，保持开放态度以备后续可能的合作。
+
+===== Node: node_43 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object:  BB最有趣的地方在于她总能以包容和创意的方式调和不同兴趣（如用黏土做恐龙勋章、提议画“天气生日板”），甚至在冲突中（如II坚持饼干超人故事时）也能温柔接纳对方，同时保留自己的独特想法。
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:40:00
+Expire: 20250611-10:40:00
+Access: 20250512-10:40:00
+Doc Hash: 96d7771c6ac86fc3cf44f4a96ae6c8335d4fe1e555312d23b0f89afcb592d6dc
+Text:
+BB BB最有趣的地方在于她总能以包容和创意的方式调和不同兴趣（如用黏土做恐龙勋章、提议画“天气生日板”），甚至在冲突中（如II坚持饼干超人故事时）也能温柔接纳对方，同时保留自己的独特想法。
+
+===== Node: node_44 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 提议：“下次我可以弹钢琴给你听哦！”（原45分任务压缩）
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:50:00
+Expire: 20250611-10:50:00
+Access: 20250512-10:50:00
+Doc Hash: 7733b244298f71760e7ad33ae7813c8fd5e61aafaeca7f55869de8815c7fb05d
+Text:
+BB 提议：“下次我可以弹钢琴给你听哦！”（原45分任务压缩）
+
+===== Node: node_45 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 对其他小朋友的自我介绍简短回应（如“我的发夹更好看”）
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:50:00
+Expire: 20250611-10:50:00
+Access: 20250512-10:50:00
+Doc Hash: 854dfe660511e7ef905b4fa7f74be0f961d2b5b4cdeaf8e35d1f7de221b40c4e
+Text:
+EE 对其他小朋友的自我介绍简短回应（如“我的发夹更好看”）
+
+===== Node: node_46 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在课后整理中
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: fc79afffec76532a1fab95ab53c78a127f5fe291f1742287dd4d7ef4db65d6b5
+Text:
+幼儿园 正在课后整理中
+
+===== Node: node_47 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 模仿动画片台词夸张地转圈
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: dcead2bd68041da3caee3b93d4861feba0e3603ad994453376b83dcc73ef6297
+Text:
+II 模仿动画片台词夸张地转圈
+
+===== Node: node_48 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 帮助老师收拾全班点心垃圾（原55分任务提前并缩短）
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: d64e3bc75ac9d64aab96fa83d081db0df83b313247c4725bfde7bef542d0665c
+Text:
+BB 帮助老师收拾全班点心垃圾（原55分任务提前并缩短）
+
+===== Node: node_49 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 被拒绝后撅嘴，但很快被新活动吸引
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 734dfa440d1caa9471354c1afbef5c68e0ed6444e62b2742fc6b59a9508c6315
+Text:
+EE 被拒绝后撅嘴，但很快被新活动吸引
+
+===== Node: node_5 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 主动举手说：“我可以帮发蜡笔给大家吗？”
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:20:00
+Expire: 20250611-09:20:00
+Access: 20250512-09:20:00
+Doc Hash: 0b8941ca18e7410a7d0fafae0f41b7e55bf5e9e5fe23ce0cc92846b0fb12cf7a
+Text:
+BB 主动举手说：“我可以帮发蜡笔给大家吗？”
+
+===== Node: node_50 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满喧闹声
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:10:00
+Expire: 20250611-11:10:00
+Access: 20250512-11:10:00
+Doc Hash: b6291267fe8e87a568b6810220e18185e07740bb401c1da415cb1d595a430f09
+Text:
+幼儿园 充满喧闹声
+
+===== Node: node_51 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 发现别人不关注就提高音量重复表演
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:10:00
+Expire: 20250611-11:10:00
+Access: 20250512-11:10:00
+Doc Hash: 83ebb8c6ed73db83282a6113a77f44fd767e12b6ef93fc55a5293baec254ebd5
+Text:
+II 发现别人不关注就提高音量重复表演
+
+===== Node: node_52 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 观察哪些小朋友在玩滑梯时显得犹豫或害羞
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:10:00
+Expire: 20250611-11:10:00
+Access: 20250512-11:10:00
+Doc Hash: 41dd76f88a5081d2a82c1743cf2a2281f0f874ae03e48b32836ae0e7262af5b3
+Text:
+BB 观察哪些小朋友在玩滑梯时显得犹豫或害羞
+
+===== Node: node_53 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在活跃教学中
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 6
+Create: 20250512-11:20:00
+Expire: 20250611-11:20:00
+Access: 20250512-11:20:00
+Doc Hash: e47c205374f3acc34fa893a9fccaedda9fdfc2cddbfeeb9dd9401ccf5c9f39da
+Text:
+幼儿园 正在活跃教学中
+
+===== Node: node_54 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 安静地坐在音乐课座位上，观察老师和同学们
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:20:00
+Expire: 20250611-11:20:00
+Access: 20250512-11:20:00
+Doc Hash: 6067a4d1530481ecd8fe1e93efc07af81ad56f2f75d29e940c88abd747a7de3a
+Text:
+DD 安静地坐在音乐课座位上，观察老师和同学们
+
+===== Node: node_55 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 巡回观察各组，用提问鼓励协作（如"小E的树叶画得真特别，谁能说说为什么？"）
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:20:00
+Expire: 20250611-11:20:00
+Access: 20250512-11:20:00
+Doc Hash: 3b16f7e4531eeb777735f72680dfe3bdef51f891fc0b4d8db4c6f8686b4b5c20
+Text:
+MissT 巡回观察各组，用提问鼓励协作（如"小E的树叶画得真特别，谁能说说为什么？"）
+
+===== Node: node_56 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 示范如何安全排队，并解释规则：“我们可以数到10就换人哦～”
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:30:00
+Expire: 20250611-11:30:00
+Access: 20250512-11:30:00
+Doc Hash: 8be0d8824da7cae317f9d34c327e6b3fee5b82f7a1bbf885ba0b8df10b7d769f
+Text:
+BB 示范如何安全排队，并解释规则：“我们可以数到10就换人哦～”
+
+===== Node: node_57 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满涂鸦材料
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:40:00
+Expire: 20250611-11:40:00
+Access: 20250512-11:40:00
+Doc Hash: 6dbd8b8db8e9e8d30e84ac3c363539d8670a376b541ea8dae2a2ea28ffc8e1e8
+Text:
+幼儿园 充满涂鸦材料
+
+===== Node: node_58 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 在滑梯旁鼓励其他小朋友：“大家轮流玩会更开心！”
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:40:00
+Expire: 20250611-11:40:00
+Access: 20250512-11:40:00
+Doc Hash: 9a5cfbf59feec7a18b7f298d7c5f983254df5fb8cda5a422b117e4ea92787f30
+Text:
+BB 在滑梯旁鼓励其他小朋友：“大家轮流玩会更开心！”
+
+===== Node: node_59 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 用手指蘸颜料开始画花朵
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:40:00
+Expire: 20250611-11:40:00
+Access: 20250512-11:40:00
+Doc Hash: f729ee4114d02664ffcd9cee3f77dafc61446ad514dccc51fcac670fe663cc0e
+Text:
+CC 用手指蘸颜料开始画花朵
+
+===== Node: node_6 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 按老师指示分发蜡笔，轻声询问同学喜欢的颜色
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:40:00
+Expire: 20250611-09:40:00
+Access: 20250512-09:40:00
+Doc Hash: 743233fa082e0985e2cc953d33a08114eec1706c4d3cd6e89c66fb322591f419
+Text:
+BB 按老师指示分发蜡笔，轻声询问同学喜欢的颜色
+
+===== Node: node_60 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 指挥其他小朋友分组
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:40:00
+Expire: 20250611-11:40:00
+Access: 20250512-11:40:00
+Doc Hash: fc0ea984c5f3d4fd7bb458cd9e36207dada4c6425b85e655ecab708d8877be06
+Text:
+EE 指挥其他小朋友分组
+
+===== Node: node_61 =====
+Type: event
+Subject: OO
+Predicate: 此时
+Object: 呆呆地观察周围小朋友，模仿他们的画画动作
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:40:00
+Expire: 20250611-11:40:00
+Access: 20250512-11:40:00
+Doc Hash: 09d0dd46239351b0bed8879c60ac4ffd36b4a309c726ea5c4f350949d11ce4af
+Text:
+OO 呆呆地观察周围小朋友，模仿他们的画画动作
+
+===== Node: node_62 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 被老师批评后，嘟囔着开始胡乱涂鸦手工材料
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:40:00
+Expire: 20250611-11:40:00
+Access: 20250512-11:40:00
+Doc Hash: 4d424fa909f8416539a2b908cbe4b78cca336a8f3db48a60c49b25e2e275343b
+Text:
+QQ 被老师批评后，嘟囔着开始胡乱涂鸦手工材料
+
+===== Node: node_63 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在上课
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:50:00
+Expire: 20250611-11:50:00
+Access: 20250512-11:50:00
+Doc Hash: 67d268cb1574657c3a24733aa22de92906ccb13e997e3972a7e47796a29e94fd
+Text:
+幼儿园 正在上课
+
+===== Node: node_64 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 帮助老师维持队伍秩序，提醒插队的孩子
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:50:00
+Expire: 20250611-11:50:00
+Access: 20250512-11:50:00
+Doc Hash: a1821f005e7e107eb0f9717b10c711a17f4b6f1e19989f147a8a74597618c0a2
+Text:
+BB 帮助老师维持队伍秩序，提醒插队的孩子
+
+===== Node: node_65 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 活动结束时感谢配合的小朋友：“你们都是排队小能手！”
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:00:00
+Expire: 20250611-12:00:00
+Access: 20250512-12:00:00
+Doc Hash: f13afabd96bf71a8ac0b396f736a217b8254f6ec091970b2341d54f927b049e9
+Text:
+BB 活动结束时感谢配合的小朋友：“你们都是排队小能手！”
+
+===== Node: node_66 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在午休整理
+Address: the Ville:台灯:教室:幼儿园
+Poignancy: 3
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:10:00
+Expire: 20250611-12:10:00
+Access: 20250512-12:10:00
+Doc Hash: 8b962fa3fee1f28ecd9699e5bd38b4720a52141d197c1f29f404d7c99d981204
+Text:
+幼儿园 正在午休整理
+
+===== Node: node_67 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 吃完午餐后主动收拾自己的餐盘
+Address: the Ville:台灯:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:10:00
+Expire: 20250611-12:10:00
+Access: 20250512-12:10:00
+Doc Hash: 4571cdce46477e157824b47b764d6dac0e709bd60adc0b854241063756b87a5a
+Text:
+BB 吃完午餐后主动收拾自己的餐盘
+
+===== Node: node_68 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 吃完午餐后主动收拾自己的餐盘
+Address: the Ville:台灯:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:10:00
+Expire: 20250611-12:10:00
+Access: 20250512-12:10:00
+Doc Hash: 4571cdce46477e157824b47b764d6dac0e709bd60adc0b854241063756b87a5a
+Text:
+BB 吃完午餐后主动收拾自己的餐盘
+
+===== Node: node_69 =====
+Type: event
+Subject: AA
+Predicate: 对话
+Object: JJ
+Address: the Ville:绿色椅子:教室:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:10:00
+Expire: 20250611-12:10:00
+Access: 20250512-12:10:00
+Doc Hash: 0eed18344d415eab0fcf52609421067756d1c276d35621f3efa1ef1a820dbd48
+Text:
+两位朋友AA和JJ热情讨论创作恐龙与长颈鹿主题的投票海报，结合科学知识设计互动环节：霸王龙吼叫开场，长颈鹿点头计票，用蜡笔画投票树挂画作统计，并模拟主持人采访，将投票过程趣味化。（99字）
+
+===== Node: node_7 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在上课
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:50:00
+Expire: 20250611-09:50:00
+Access: 20250512-09:50:00
+Doc Hash: a87806927b674370b175f5ae922d90e3948c077726f7b653231c4486447a3b74
+Text:
+幼儿园 正在上课
+
+===== Node: node_70 =====
+Type: chat
+Subject: BB
+Predicate: 对话
+Object: AA
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: dd8efa51243e7e6699ec99252301abc772ab0adc5c94da54062f33a2dcc6c9e2
+Text:
+AA和BB合作制作霸王龙勋章和天气生日板：记录2025年5月12日晴朗天气（22℃），用绿色蜡笔涂勋章并标注霸王龙12800牛顿咬合力（相当于小轿车重量），同时计划用蓝黄色彩绘生日板，过程中AA分享恐龙知识，BB配合手工与绘画。（99字）
+
+===== Node: node_71 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 听到下课铃后收拾画具，把手指画作品放进书包
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 6bb81dc402626316ace25d1dcca51d9d564bde6a93f4e8b4c4e6accb9b885dbf
+Text:
+CC 听到下课铃后收拾画具，把手指画作品放进书包
+
+===== Node: node_72 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 跟随老师指令，安静排队走向洗手间
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 3
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 014cbbdeb8bac45cfd0c1b323c681738ad89e6b7f214aca6e51f072e4bc111ce
+Text:
+DD 跟随老师指令，安静排队走向洗手间
+
+===== Node: node_73 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 排队洗手准备午餐
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 3
+Election: 2
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 58ecfd00990c63870160fa6f74f52797f7c9cde464bf7f4e9cbe3a3961748a96
+Text:
+KK 排队洗手准备午餐
+
+===== Node: node_74 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 找到自己的座位，安静坐下
+Address: the Ville:绿色椅子:教室:幼儿园
+Poignancy: 3
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 82974857c4ddb86a5d6ee851a2acf0c6ead3f868d48c0353f0f75f1adf11c808
+Text:
+LL 找到自己的座位，安静坐下
+
+===== Node: node_75 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 排队洗手准备午餐
+Address: the Ville:毛绒玩具:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: eeb07f57d80b7ce48b6cebd44a32f754530308a2d5dda2f203b3877ba9c8d551
+Text:
+FF 排队洗手准备午餐
+
+===== Node: node_76 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 走到洗手间并排队等待洗手
+Address: the Ville:毛绒玩具:教室:幼儿园
+Poignancy: 3
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 407b2107e39af6948ffe80958be13aaf01a9ff8495ce6010e296f05481440448
+Text:
+MM 走到洗手间并排队等待洗手
+
+===== Node: node_77 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 儿童通过艺术表达（黏土勋章、树叶拼字）和创造性表演（饼干舞台）实现社会资本积累与领导力萌芽，反映符号化策略的早期掌握。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 50f306402ba6949ce23fee8db93de0173b8b6de9fb19b9af662ea8401e42f056
+Text:
+BB 儿童通过艺术表达（黏土勋章、树叶拼字）和创造性表演（饼干舞台）实现社会资本积累与领导力萌芽，反映符号化策略的早期掌握。
+
+===== Node: node_78 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 物质分享中关注个体偏好（颜色/水果）揭示高阶共情能力的形成，显示具体互动是同理心培养的关键载体。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 82ecca74332eaf4ab6d5977f0a40dcdf51cac83eb78f193d8d6d2ef9ba458bee
+Text:
+BB 物质分享中关注个体偏好（颜色/水果）揭示高阶共情能力的形成，显示具体互动是同理心培养的关键载体。
+
+===== Node: node_79 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 角色扮演（霸王龙搬运工）将规则内化与想象力结合，体现儿童在规范中创造性整合幻想的能力。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 5bf9a297d74b7f2837b02e9b2111bc9332e4c167995a0c378d2f1d9e848eb322
+Text:
+BB 角色扮演（霸王龙搬运工）将规则内化与想象力结合，体现儿童在规范中创造性整合幻想的能力。
+
+===== Node: node_8 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 回到座位后，用蜡笔画一幅“大家一起画画”的简笔画
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:50:00
+Expire: 20250611-09:50:00
+Access: 20250512-09:50:00
+Doc Hash: cb52aca3b69dc9f11fbcca3cd1e328b4c7ca406b5c26beecd6b9980fab32101b
+Text:
+BB 回到座位后，用蜡笔画一幅“大家一起画画”的简笔画
+
+===== Node: node_80 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 包容性创意（黏土恐龙勋章、天气生日板）调和冲突并保留独特性，展现儿童社交中的柔性领导力。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: b7e0764fcda82fd7d43f8dd012088757df8b05064467a40e144142f2cfe4d69b
+Text:
+BB 包容性创意（黏土恐龙勋章、天气生日板）调和冲突并保留独特性，展现儿童社交中的柔性领导力。
+
+===== Node: node_81 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 合作性游戏（城堡陷阱设计）促进目标分解与风险预判，显示幼儿在团队协作中发展系统思维。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 04315fe1ee10215a0e33444d89870cf8dbc3d906dbabffb2ad576f7073d121bb
+Text:
+BB 合作性游戏（城堡陷阱设计）促进目标分解与风险预判，显示幼儿在团队协作中发展系统思维。
+
+===== Node: node_82 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 创造性包容行为（如黏土勋章）能化解冲突并促进社交融合，体现幼儿高阶共情与领导力萌芽。
+Address: the Ville:操场:幼儿园
+Poignancy: 9
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: f810d85bf9e33165dc0bdf883678d6fb1b684fc14e792b2343ee073d12a526af
+Text:
+BB 创造性包容行为（如黏土勋章）能化解冲突并促进社交融合，体现幼儿高阶共情与领导力萌芽。
+
+===== Node: node_83 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 具象化角色扮演（如霸王龙搬运工）将抽象规则转化为内在动机，实现规范与想象力的创造性结合。
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: ced989463694925d240c2cc0ab458e9b89f2ad51ef8312308cf430c70f3026c2
+Text:
+BB 具象化角色扮演（如霸王龙搬运工）将抽象规则转化为内在动机，实现规范与想象力的创造性结合。
+
+===== Node: node_84 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 物质分享中的个性化关注（询问颜色偏好）揭示幼儿共情能力正通过微观互动向高阶发展。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 35d2e84cf3a01281b9010cc9cde4c8480a40e9f831f58b33f1b5be055fb0c6eb
+Text:
+BB 物质分享中的个性化关注（询问颜色偏好）揭示幼儿共情能力正通过微观互动向高阶发展。
+
+===== Node: node_85 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 符号化竞选策略（树叶拼字/黏土勋章）反映幼儿已掌握社会资本积累的初级政治社会化能力。
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 6
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: bca09f9fca367cb68099acabd38da6c68fc7c925bae6eb17f0e8af7f1aa4d2cf
+Text:
+BB 符号化竞选策略（树叶拼字/黏土勋章）反映幼儿已掌握社会资本积累的初级政治社会化能力。
+
+===== Node: node_86 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 外向表演与内向阅读的分化策略显示幼儿情绪管理能力存在个性化发展路径。
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 14e729d2c5b6d22b04683ac48a59c1894eda8a537c22c5b745261e3bad9ea283
+Text:
+BB 外向表演与内向阅读的分化策略显示幼儿情绪管理能力存在个性化发展路径。
+
+===== Node: node_87 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 童趣化角色扮演将抽象规则转化为具象行为，促进儿童规则内化与执行力提升
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: db600348e1ed92ea19294935cb7de7817b19af4b6d2bc6643df849c1d82c5201
+Text:
+BB 童趣化角色扮演将抽象规则转化为具象行为，促进儿童规则内化与执行力提升
+
+===== Node: node_88 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 差异化情绪管理策略反映儿童性格特质，内向者需静态媒介，外向者需动态表达
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: c82c42220f6394748b7d9571fe8df8079ffe2dc51c34d83d1ddbf7542a20ee46
+Text:
+BB 差异化情绪管理策略反映儿童性格特质，内向者需静态媒介，外向者需动态表达
+
+===== Node: node_89 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 创造性物质分享（关注偏好）与艺术互动是培养高阶共情的有效路径
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 0e5e67179f5e98fa9f3c881548517121651c9f80c50486713464b12df09bca53
+Text:
+BB 创造性物质分享（关注偏好）与艺术互动是培养高阶共情的有效路径
+
+===== Node: node_9 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 翻看恐龙绘本稳定情绪
+Address: the Ville:书架:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:50:00
+Expire: 20250611-09:50:00
+Access: 20250512-09:50:00
+Doc Hash: 1405bcfaaece0a094bcfd2bd512eb98d156f4f0517298a74ca99ac112646c2c8
+Text:
+AA 翻看恐龙绘本稳定情绪
+
+===== Node: node_90 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 合作性游戏中幼儿展现系统思维，能自主分解目标并预判风险
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 5a08fc35464c525341837e338c53318365af89f1e1e891fea53c27624876a90f
+Text:
+BB 合作性游戏中幼儿展现系统思维，能自主分解目标并预判风险
+
+===== Node: node_91 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 包容性领导力通过创意调和冲突（如黏土勋章），既接纳他人又保持自我主张
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: d4df705d9a6794edb575e4b73e4295b303aaa818be7c2aaa201abbb2aba6f94e
+Text:
+BB 包容性领导力通过创意调和冲突（如黏土勋章），既接纳他人又保持自我主张
+
+===== Node: node_92 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object: 对于 BB 的计划：BB需要记住自己的计划，因为他在对话中多次主动提出并确认与AA一起完成霸王龙勋章和天气生日板的步骤安排，包括涂色顺序、科学事实记录和绘画内容。
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 4b242d6d1027227a6822467d2c612db55e40cc00b64435b8c3bba97dd20cd503
+Text:
+对于 BB 的计划：BB需要记住自己的计划，因为他在对话中多次主动提出并确认与AA一起完成霸王龙勋章和天气生日板的步骤安排，包括涂色顺序、科学事实记录和绘画内容。
+
+===== Node: node_93 =====
+Type: thought
+Subject: BB
+Predicate: 此时
+Object:  "AA 将霸王龙的强大咬合力比作小轿车和三辆自行车的重量，让恐龙知识变得生动有趣，我们还能一起用绿色蜡笔制作安全的霸王龙勋章！"
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:20:00
+Expire: 20250611-12:20:00
+Access: 20250512-12:20:00
+Doc Hash: 8e3151eb6252e5c5090226be3324501b310dee3fca7c1f6e2d0b6c9e665c4015
+Text:
+BB "AA 将霸王龙的强大咬合力比作小轿车和三辆自行车的重量，让恐龙知识变得生动有趣，我们还能一起用绿色蜡笔制作安全的霸王龙勋章！"
+
+===== Node: node_94 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在午休整理
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 4
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: 753b7497fa8f21b5b83b01135a033b411f280c031e65ca5ee11495e20ad2f736
+Text:
+幼儿园 正在午休整理
+
+===== Node: node_95 =====
+Type: event
+Subject: PP
+Predicate: 此时
+Object: 主动和同桌小朋友打招呼，介绍自己
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: 410510ecacaec4b5cb97837369aba15b4921931077dbfc0ccfe23dd3b4e2d329
+Text:
+PP 主动和同桌小朋友打招呼，介绍自己
+
+===== Node: node_96 =====
+Type: event
+Subject: QQ
+Predicate: 对话
+Object: MissT
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: 9fe9010b58d594aeba0053962f8357c9fdb8306f04346ec8e775c72080207330
+Text:
+MissT引导QQ从恶作剧心态转变为负责任的行为，通过恐龙故事激励他清理打翻的果汁，最终QQ兴奋地化身"霸王龙清洁英雄"，在游戏化互动中完成任务。
+
+===== Node: node_97 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 快速帮助旁边的小朋友收拾餐盘（原12:10-12:25压缩为10分钟）
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 8
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: 6c1122e05ca7d50b2d5565a1562be22eec71c0fad20752b5ddde0c09d5c56fa6
+Text:
+BB 快速帮助旁边的小朋友收拾餐盘（原12:10-12:25压缩为10分钟）
+
+===== Node: node_98 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 向MissT老师展示自己的乐器并要求表扬
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 5
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: cf5976d9a41cc83d730abbb28bfaef29df80edf589ffff8e48194d0d37dbd5ec
+Text:
+EE 向MissT老师展示自己的乐器并要求表扬
+
+===== Node: node_99 =====
+Type: event
+Subject: MM
+Predicate: 对话
+Object: OO
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: 4cafc85474b01fa45ffa034ba160db8849caf0f64afb70e5fda1dca45e027312
+Text:
+MM 两个小伙伴兴奋地计划一起装饰英雄城堡，要给霸王龙做宝石项链，用彩色石头打造宝石大门和星星路，还约定巡逻时吼叫并跳转圈舞庆祝。

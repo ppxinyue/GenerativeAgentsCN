@@ -1,0 +1,1829 @@
+===== Node: node_0 =====
+Type: thought
+Subject: HH
+Predicate: 计划
+Object: 2025年05月12日（星期一）09:00
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 5
+flapflap: 6
+flapeye: 4
+Create: 20250512-09:00:00
+Expire: 20250611-09:00:00
+Access: 20250512-09:00:00
+Doc Hash: a7bd3cab61cff35957ecf6563b174aa720ee419dc912ec5f6ec4eb8d26cbe604
+Text:
+这是 HH 在 2025年05月12日（星期一）09:00 的计划：早上8点来到幼儿园教室，抱着点点熊向MissT老师问好；早上8:15和小朋友们一起整理书包，小声分享点点的故事；早上9:00参与开学晨圈活动，害羞地模仿老师动作；上午10:00在美工区给娃娃换衣服，帮同桌递彩纸；上午10:30点心时间，把饼干掰成两半分给没带零食的小朋友；中午11:00听老师讲《好朋友》绘本，听到难过情节时摸摸点点的头；中午12:00午餐时用气音说"谢谢老师"，把胡萝卜挑到餐盘角落；下午1:00午睡搂着点点，给隔壁床哭闹的小朋友递纸巾；下午2:30户外活动时牵着老师衣角滑滑梯，落地后对同伴笑；下午3:20讨论明天班长选举，小声提议"可以举手投票呀"；下午4:00放学时挥手说"明天见"，把点点熊举起来作告别动作
+
+===== Node: node_1 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: GG
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 6
+flapeye: 4
+Create: 20250512-09:03:00
+Expire: 20250611-09:03:00
+Access: 20250512-09:03:00
+Doc Hash: b20c0aaada6cceb9527065e8080dcc37c2c1eceb33e7ab4f862c88707fdd887c
+Text:
+点点熊和玩具电话都好玩！HH喜欢讲故事和喂点点熊，GG爱帮妈妈和学爸爸打电话。我们都有自己的玩具朋友～
+
+===== Node: node_10 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 跟着其他小朋友一起拍手唱歌，偶尔低头对点点熊说话（原09:15-09:30压缩）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:09:00
+Expire: 20250611-09:09:00
+Access: 20250512-09:09:00
+Doc Hash: d7ac2fb927b8c12fe51142fc7b11d4dcd060955bfd9f62f00d6bd33ac066fe3c
+Text:
+HH 跟着其他小朋友一起拍手唱歌，偶尔低头对点点熊说话（原09:15-09:30压缩）
+
+===== Node: node_100 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 抱着点点安静地坐在绘本区
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:06:00
+Expire: 20250611-11:06:00
+Access: 20250512-11:06:00
+Doc Hash: 6a06050ed28cdd7c8f05b53e129bd246da6d066d628bc2bc33d5659fbc0411f6
+Text:
+HH 抱着点点安静地坐在绘本区
+
+===== Node: node_11 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 引导小朋友们围坐成圆圈，强调“每个人都要认真听哦”
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:12:00
+Expire: 20250611-09:12:00
+Access: 20250512-09:12:00
+Doc Hash: 5eaf7caa23095b22500c43f05184474bc3db0ba9ec0d64e97fb15d7957323007
+Text:
+MissT 引导小朋友们围坐成圆圈，强调“每个人都要认真听哦”
+
+===== Node: node_12 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 和BB一起看书、弹钢琴和唱歌，BB还教LL用小木琴打节拍
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 5
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:15:00
+Expire: 20250611-09:15:00
+Access: 20250512-09:15:00
+Doc Hash: a14001b3c8ec74521755d5981951b7dce34766c75646fbf61312e72185470812
+Text:
+LL和BB一起看书、弹钢琴和唱歌，BB还教LL用小木琴打节拍
+
+===== Node: node_13 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 与FF击掌庆祝合作成功："闪电超人组合胜利！"（同步原计划分发铃铛时间）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:21:00
+Expire: 20250611-09:21:00
+Access: 20250512-09:21:00
+Doc Hash: ffa1dc0db4d49a6c8ce80477b4f110c7b0e79cc349f85db02b3f7d3ef8e96568
+Text:
+KK 与FF击掌庆祝合作成功："闪电超人组合胜利！"（同步原计划分发铃铛时间）
+
+===== Node: node_14 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 邀请LL共同整理乐器（简化互动，3分钟快速完成）
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 3
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:21:00
+Expire: 20250611-09:21:00
+Access: 20250512-09:21:00
+Doc Hash: 52bad7bee419fa5df921715f8dbf2982a94761606b3fa376adad575c525fceca
+Text:
+BB 邀请LL共同整理乐器（简化互动，3分钟快速完成）
+
+===== Node: node_15 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 被老师邀请上前时害羞地摇头，但主动把点点熊递给旁边小朋友摸（原09:30-09:40压缩）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:24:00
+Expire: 20250611-09:24:00
+Access: 20250512-09:24:00
+Doc Hash: 3cfa39bddea35372a4611837c067a8a4f025b2b6e26050d37c00b6d80370b557
+Text:
+HH 被老师邀请上前时害羞地摇头，但主动把点点熊递给旁边小朋友摸（原09:30-09:40压缩）
+
+===== Node: node_16 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 快速找到座位放下书包
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:24:00
+Expire: 20250611-09:24:00
+Access: 20250512-09:24:00
+Doc Hash: 292031d951dfdee5d58d8451d6f6100bed98571fae4aa7c566d91fa824d73829
+Text:
+LL 快速找到座位放下书包
+
+===== Node: node_17 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 制作彩泥朋友的身体部分（原13分钟→压缩为13分钟，加速制作）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:30:00
+Expire: 20250611-09:30:00
+Access: 20250512-09:30:00
+Doc Hash: 78a99397ca5617bcf066f3348c2a5a484f325761d9723b6ef792b036d8f13833
+Text:
+CC 制作彩泥朋友的身体部分（原13分钟→压缩为13分钟，加速制作）
+
+===== Node: node_18 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 帮捡起同学掉落的铃铛玩具递给老师（原09:40-09:45压缩）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:33:00
+Expire: 20250611-09:33:00
+Access: 20250512-09:33:00
+Doc Hash: 4857299e3bc8444aac89aaee7c2b999d8d100a496cb7cbabb9fce216c1be03d3
+Text:
+HH 帮捡起同学掉落的铃铛玩具递给老师（原09:40-09:45压缩）
+
+===== Node: node_19 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 和LL帮老师归位物品（延长至40分钟，含走动/整理耗时）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:36:00
+Expire: 20250611-09:36:00
+Access: 20250512-09:36:00
+Doc Hash: 6e129a6ce9250a2de848150d7afe1b76560e2e8a4f945ebeeb3e04b1bae83fac
+Text:
+BB 和LL帮老师归位物品（延长至40分钟，含走动/整理耗时）
+
+===== Node: node_2 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 小声模仿老师说的欢迎词并轻轻挥手（原09:05-09:15压缩）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 6
+flapeye: 4
+Create: 20250512-09:06:00
+Expire: 20250611-09:06:00
+Access: 20250512-09:06:00
+Doc Hash: e870bdedce6ef5c565401e30e5752575067c4052919d67c7288c8e879b0a3ac2
+Text:
+HH 小声模仿老师说的欢迎词并轻轻挥手（原09:05-09:15压缩）
+
+===== Node: node_20 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 用指尖轻轻拉住前面小朋友的衣角转圈圈（原09:45-09:55压缩）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:39:00
+Expire: 20250611-09:39:00
+Access: 20250512-09:39:00
+Doc Hash: e085d7975b18ae911171b206e1b9fdf2c4a67931daff6543a312e951dc4115df
+Text:
+HH 用指尖轻轻拉住前面小朋友的衣角转圈圈（原09:45-09:55压缩）
+
+===== Node: node_21 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 和旁边的小朋友手拉手，一起玩简单的拍手游戏（原10分钟保持）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:45:00
+Expire: 20250611-09:45:00
+Access: 20250512-09:45:00
+Doc Hash: 21634a39c1b860011821a109d3537d13301180f32fd0ce095211816651210eed
+Text:
+GG 和旁边的小朋友手拉手，一起玩简单的拍手游戏（原10分钟保持）
+
+===== Node: node_22 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 活动结束后快速回到座位，整理点点熊的围巾（延长7分钟以补足总时长）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:48:00
+Expire: 20250611-09:48:00
+Access: 20250512-09:48:00
+Doc Hash: 3af30ed9b1dcaa9ad8e2218b38d3048a34ee1f18fbb000c2b3d55e466dd71539
+Text:
+HH 活动结束后快速回到座位，整理点点熊的围巾（延长7分钟以补足总时长）
+
+===== Node: node_23 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 向MissT展示自己的新书包并等待表扬
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:48:00
+Expire: 20250611-09:48:00
+Access: 20250512-09:48:00
+Doc Hash: 9485550d14c613bf613f6f4d26d52982bb42040c1acebcf40e71f8429730d812
+Text:
+EE 向MissT展示自己的新书包并等待表扬
+
+===== Node: node_24 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在开展集体活动
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:54:00
+Expire: 20250611-09:54:00
+Access: 20250512-09:54:00
+Doc Hash: c62e6a4acfe5bbc675abcd3625c400c4aac5380421e9f8ee6b8f1fbc7f1097c3
+Text:
+幼儿园 正在开展集体活动
+
+===== Node: node_25 =====
+Type: event
+Subject: JJ
+Predicate: 此时
+Object: 帮老师整理地毯上的玩具，准备下一项活动
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:54:00
+Expire: 20250611-09:54:00
+Access: 20250512-09:54:00
+Doc Hash: c26ba0bad5702027d3e2f23d83289b3597e153f7be118fe099b7c72ececde8c8
+Text:
+JJ 帮老师整理地毯上的玩具，准备下一项活动
+
+===== Node: node_26 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 课间活动混乱中
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 367478db270b92e174b69e83f3ba024b53bf401b90d6f4e821ffd9134afa986e
+Text:
+幼儿园 课间活动混乱中
+
+===== Node: node_27 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 组织圆圈时间，用布偶玩具示范自我介绍：“我叫MissT，最喜欢和小朋友一起唱歌啦！”
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 2
+AAfriend: 6
+flapflap: 6
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: c4a49d2410097cd89ced0cd8fc30b527a950d019ccdb62c1128efdd6b22e26c4
+Text:
+组织圆圈时间，用布偶玩具示范自我介绍：“我叫MissT，最喜欢和小朋友一起唱歌啦！”
+
+===== Node: node_28 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 举起作品对MissT老师说："老师看！这是我的新朋友～"（原8分钟→压缩为5分钟，简短展示）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 6
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: d0ce849fa3d7ffe757e53ebb34b2e5d3c37028bf2fa5d73978ffc3a37770e834
+Text:
+CC 举起作品对MissT老师说："老师看！这是我的新朋友～"（原8分钟→压缩为5分钟，简短展示）
+
+===== Node: node_29 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 整理自己的座位和书包，准备下一项活动
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 3
+Election: 2
+AAfriend: 6
+flapflap: 6
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 95cdd9b2941497ab05fe6faa2050cb53df4942617acf3e53cb48f53ff0d4c4e4
+Text:
+DD 整理自己的座位和书包，准备下一项活动
+
+===== Node: node_3 =====
+Type: event
+Subject: NN
+Predicate: 对话
+Object: MM
+Address: the Ville:操场:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 6
+flapeye: 5
+Create: 20250512-09:06:00
+Expire: 20250611-09:06:00
+Access: 20250512-09:06:00
+Doc Hash: 97285b7db5b6869d4374eb93b852ff4fcc77a8f7a8e7ecda26295fc20e1b0545
+Text:
+两只小恐龙在玩！霸王龙MM和三角龙NN比赛谁更厉害，一个吼吼叫，一个用角角挡，一起开心打架龙~ (✪ω✪)
+
+===== Node: node_30 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 紧急整理书包+课间准备（原5分钟延长至24分钟，包含冲突事件耽误的时间）
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: b46f2569e4a67d9d93ff0ec0c94533f38828e34cf464b9823adb1d1c96974402
+Text:
+QQ 紧急整理书包+课间准备（原5分钟延长至24分钟，包含冲突事件耽误的时间）
+
+===== Node: node_31 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 每个人都不一样，可以按自己喜欢的方式玩游戏，这样大家都会开心！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: b5a8eebf0c4c18be4a208f63d737791285ea066c752fea682aa5d1548267eb5e
+Text:
+HH 每个人都不一样，可以按自己喜欢的方式玩游戏，这样大家都会开心！
+
+===== Node: node_32 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 害羞的时候也可以分享，比如把点点熊递给别人摸，这样也能交到朋友~
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 96fbac15928a16939f9932a62d3d351d5015736fb70a4f08383ef744d53ba3a3
+Text:
+HH 害羞的时候也可以分享，比如把点点熊递给别人摸，这样也能交到朋友~
+
+===== Node: node_33 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 帮助别人会让大家都高兴，比如捡铃铛、分饼干，老师也会夸你呢！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: ef6634b51b312d5542c09bf08ce4d364c427a81056ed31d9eafaf1e9eb76f536
+Text:
+HH 帮助别人会让大家都高兴，比如捡铃铛、分饼干，老师也会夸你呢！
+
+===== Node: node_34 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 假装游戏最好玩啦！当恐龙、超人都可以，还能和好朋友一起吼吼叫！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 4f0a9b8d5afd11515fc92e1e7148e7ccdd38ca239149b7e7f67bdb3154537d8c
+Text:
+HH 假装游戏最好玩啦！当恐龙、超人都可以，还能和好朋友一起吼吼叫！
+
+===== Node: node_35 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 小声说话也没关系，像HH那样模仿老师、提议投票，大家都会听到的~
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: e243315985944ad17b228a3802db1b59942f97c5737eee235461bec1a9dcc3c5
+Text:
+小声说话也没关系，像HH那样模仿老师、提议投票，大家都会听到的~
+
+===== Node: node_36 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 害羞的小朋友也会用小小动作帮助别人，比如递玩具和捡东西，他们只是需要时间变得勇敢～
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 96df4b6d9ca5e1da4925bfc94e2f6cf15da9f39318298686f33b5825714136aa
+Text:
+HH 害羞的小朋友也会用小小动作帮助别人，比如递玩具和捡东西，他们只是需要时间变得勇敢～
+
+===== Node: node_37 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 老师说的"每个人都要认真听"就像魔法咒语，能让圆圈变得暖暖的，连点点熊都乖乖点头呢！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: b2138c26d733f33c9f62eff9c716ba795a5cb4dd480fdc96043147e0b1fd5ee4
+Text:
+HH 老师说的"每个人都要认真听"就像魔法咒语，能让圆圈变得暖暖的，连点点熊都乖乖点头呢！
+
+===== Node: node_38 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 分享饼干和递彩纸的时候，快乐会变成双份！就像把星星掰成两半，天上就多了一颗星星～
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: df180cd56bbe8949dbbdfd24ad5f9d2a2d1807fe6713d5df6927afddb4b726e6
+Text:
+HH 分享饼干和递彩纸的时候，快乐会变成双份！就像把星星掰成两半，天上就多了一颗星星～
+
+===== Node: node_39 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 恐龙打架龙其实是在跳舞啦！吼吼叫和角角挡都是他们说"我们一起玩吧"的秘密语言～
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 0945a562204b9c7aa58bf98f91e4c5f79bcbb2ee25c442e1df875b9c47d0c2da
+Text:
+HH 恐龙打架龙其实是在跳舞啦！吼吼叫和角角挡都是他们说"我们一起玩吧"的秘密语言～
+
+===== Node: node_4 =====
+Type: event
+Subject: MissT
+Predicate: 对话
+Object: AA
+Address: the Ville:操场:幼儿园
+Poignancy: 7
+Election: 9
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:06:00
+Expire: 20250611-09:06:00
+Access: 20250512-09:06:00
+Doc Hash: ec92af9f2ec45d183320acc6afb3ecf99d4f017e5e5034e20cea01b4e8f311d2
+Text:
+MissT和AA聊了绿色凳子和行星。AA知道很多行星，喜欢绿色凳子。MissT说大家都不一样，可以按自己喜欢的方式玩游戏！🌟
+
+===== Node: node_40 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 绿色凳子和行星都很酷，但最酷的是MissT说"可以按自己喜欢的方式玩"，就像我的点点熊喜欢倒着戴围巾！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: f978639194de292b1967cce656d8a9deb12e41dacd399bd34d8c0330ae9732f8
+Text:
+HH 绿色凳子和行星都很酷，但最酷的是MissT说"可以按自己喜欢的方式玩"，就像我的点点熊喜欢倒着戴围巾！
+
+===== Node: node_41 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 虽然害羞，但会用点点熊和小朋友交朋友，还会帮老师和同学，是个温柔的好孩子呢！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: d1fa84b8f4f150eb1b4b001510b75d0571d8bcc5241c10338aab176d5f93d892
+Text:
+HH虽然害羞，但会用点点熊和小朋友交朋友，还会帮老师和同学，是个温柔的好孩子呢！
+
+===== Node: node_42 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 小朋友们都喜欢分享，HH分饼干，CC展示作品，KK和FF击掌，大家一起玩真开心！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 1a77df6cba282ee42476995610fc79bfb36f4802c79012e4334297e083026b21
+Text:
+小朋友们都喜欢分享，HH分饼干，CC展示作品，KK和FF击掌，大家一起玩真开心！
+
+===== Node: node_43 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: MissT老师真好，她说每个人都可以按自己喜欢的方式玩，就像AA喜欢行星，BB喜欢弹琴~
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 360d83cfd1a6305123854c533f74a1b25e8e29af3c235dbb74356f2549473838
+Text:
+HH MissT老师真好，她说每个人都可以按自己喜欢的方式玩，就像AA喜欢行星，BB喜欢弹琴~
+
+===== Node: node_44 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 恐龙打架龙好有趣！MM和NN一个吼吼叫一个用角角挡，像在玩游戏一样~
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 148bbce59fd4f18f3dfd7f663f027d00cde8eaef35d9eb6b1746dab5a96e8a63
+Text:
+HH 恐龙打架龙好有趣！MM和NN一个吼吼叫一个用角角挡，像在玩游戏一样~
+
+===== Node: node_45 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 整理东西也很棒！JJ、BB、LL都是小帮手，收拾玩具就像在玩寻宝游戏~
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: 026178c92e9c556a6024eb75e878026b03b8d77fa91fa3679b6b1756bb8cb688
+Text:
+HH 整理东西也很棒！JJ、BB、LL都是小帮手，收拾玩具就像在玩寻宝游戏~
+
+===== Node: node_46 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 对于 HH 的计划："HH要记住喂完点点熊饭饭后要讲‘点点和小星星’的故事，因为CC也很想听呢！"  
+
+●ˇ∀ˇ● 这样总结既符合HH的计划，又带着小朋友认真记住约定的可爱语气～
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: a9b10a2815bc6ad761d95e48cddc65775949f85c48cc02115d7daadd41c8c5ea
+Text:
+对于 HH 的计划："HH要记住喂完点点熊饭饭后要讲‘点点和小星星’的故事，因为CC也很想听呢！"  
+
+(●ˇ∀ˇ●) 这样总结既符合HH的计划，又带着小朋友认真记住约定的可爱语气～
+
+===== Node: node_47 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object:  "我最喜欢和CC一起给点点熊和新朋友喂饭饭，然后讲‘点点和小星星’的故事啦！"  
+
+（用6岁孩子的视角总结：和好朋友一起照顾玩具、分享故事是最开心的事，就像发现每个人都有不同的玩法一样有趣～）
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:03:00
+Expire: 20250611-10:03:00
+Access: 20250512-10:03:00
+Doc Hash: f02e4e75c4e35e33028f5a23274a58dcc2cab1671dc5c2f70a1bbad4cd07bcd7
+Text:
+HH "我最喜欢和CC一起给点点熊和新朋友喂饭饭，然后讲‘点点和小星星’的故事啦！"  
+
+（用6岁孩子的视角总结：和好朋友一起照顾玩具、分享故事是最开心的事，就像发现每个人都有不同的玩法一样有趣～）
+
+===== Node: node_48 =====
+Type: event
+Subject: CC
+Predicate: 对话
+Object: HH
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:06:00
+Expire: 20250611-10:06:00
+Access: 20250512-10:06:00
+Doc Hash: 7a0f79ff425271fb1137e4d7abe699da9c837f80ce842d8479bcc76e167e08d6
+Text:
+CC 两个小朋友开心地给玩具熊和新玩具喂饭饭，还要一起讲"点点和小星星"的故事呢！他们觉得玩具们也能做好朋友～
+
+===== Node: node_49 =====
+Type: event
+Subject: DD
+Predicate: 对话
+Object: MissT
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:06:00
+Expire: 20250611-10:06:00
+Access: 20250512-10:06:00
+Doc Hash: 5cf5e14c123495d23dccbe5125df4006ad48087247b93a034e080fa9472c9880
+Text:
+MissT老师说小鸟唱歌和我们一样棒，每只小鸟声音都不同，就像小朋友都有自己的声音。DD想学小鸟“啾啾”叫，老师说要和他玩动物游戏，夸他的声音最特别！🐦🎵
+
+===== Node: node_5 =====
+Type: event
+Subject: LL
+Predicate: 对话
+Object: BB
+Address: the Ville:操场:幼儿园
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:06:00
+Expire: 20250611-09:06:00
+Access: 20250512-09:06:00
+Doc Hash: c97b0444fea267b79af12c459b7def234b73b5587ee1a69af944ea1780d8f8ac
+Text:
+LL和BB一起看书、弹钢琴和唱歌，BB还教LL用小木琴打节拍，玩得可开心啦！
+
+===== Node: node_50 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: CC
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:06:00
+Expire: 20250611-10:06:00
+Access: 20250512-10:06:00
+Doc Hash: cdf48ca1b4ecadbde734c5a91357f2cc8a8f8088ae79758af6829444096d44a7
+Text:
+HH 两个小朋友开心地给玩具熊和新玩具喂饭饭，还要一起讲"点点和小星星"的故事呢！他们觉得玩具们也能做好朋友～
+
+===== Node: node_51 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满孩童嬉闹声
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:09:00
+Expire: 20250611-10:09:00
+Access: 20250512-10:09:00
+Doc Hash: e7e3a0da03fcc31a4c57cc20abb8421d26f81c353d2be7c4ebe33bd130411119
+Text:
+幼儿园 充满孩童嬉闹声
+
+===== Node: node_52 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 跑出教室，在走廊上蹦跳
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:09:00
+Expire: 20250611-10:09:00
+Access: 20250512-10:09:00
+Doc Hash: 5f7e1f15149b53fa3b461d3b75e5f913cfa124aa1088368dd967530fd9b5fcef
+Text:
+QQ 跑出教室，在走廊上蹦跳
+
+===== Node: node_53 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 快速观察其他小朋友的画作构思（原10分钟→7分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:09:00
+Expire: 20250611-10:09:00
+Access: 20250512-10:09:00
+Doc Hash: 0f10d6dd0ddf921b42b5bcf7c260dbe225aa43eda45f69234cbaf8d1164236f2
+Text:
+DD 快速观察其他小朋友的画作构思（原10分钟→7分钟）
+
+===== Node: node_54 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: JJ
+Address: the Ville:蓝色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:12:00
+Expire: 20250611-10:12:00
+Access: 20250512-10:12:00
+Doc Hash: 193338f77c46ebc509769ac5a716d2eca631792e31a6fa45bc1c3cf7fd2ad081
+Text:
+JJ和HH一起给点点熊做星星衣服，JJ弹琴像小星星唱歌，HH讲故事，他们想开热闹的故事音乐会，还要邀请BB和LL来玩，点点熊一定会超开心！✨🐻🎶
+
+===== Node: node_55 =====
+Type: event
+Subject: MissT
+Predicate: 对话
+Object: BB
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 9
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:12:00
+Expire: 20250611-10:12:00
+Access: 20250512-10:12:00
+Doc Hash: e55f54d203dd25a55450356ac5fb63658b9c7ded09c0bad273c3f60cea9940c6
+Text:
+MissT老师说我们像彩虹一样手拉手跳舞最开心！AA懂星星，MM跳高高，我是暖暖小太阳，大家不一样但一起转圈圈唱歌时，世界就变成漂亮的彩虹啦！(儿童口吻)
+
+===== Node: node_56 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 快速观察3个小朋友拿点心，模仿最有效率的动作
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:15:00
+Expire: 20250611-10:15:00
+Access: 20250512-10:15:00
+Doc Hash: 75c2ee6be3b1eb6140e47bbdb7ceee5ee1c1ec3ce01aa8a0d85ebcee85aeef72
+Text:
+CC 快速观察3个小朋友拿点心，模仿最有效率的动作
+
+===== Node: node_57 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 加速完成布料裁剪（原10:08-10:15压缩为7分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:15:00
+Expire: 20250611-10:15:00
+Access: 20250512-10:15:00
+Doc Hash: 3805e662f848e4293aa01438a321c041d77f6e209b64e210bf41b0dde50ad527
+Text:
+HH 加速完成布料裁剪（原10:08-10:15压缩为7分钟）
+
+===== Node: node_58 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: CC
+Address: the Ville:窗户:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:18:00
+Expire: 20250611-10:18:00
+Access: 20250512-10:18:00
+Doc Hash: aba2211f73ba47472a71de78a21f10d090033e57b9d1328ff4445dc6a7156230
+Text:
+小朋友HH和CC一起给点点熊做星星衣服和装饰，还想叫BB和LL来听故事，点点熊会变成最闪亮的星星熊啦～大家开心地玩在一起呢！
+
+===== Node: node_59 =====
+Type: event
+Subject: LL
+Predicate: 此时
+Object: 快速吃点心并偷看同伴（原10:20-10:35压缩为12分钟）
+Address: the Ville:幼儿园:教室:窗户
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:18:00
+Expire: 20250611-10:18:00
+Access: 20250512-10:18:00
+Doc Hash: f1b789b074c0f248b8ca23b85e172ee5aea924e9fb770343cad610cb8037606f
+Text:
+LL 快速吃点心并偷看同伴（原10:20-10:35压缩为12分钟）
+
+===== Node: node_6 =====
+Type: event
+Subject: KK
+Predicate: 对话
+Object: CC
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:06:00
+Expire: 20250611-09:06:00
+Access: 20250512-09:06:00
+Doc Hash: b22a53b7b0f7868a3905a81c62811e2f1aba0764af108579380bc18a3660780a
+Text:
+KK和CC一起用彩泥做火山和小星星，玩超级英雄救援游戏，开心地交到了新朋友！
+
+===== Node: node_60 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 揉捏彩泥，构思"新朋友"的形状（原10:08-10:17，压缩1分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:18:00
+Expire: 20250611-10:18:00
+Access: 20250512-10:18:00
+Doc Hash: 3331acbe0e861765b6f10c20bb64029ae55e26844ea5a23435305c724c72e9ef
+Text:
+BB 揉捏彩泥，构思"新朋友"的形状（原10:08-10:17，压缩1分钟）
+
+===== Node: node_61 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 高效完成第一套衣服穿戴（顺延后压缩为8分钟）
+Address: the Ville:幼儿园:教室:台灯
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:21:00
+Expire: 20250611-10:21:00
+Access: 20250512-10:21:00
+Doc Hash: 675ec58853f6e923fac8a39c8e5eef5b25f770d1be4e95d84aa2786c5f10c69f
+Text:
+HH 高效完成第一套衣服穿戴（顺延后压缩为8分钟）
+
+===== Node: node_62 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: PP和GG开心地约好一起当三角龙挖化石，他们觉得三角龙最厉害，迫不及待要去玩具区寻宝啦！吼吼~
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:24:00
+Expire: 20250611-10:24:00
+Access: 20250512-10:24:00
+Doc Hash: 42ec837aaaf903c844ec8102837e87622b740fe7575464ad53c4d6f516c0e35f
+Text:
+PP和GG开心地约好一起当三角龙挖化石，他们觉得三角龙最厉害，迫不及待要去玩具区寻宝啦！吼吼~
+
+===== Node: node_63 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: GG
+Address: the Ville:恐龙雕塑:操场:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:27:00
+Expire: 20250611-10:27:00
+Access: 20250512-10:27:00
+Doc Hash: 63f7132892bf6d1c3caeeca005ed882ebc98d7f43437ce525fb33540497b9428
+Text:
+GG和PP只想两个人当三角龙挖化石，不让HH的点点熊一起玩。HH虽然难过，但决定和点点熊去看小鸟唱歌，因为MissT老师说小鸟唱歌也很棒呢！就像小朋友都有自己的玩法~
+
+===== Node: node_64 =====
+Type: event
+Subject: DD
+Predicate: 对话
+Object: JJ
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:27:00
+Expire: 20250611-10:27:00
+Access: 20250512-10:27:00
+Doc Hash: 28223a1f93c6d1931c0a42b27b62ca22b302a9259b98541a846d445f2c28e453
+Text:
+JJ和DD要一起搭动物园，玩动物广播游戏！JJ当长颈鹿主持人，DD当小老虎“吼吼”叫，还要邀请BB和LL来开音乐会，像森林里的小动物一样开心！
+
+===== Node: node_65 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 加速搭建基地框架（原10:10-10:25压缩为12分钟→现仅剩10分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 3
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:27:00
+Expire: 20250611-10:27:00
+Access: 20250512-10:27:00
+Doc Hash: 7117e7e2b8891aed1e244e7d8da52e49190c837328600227ec4b36652fe59bd8
+Text:
+KK 加速搭建基地框架（原10:10-10:25压缩为12分钟→现仅剩10分钟）
+
+===== Node: node_66 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: KK
+Address: the Ville:恐龙雕塑:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: cdcc7ed52331e7d906d1649f9395752af3803f0d2ed63b1434dc904274a58b6f
+Text:
+HH 点点熊和KK一起当超人闪电侠，飞进火山救小星星！他们数一二三冲呀冲，点点熊会飞飞，KK跑快快，是最棒的救援队！下次还要玩更酷的冒险呢～（小朋友版✨）
+
+===== Node: node_67 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 专注完成第二套衣服（剩余16分钟，原计划18分钟已用2分钟）
+Address: the Ville:幼儿园:教室:台灯
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:33:00
+Expire: 20250611-10:33:00
+Access: 20250512-10:33:00
+Doc Hash: 56b7e3e829468e21e40000b65d6d8168b455fd03bd78af6dd88c493693b3dc62
+Text:
+HH 专注完成第二套衣服（剩余16分钟，原计划18分钟已用2分钟）
+
+===== Node: node_68 =====
+Type: event
+Subject: AA
+Predicate: 对话
+Object: KK
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:45:00
+Expire: 20250611-10:45:00
+Access: 20250512-10:45:00
+Doc Hash: 472de67e441b0d02e2f25c03f6dbfeb6626a49eb7df6201c2c06112612ba5f5e
+Text:
+霸王龙和闪电侠超快救小星星！AA和KK都喜欢恐龙，KK觉得恐龙打架吼吼叫好有趣，AA还说了自己生日是晴天星期五～（像小朋友一样蹦跳着说）
+
+===== Node: node_69 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: AA
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:48:00
+Expire: 20250611-10:48:00
+Access: 20250512-10:48:00
+Doc Hash: 384aabe8e5bd6597f1b5709e1d5192da33efa4f71f0b87ca99476c9b4e8b373b
+Text:
+AA和HH要一起用霸王龙、点点熊和火山陷阱救小星星！AA的生日是晴天星期五，他们吼吼叫转圈圈，像彩虹和行星轨道一样酷！
+
+===== Node: node_7 =====
+Type: event
+Subject: JJ
+Predicate: 对话
+Object: DD
+Address: the Ville:操场:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 4
+Create: 20250512-09:06:00
+Expire: 20250611-09:06:00
+Access: 20250512-09:06:00
+Doc Hash: 82d6647eaf4123537506565a8635c65aee2fe4321e6a6bc8435cac613a1e8ea2
+Text:
+JJ和DD玩动物广播游戏，JJ当长颈鹿主持人采访扮小老虎的DD。DD说遇到会唱歌的小鸟，还学小鸟"啾啾"叫呢！(儿童口吻版✨)
+
+===== Node: node_70 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 极简版"英雄闯关"演示（压缩为7分钟，仅保留1个核心关卡）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 5
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:48:00
+Expire: 20250611-10:48:00
+Access: 20250512-10:48:00
+Doc Hash: 9cb25f87e1f798937f47bd583932bd0bc5bebd1d2586a9c2785fc1307e26c790
+Text:
+KK 极简版"英雄闯关"演示（压缩为7分钟，仅保留1个核心关卡）
+
+===== Node: node_71 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 和BB、LL继续森林音乐会（接续未完成的15分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 4
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:48:00
+Expire: 20250611-10:48:00
+Access: 20250512-10:48:00
+Doc Hash: fcf76f63bf384e6413b27508e06fd41fee6a6938695c29f1dfe2c93d44b2e39d
+Text:
+DD 和BB、LL继续森林音乐会（接续未完成的15分钟）
+
+===== Node: node_72 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 批量分类材料+收拾工作台（原计划10分钟，压缩至10分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 4
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:51:00
+Expire: 20250611-10:51:00
+Access: 20250512-10:51:00
+Doc Hash: eac8c65e7f75db6a7f1f89cc7db8f3782d131ef62ea13c789d2366c6f29b7237
+Text:
+HH 批量分类材料+收拾工作台（原计划10分钟，压缩至10分钟）
+
+===== Node: node_73 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 准备《小星星》演奏：BB和LL一起练习弹奏《小星星》，LL用小木琴伴奏，BB配合节奏，为接下来的音乐时间做准备。
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 5
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: ed492e4117272afb678619eb2e5160f8d67af5ac3e39faaa4c29bc318af7c6f0
+Text:
+准备《小星星》演奏：BB和LL一起练习弹奏《小星星》，LL用小木琴伴奏，BB配合节奏，为接下来的音乐时间做准备。
+
+===== Node: node_74 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 每个人都可以按自己喜欢的方式玩，这样大家都会开心，就像恐龙和超人都能成为好朋友！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 8
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 14a48d1268225f5ef4477a59a82867bcf8aea798467e244c45e58ebd3513c78d
+Text:
+HH 每个人都可以按自己喜欢的方式玩，这样大家都会开心，就像恐龙和超人都能成为好朋友！
+
+===== Node: node_75 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 帮助别人会让大家都高兴，比如捡铃铛、分饼干，快乐会变成双份！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 8
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 6e72e5548b1d16ca81456abfb2cc34c9cb3f3ce772f0931ce0f16128b7bde371
+Text:
+HH 帮助别人会让大家都高兴，比如捡铃铛、分饼干，快乐会变成双份！
+
+===== Node: node_76 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 和好朋友一起照顾玩具、分享故事是最开心的事，就像玩具们也能做好朋友～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: ed6cb82930b44cfa6dba9352f3670c8cbbbebe33ee71bcfcd93e5b17ce776855
+Text:
+HH 和好朋友一起照顾玩具、分享故事是最开心的事，就像玩具们也能做好朋友～
+
+===== Node: node_77 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 老师说的"每个人都要认真听"就像魔法咒语，能让圆圈变得暖暖的！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 6a31ca13f4d7fc61c4b47554bf90f9b16f94c988f7511a2f7a6910d3ff8b4bda
+Text:
+HH 老师说的"每个人都要认真听"就像魔法咒语，能让圆圈变得暖暖的！
+
+===== Node: node_78 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 害羞的小朋友也会用小小动作帮助别人，他们只是需要时间变得勇敢～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: bd19eaedbe5b4d9ace58d3d192c7b950e3ddc4bb9e37101cf9387cda6453594f
+Text:
+HH 害羞的小朋友也会用小小动作帮助别人，他们只是需要时间变得勇敢～
+
+===== Node: node_79 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 和好朋友一起照顾玩具、分享故事是最开心的事，就像发现每个人都有不同的玩法一样有趣～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: a48b4101006622858d23e94a2d7e4c21a417f9876728de7ca4816c55ef652cab
+Text:
+HH 和好朋友一起照顾玩具、分享故事是最开心的事，就像发现每个人都有不同的玩法一样有趣～
+
+===== Node: node_8 =====
+Type: event
+Subject: MM
+Predicate: 对话
+Object: OO
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:09:00
+Expire: 20250611-09:09:00
+Access: 20250512-09:09:00
+Doc Hash: d844ceb573a3f7a73ada91646f61e99e702507baf91b6150ff54324ddc8f30cf
+Text:
+恐龙化石游戏！MM假装是霸王龙，NN用角角挖它出来，OO想看他俩打架龙~好好玩！
+
+===== Node: node_80 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 每个人都可以按自己喜欢的方式玩，就像AA喜欢行星，BB喜欢弹琴，这样大家都会开心！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: e0ca34f96cb561312e1fec73fb2a16123b22652a90fe33ef64243c4a9af7903f
+Text:
+HH 每个人都可以按自己喜欢的方式玩，就像AA喜欢行星，BB喜欢弹琴，这样大家都会开心！
+
+===== Node: node_81 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 害羞的小朋友也会用小小动作帮助别人，比如递玩具和捡东西，他们只是需要时间变得勇敢～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 8
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: b490d6b95974ad10952a843078c98cda931d808523d0324e2be68305544e4546
+Text:
+HH 害羞的小朋友也会用小小动作帮助别人，比如递玩具和捡东西，他们只是需要时间变得勇敢～
+
+===== Node: node_82 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 分享饼干和递彩纸的时候，快乐会变成双份！就像把星星掰成两半，天上就多了一颗星星～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: f79e68cb4a2af448105caf2c21486662cd3a9e8852312f3d8fcd5ce383ae270f
+Text:
+HH 分享饼干和递彩纸的时候，快乐会变成双份！就像把星星掰成两半，天上就多了一颗星星～
+
+===== Node: node_83 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 恐龙打架龙其实是在跳舞啦！吼吼叫和角角挡都是他们说"我们一起玩吧"的秘密语言～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 4
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 739089e7f533946523f888125159eaa964200976a74f7c661277b6f41fed4a92
+Text:
+HH 恐龙打架龙其实是在跳舞啦！吼吼叫和角角挡都是他们说"我们一起玩吧"的秘密语言～
+
+===== Node: node_84 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 和好朋友一起照顾玩具、分享故事是最开心的事，就像发现每个人都有不同的玩法一样有趣～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: a48b4101006622858d23e94a2d7e4c21a417f9876728de7ca4816c55ef652cab
+Text:
+HH 和好朋友一起照顾玩具、分享故事是最开心的事，就像发现每个人都有不同的玩法一样有趣～
+
+===== Node: node_85 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 害羞的小朋友也会用小小动作帮助别人，他们只是需要时间变得勇敢～
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: b5785c85d29d535c2fdee62deb50432251f462717ef610f52fc613f5e0d1122c
+Text:
+HH 害羞的小朋友也会用小小动作帮助别人，他们只是需要时间变得勇敢～
+
+===== Node: node_86 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 帮助别人会让大家都高兴，比如捡铃铛、分饼干，老师也会夸你呢！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 8
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 148bfbe5434e4cded7d55835262f4024d18406411732d1e57fbc92fd93f4e6aa
+Text:
+HH 帮助别人会让大家都高兴，比如捡铃铛、分饼干，老师也会夸你呢！
+
+===== Node: node_87 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 每个人都不一样，可以按自己喜欢的方式玩游戏，这样大家都会开心！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: dfbd6d79e9b93780b161ec431e223c0bd2e7938aa5efae373d6d2ac9b2a7ea4c
+Text:
+HH 每个人都不一样，可以按自己喜欢的方式玩游戏，这样大家都会开心！
+
+===== Node: node_88 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 整理东西就像寻宝游戏，和小伙伴一起收拾玩具真棒！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 1a6240584a2141b6f01d618276648f665237b55aa966bdfe73aaff54e089f34c
+Text:
+HH 整理东西就像寻宝游戏，和小伙伴一起收拾玩具真棒！
+
+===== Node: node_89 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object: 对于 HH 的计划：HH需要记住自己的计划，因为点点熊要穿星星衣服、听小星星音乐、跳舞、听故事，还要邀请朋友们一起玩，这样才会像彩虹一样开心呀！
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: a071153693b95a2da14bb6f3e68837cc9cad74af35f4e8ab0ca73dc48faf95f3
+Text:
+对于 HH 的计划：HH需要记住自己的计划，因为点点熊要穿星星衣服、听小星星音乐、跳舞、听故事，还要邀请朋友们一起玩，这样才会像彩虹一样开心呀！
+
+===== Node: node_9 =====
+Type: event
+Subject: EE
+Predicate: 此时
+Object: 快速挑选座位坐下，草草观察周围小朋友（原5分钟压缩为5分钟）
+Address: the Ville:幼儿园:教室:窗户
+Poignancy: 3
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 5
+Create: 20250512-09:09:00
+Expire: 20250611-09:09:00
+Access: 20250512-09:09:00
+Doc Hash: 4a33f9c749a37fea5f63a8c098d8e634173cfa4eb14c2231fbc37cf20e892839
+Text:
+EE 快速挑选座位坐下，草草观察周围小朋友（原5分钟压缩为5分钟）
+
+===== Node: node_90 =====
+Type: thought
+Subject: HH
+Predicate: 此时
+Object:  "点点熊穿上星星衣服和我们一起开故事音乐会、当超人救小星星，还和小木琴唱歌转圈圈，像彩虹一样开心地玩了好多游戏呢！" 🌟🐻🎵✨  
+
+（用6岁小朋友的眼睛看，最神奇的是点点熊能变成星星熊、会飞飞救援、还会跟着音乐跳舞，就像把彩虹所有的颜色都变成游戏啦～）
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: ab3b23ee2ec9fed044a0e4b701ecc8b27d7c1f18c545eb07a724c34203197f1f
+Text:
+HH "点点熊穿上星星衣服和我们一起开故事音乐会、当超人救小星星，还和小木琴唱歌转圈圈，像彩虹一样开心地玩了好多游戏呢！" 🌟🐻🎵✨  
+
+（用6岁小朋友的眼睛看，最神奇的是点点熊能变成星星熊、会飞飞救援、还会跟着音乐跳舞，就像把彩虹所有的颜色都变成游戏啦～）
+
+===== Node: node_91 =====
+Type: chat
+Subject: HH
+Predicate: 对话
+Object: BB
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 5
+Create: 20250512-10:57:00
+Expire: 20250611-10:57:00
+Access: 20250512-10:57:00
+Doc Hash: 216a152e9c92639a88a59435bbda958d4cdc62142e6e96436614df14f8a20e57
+Text:
+HH 点点熊和我们一起听《小星星》，戴星星围巾跳舞，CC来讲故事，小木琴也唱歌，大家都好开心呀！✨🐻🎶
+
+===== Node: node_92 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 与点点熊互动告别（原计划5分钟，保持完整互动）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: c6e87b6621210087ddecde7ab03d6a25bb3e2254404fe4a108ac4c4e9398b44d
+Text:
+HH 与点点熊互动告别（原计划5分钟，保持完整互动）
+
+===== Node: node_93 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 收拾蜡笔和练习卡（保持原3分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 3
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 90cd5d04a4033f5567719d9be3c4a7652d430327225ebf38394e3b4d8110058a
+Text:
+GG 收拾蜡笔和练习卡（保持原3分钟）
+
+===== Node: node_94 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 向同桌展示自己的玩具并邀请对方分享
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 24d92f7d59b4b6fa1903370a61d53b7998c801adbe81b53acffbbdf34ab81fa9
+Text:
+FF 向同桌展示自己的玩具并邀请对方分享
+
+===== Node: node_95 =====
+Type: event
+Subject: EE
+Predicate: 对话
+Object: BB
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 34cc8637394306314fc5f0bde4eaba19a4fce8ed13bc575ead4f2b3077d6ead6
+Text:
+EE想独占彩笔先画画，BB像小太阳一样暖洋洋地说：“一起画彩虹朋友吧！轮流画会像星星熊一样开心亮晶晶～” 🌈✨（MissT说分享会让颜色更漂亮哦！）
+
+===== Node: node_96 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 最终检查修饰（调整为5分钟压缩版）
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 96160771408db6639d5c96868c61c2c50e55ab5d37bc4c993f5e33cbc2d95279
+Text:
+DD 最终检查修饰（调整为5分钟压缩版）
+
+===== Node: node_97 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 正式《小星星》音乐会：BB和LL完成最终演奏，点点熊和CC一起打拍子，大家戴着星星围巾组成小小交响乐团，在欢乐的琴声中结束上午的音乐时光～
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 71b0a09b74999bef0f9d53bc2c188f9b6148ecfb0bc3541f3982449ffc2ac815
+Text:
+正式《小星星》音乐会：BB和LL完成最终演奏，点点熊和CC一起打拍子，大家戴着星星围巾组成小小交响乐团，在欢乐的琴声中结束上午的音乐时光～
+
+===== Node: node_98 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 压缩版仪式结束：
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 215d6784dcffa074348ff3975fc06023840062516abeed28a851ba65bfcfec15
+Text:
+AA 压缩版仪式结束：
+
+===== Node: node_99 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 和玩具熊一起跟随老师指令离开（保持原16分钟排队互动）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 345cf1ecc209a121b8fe70e5548ea267d6c7a7a469bac4d125dfea734e79c495
+Text:
+CC 和玩具熊一起跟随老师指令离开（保持原16分钟排队互动）

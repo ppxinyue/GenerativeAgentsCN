@@ -61,7 +61,8 @@ class LLMModel:
         self._summary.setdefault(caller, [0, 0, 0])
         for _ in range(retry):
             try:
-                print(f"LLMModel.completion() prompt: {prompt}, kwargs: {kwargs}")
+                print(f"LLMModel.completion() prompt: {repr(prompt)}, kwargs: {repr(kwargs)}")
+                # print(f"LLMModel.completion() prompt: {prompt}, kwargs: {kwargs}")
                 meta_response = self._completion(prompt, **kwargs)
                 self._meta_responses.append(meta_response)
                 self._summary["total"][0] += 1
@@ -114,7 +115,7 @@ class OpenAILLMModel(LLMModel):
         from openai import OpenAI
 
         self._embedding_model = config.get("embedding_model", "text-embedding-3-small")
-        return OpenAI(api_key=keys["OPENAI_API_KEY"], base_url="https://api.moonshot.cn/v1")
+        return OpenAI(api_key=keys["OPENAI_API_KEY"], base_url="https://api.openai-proxy.org/v1")
 
     def _embedding(self, text):
         response = self._handle.embeddings.create(

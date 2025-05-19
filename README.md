@@ -65,6 +65,8 @@ python start.py --name sim-test --start "20240213-09:30" --step 10 --stride 10
 python start.py --name sim-test --start "20240213-09:30" --step 10 --stride 10 | Tee-Object -FilePath sim-test.log
 python start.py --name sim-test --start "20240213-09:30" --step 10 --stride 10 > sim-test.log 2>&1
 
+set PYTHONUTF8=1
+python start.py --name sim-test --start "20240213-09:30" --step 10 --stride 10 2>&1 | tee sim-test.log
 
 参数说明:
 - `name` - 每次启动虚拟小镇，需要设定唯一的名称，用于事后回放。

@@ -96,6 +96,9 @@ class Agent:
         ), "Can not find func prompt_{} from scratch".format(func_hint)
         func = getattr(self.scratch, "prompt_" + func_hint)
         prompt = func(*args, **kwargs)
+
+        prompt = self.unicode_escape(prompt)
+
         title, msg = "{}.{}".format(self.name, func_hint), {}
         if self.llm_available():
             self.logger.info("{} -> {}".format(self.name, func_hint))
@@ -111,8 +114,19 @@ class Agent:
         else:
             output = prompt.get("failsafe")
         msg["<OUTPUT>"] = "\n" + str(output) + "\n"
+        msg = self.unicode_escape(msg)
         self.logger.debug(utils.block_msg(title, msg))
         return output
+
+    def unicode_escape(self, msg):
+        if isinstance(msg, str):
+            return msg.encode('gbk', errors='replace').decode('gbk')
+        elif isinstance(msg, dict):
+            return {k: self.unicode_escape(v) for k, v in msg.items()}
+        elif isinstance(msg, list):
+            return [self.unicode_escape(v) for v in msg]
+        else:
+            return msg
 
     def think(self, status, agents):
         events = self.move(status["coord"], status.get("path"))
@@ -351,6 +365,7 @@ class Agent:
             #     address=self.get_tile().get_address(),
             # )
             event = self.make_event(self.name, thought, self.get_tile().get_address())
+            agents = self.name
             return self._add_concept("thought", event, filling=evidence)
 
         if self.status["poignancy"] < self.think_config["poignancy_max"]:
@@ -655,10 +670,11 @@ class Agent:
             poignancy = self.completion("poignancy_chat", event)
         else:
             poignancy = self.completion("poignancy_event", event)
-        election = self.completion("election_event", event)
-        AAfriend = self.completion("AAfriend_event", event)
-        flapflap = self.completion("flapflap_event", event)
-        flapeye = self.completion("flapeye_event", event)
+
+        election = self.completion("election_event", event, associate = self.associate.abstract())
+        AAfriend = self.completion("AAfriend_event", event, associate = self.associate.abstract())
+        flapflap = self.completion("flapflap_event", event, associate = self.associate.abstract())
+        flapeye = self.completion("flapeye_event", event, associate = self.associate.abstract())
         self.logger.debug("{} add associate {}".format(self.name, event))
         return self.associate.add_node(
             e_type,

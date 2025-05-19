@@ -41,18 +41,19 @@ class Scratch:
             }
         )
 
-    def prompt_election_event(self, event):
+    def prompt_election_event(self, event, associate):
+
         prompt = self.build_prompt(
             "election_event",
             {
                 "base_desc": self._base_desc(),
                 "agent": self.name,
+                "associate": associate,
             }
         )
 
         def _callback(response):
             pattern = [
-                "选举[:： ]+(\d{1,2})",
                 "(\d{1,2})",
             ]
             return int(parse_llm_output(response, pattern, "match_last"))
@@ -60,22 +61,23 @@ class Scratch:
         return {
             "prompt": prompt,
             "callback": _callback,
-            "failsafe": random.choice(list(range(10))) + 1,
+            "failsafe": 9,
         }
 
 
-    def prompt_flapflap_event(self, event):
+
+    def prompt_flapflap_event(self, event, associate):
         prompt = self.build_prompt(
             "flapflap_event",
             {
                 "base_desc": self._base_desc(),
                 "agent": self.name,
+                "associate": associate
             }
         )
 
         def _callback(response):
             pattern = [
-                "flapflap[:： ]+(\d{1,2})",
                 "(\d{1,2})",
             ]
             return int(parse_llm_output(response, pattern, "match_last"))
@@ -83,22 +85,22 @@ class Scratch:
         return {
             "prompt": prompt,
             "callback": _callback,
-            "failsafe": random.choice(list(range(10))) + 1,
+            "failsafe": 0,
         }
     
 
-    def prompt_flapeye_event(self, event):
+    def prompt_flapeye_event(self, event, associate):
         prompt = self.build_prompt(
             "flapeye_event",
             {
                 "base_desc": self._base_desc(),
                 "agent": self.name,
+                "associate": associate
             }
         )
 
         def _callback(response):
             pattern = [
-                "flapeye[:： ]+(\d{1,2})",
                 "(\d{1,2})",
             ]
             return int(parse_llm_output(response, pattern, "match_last"))
@@ -106,22 +108,22 @@ class Scratch:
         return {
             "prompt": prompt,
             "callback": _callback,
-            "failsafe": random.choice(list(range(10))) + 1,
+            "failsafe": 0,
         }
 
 
-    def prompt_AAfriend_event(self, event):
+    def prompt_AAfriend_event(self, event, associate):
         prompt = self.build_prompt(
             "AAfriend_event",
             {
                 "base_desc": self._base_desc(),
                 "agent": self.name,
+                "associate": associate,
             }
         )
 
         def _callback(response):
             pattern = [
-                "打分[:： ]+(\d{1,2})",
                 "(\d{1,2})",
             ]
             return int(parse_llm_output(response, pattern, "match_last"))
@@ -129,7 +131,7 @@ class Scratch:
         return {
             "prompt": prompt,
             "callback": _callback,
-            "failsafe": random.choice(list(range(10))) + 1,
+            "failsafe": 0,
         }
 
 
@@ -601,11 +603,11 @@ class Scratch:
         )
 
         def _callback(response):
-            if "No" in response or "no" in response or "否" in response or "不" in response:
-                return False
+            # if "No" in response or "no" in response or "否" in response or "不" in response:
+            #     return False
             return True
 
-        return {"prompt": prompt, "callback": _callback, "failsafe": False}
+        return {"prompt": prompt, "callback": _callback, "failsafe": True}
 
     def prompt_decide_chat_terminate(self, agent, other, chats):
         conversation = "\n".join(["{}: {}".format(n, u) for n, u in chats])

@@ -1,0 +1,2377 @@
+{
+  "stride": 3,
+  "time": "20250512-14:48",
+  "maze": {
+    "path": "assets\\village\\maze.json"
+  },
+  "agent_base": {
+    "percept": {
+      "mode": "box",
+      "vision_r": 8,
+      "att_bandwidth": 8
+    },
+    "schedule": {
+      "max_try": 5,
+      "diversity": 5
+    },
+    "think": {
+      "mode": "llm",
+      "llm": {
+        "base_url": "https://api.openai-proxy.org/v1",
+        "model": "deepseek-chat",
+        "embedding_model": "text-embedding-3-large"
+      },
+      "interval": 1000,
+      "poignancy_max": 150
+    },
+    "chat_iter": 4,
+    "associate": {
+      "embedding": {
+        "type": "openai",
+        "base_url": "https://api.openai-proxy.org/v1",
+        "model": "text-embedding-3-large",
+        "api_key": "sk-3ijUbpq1p9DtmydgTk0Rr1cWRZVbRtT8QlZ2nv2wXZgZ6P9x"
+      },
+      "retention": 8
+    }
+  },
+  "agents": {
+    "AA": {
+      "config_path": "assets\\village\\agents\\AA\\agent.json",
+      "status": {
+        "poignancy": 6
+      },
+      "schedule": {
+        "create": "20250512-09:00:00",
+        "daily_schedule": [
+          {
+            "idx": 0,
+            "describe": "睡觉",
+            "start": 0,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 1,
+            "describe": "睡觉",
+            "start": 60,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 2,
+            "describe": "睡觉",
+            "start": 120,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 3,
+            "describe": "睡觉",
+            "start": 180,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 4,
+            "describe": "睡觉",
+            "start": 240,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 5,
+            "describe": "睡觉",
+            "start": 300,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 6,
+            "describe": "睡觉",
+            "start": 360,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 7,
+            "describe": "睡觉",
+            "start": 420,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 8,
+            "describe": "来到幼儿园教室，向MissT老师问好并重复自己的生日信息",
+            "start": 480,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 9,
+            "describe": "美术课时坚持只使用绿色蜡笔，并向邻座小朋友讲解恐龙灭绝理论",
+            "start": 540,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "进入美术教室并找到绿色凳子坐下",
+                "start": 540,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "拒绝使用非绿色蜡笔，坚持只拿绿色蜡笔",
+                "start": 545,
+                "duration": 10
+              },
+              {
+                "idx": 2,
+                "describe": "用绿色蜡笔涂画恐龙图案",
+                "start": 555,
+                "duration": 15
+              },
+              {
+                "idx": 3,
+                "describe": "转向邻座小朋友，讲解“恐龙灭绝与小行星撞击理论”",
+                "start": 570,
+                "duration": 6
+              },
+              {
+                "idx": 4,
+                "describe": "恐龙好厉害！AA说小行星撞地球让恐龙没了，暴龙咬人超痛！QQ想用蜡笔吓人，但AA只爱聊恐龙的大牙齿！",
+                "start": 576,
+                "duration": 0
+              },
+              {
+                "idx": 5,
+                "describe": "无视老师提醒“课堂安静”，加速拍手三下并快速重复恐龙知识（原09:50-09:55压缩至14分钟）",
+                "start": 576,
+                "duration": 14
+              },
+              {
+                "idx": 6,
+                "describe": "迅速整理绿色蜡笔，仍拒绝归还其他颜色蜡笔（原09:55-10:00延长至10分钟）",
+                "start": 590,
+                "duration": 10
+              }
+            ]
+          },
+          {
+            "idx": 10,
+            "describe": "课间休息时拦住三个小朋友询问生日，然后宣布\"我要当班长因为我知道100种恐龙名字\"",
+            "start": 600,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "检查生日记录并准备领唱（原5分钟压缩为4分钟）",
+                "start": 655,
+                "duration": 4
+              },
+              {
+                "idx": 1,
+                "describe": "快速确认所有材料已收纳（新增1分钟收尾）",
+                "start": 659,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "idx": 11,
+            "describe": "集体活动时突然拍手三下打断老师讲话，开始介绍翼龙飞行原理",
+            "start": 660,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "在集体活动开始前找到绿色凳子坐下",
+                "start": 660,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "观察周围环境，确认集体活动开始",
+                "start": 665,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "突然拍手三下打断老师讲话",
+                "start": 670,
+                "duration": 5
+              },
+              {
+                "idx": 3,
+                "describe": "开始介绍翼龙飞行原理，使用书面化语言",
+                "start": 675,
+                "duration": 20
+              },
+              {
+                "idx": 4,
+                "describe": "忽略其他小朋友的反应，继续讲解",
+                "start": 695,
+                "duration": 10
+              },
+              {
+                "idx": 5,
+                "describe": "被老师提醒后停止讲解，但仍坚持拍手三下",
+                "start": 705,
+                "duration": 5
+              },
+              {
+                "idx": 6,
+                "describe": "回到绿色凳子坐下，等待活动结束",
+                "start": 710,
+                "duration": 5
+              },
+              {
+                "idx": 7,
+                "describe": "整理自己的物品，准备下一项活动",
+                "start": 715,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 12,
+            "describe": "午餐时把胡萝卜挑出来排成\"VOTE AA\"字样",
+            "start": 720,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "向周围同学展示\"VOTE AA\"字样并解释竞选（原13分钟展示时间压缩为13分钟）",
+                "start": 765,
+                "duration": 13
+              },
+              {
+                "idx": 1,
+                "describe": "快速收拾胡萝卜和餐盘，准备午休（新增2分钟收尾）",
+                "start": 778,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "idx": 13,
+            "describe": "午休时间拒绝躺下，坐着绿色小凳子数恐龙模型",
+            "start": 780,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "向老师展示模型并提班长竞选（原13:47-13:52，压缩5分钟→改为3分钟）",
+                "start": 821,
+                "duration": 3
+              },
+              {
+                "idx": 1,
+                "describe": "自由缓冲时间（原剩余8分钟+新增7分钟压缩时间+从展示环节压缩的2分钟=17分钟→调整为16分钟）",
+                "start": 824,
+                "duration": 16
+              },
+              {
+                "idx": 2,
+                "describe": "找到并确认绿色小凳子的位置",
+                "start": 780,
+                "duration": 3
+              },
+              {
+                "idx": 3,
+                "describe": "MissT老师夸AA像聪明的小恐龙...",
+                "start": 783,
+                "duration": 2
+              },
+              {
+                "idx": 4,
+                "describe": "将恐龙模型按种类排列在凳子周围（压缩2分钟）",
+                "start": 785,
+                "duration": 8
+              },
+              {
+                "idx": 5,
+                "describe": "开始数恐龙模型并自言自语恐龙知识（压缩2分钟）",
+                "start": 793,
+                "duration": 2
+              },
+              {
+                "idx": 6,
+                "describe": "与BB讨论合作当班长计划（新增2分钟）",
+                "start": 795,
+                "duration": 2
+              },
+              {
+                "idx": 7,
+                "describe": "继续数恐龙模型并检查顺序（原13:26-13:39，压缩9分钟→改为11分钟活动+压缩7分钟）",
+                "start": 797,
+                "duration": 11
+              },
+              {
+                "idx": 8,
+                "describe": "听到躺下指令时拍手三下（原13:31-13:39，压缩1分钟）",
+                "start": 808,
+                "duration": 3
+              },
+              {
+                "idx": 9,
+                "describe": "拒绝躺下坚持坐凳子（原13:39-13:43，压缩2分钟）",
+                "start": 811,
+                "duration": 5
+              },
+              {
+                "idx": 10,
+                "describe": "整理恐龙模型准备下午活动（原13:43-13:47，压缩3分钟）",
+                "start": 816,
+                "duration": 3
+              },
+              {
+                "idx": 11,
+                "describe": "恐龙太阳系行星排列与暴龙充电法（新增2分钟）",
+                "start": 819,
+                "duration": 2
+              },
+              {
+                "idx": 12,
+                "describe": "向老师展示模型并提班长竞选（压缩5分钟）",
+                "start": 821,
+                "duration": 3
+              },
+              {
+                "idx": 13,
+                "describe": "自由缓冲时间（16分钟）",
+                "start": 824,
+                "duration": 16
+              }
+            ]
+          },
+          {
+            "idx": 14,
+            "describe": "户外活动时在沙坑建造侏罗纪场景，向路过的每个老师拉票",
+            "start": 840,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "快速协作收尾（AA优先整理恐龙模型，BB同步收拾音乐玩具，省略互相检查步骤）",
+                "start": 886,
+                "duration": 7
+              },
+              {
+                "idx": 1,
+                "describe": "灵活处理收尾（AA帮BB折叠钢琴罩，BB协助固定恐龙收纳盒搭扣）",
+                "start": 893,
+                "duration": 7
+              }
+            ]
+          },
+          {
+            "idx": 15,
+            "describe": "捂住耳朵尖叫，因为放学铃声像\"暴龙的吼叫声\"",
+            "start": 900,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 16,
+            "describe": "放学",
+            "start": 960,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 17,
+            "describe": "放学",
+            "start": 1020,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 18,
+            "describe": "放学",
+            "start": 1080,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 19,
+            "describe": "放学",
+            "start": 1140,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 20,
+            "describe": "放学",
+            "start": 1200,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 21,
+            "describe": "放学",
+            "start": 1260,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 22,
+            "describe": "放学",
+            "start": 1320,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 23,
+            "describe": "放学",
+            "start": 1380,
+            "duration": 60,
+            "decompose": {}
+          }
+        ]
+      },
+      "associate": {
+        "memory": {
+          "event": [
+            "node_102",
+            "node_101",
+            "node_100",
+            "node_99",
+            "node_97",
+            "node_96",
+            "node_95",
+            "node_94",
+            "node_92",
+            "node_91",
+            "node_90",
+            "node_89",
+            "node_88",
+            "node_86",
+            "node_85",
+            "node_83",
+            "node_82",
+            "node_81",
+            "node_63",
+            "node_61",
+            "node_60",
+            "node_58",
+            "node_57",
+            "node_56",
+            "node_54",
+            "node_53",
+            "node_52",
+            "node_51",
+            "node_50",
+            "node_49",
+            "node_48",
+            "node_47",
+            "node_46",
+            "node_45",
+            "node_44",
+            "node_43",
+            "node_42",
+            "node_41",
+            "node_22",
+            "node_21",
+            "node_20",
+            "node_19",
+            "node_18",
+            "node_17",
+            "node_15",
+            "node_14",
+            "node_13",
+            "node_11",
+            "node_10",
+            "node_9",
+            "node_7",
+            "node_6",
+            "node_5",
+            "node_4",
+            "node_3",
+            "node_2",
+            "node_1"
+          ],
+          "thought": [
+            "node_119",
+            "node_118",
+            "node_117",
+            "node_116",
+            "node_115",
+            "node_114",
+            "node_113",
+            "node_112",
+            "node_111",
+            "node_110",
+            "node_109",
+            "node_108",
+            "node_107",
+            "node_106",
+            "node_105",
+            "node_104",
+            "node_103",
+            "node_80",
+            "node_79",
+            "node_78",
+            "node_77",
+            "node_76",
+            "node_75",
+            "node_74",
+            "node_73",
+            "node_72",
+            "node_71",
+            "node_70",
+            "node_69",
+            "node_68",
+            "node_67",
+            "node_66",
+            "node_65",
+            "node_64",
+            "node_39",
+            "node_38",
+            "node_37",
+            "node_36",
+            "node_35",
+            "node_34",
+            "node_33",
+            "node_32",
+            "node_31",
+            "node_30",
+            "node_29",
+            "node_28",
+            "node_27",
+            "node_26",
+            "node_25",
+            "node_24",
+            "node_23",
+            "node_0"
+          ],
+          "chat": [
+            "node_120",
+            "node_98",
+            "node_93",
+            "node_87",
+            "node_84",
+            "node_62",
+            "node_59",
+            "node_55",
+            "node_40",
+            "node_16",
+            "node_12",
+            "node_8"
+          ]
+        }
+      },
+      "chats": [
+        [
+          "QQ",
+          "AA，我们来玩倒着数的捉迷藏吧！我藏你找，嘻嘻～"
+        ],
+        [
+          "AA",
+          "捉迷藏没有恐龙厉害！你知道吗？暴龙是白垩纪最厉害的恐龙，它有60颗牙齿，每颗都像香蕉一样大！我们来玩恐龙追捕游戏吧，我当暴龙，你当三角龙！"
+        ],
+        [
+          "QQ",
+          "不要恐龙！倒着数才好玩，我要藏起来啦，你找不到我！嘻嘻～"
+        ],
+        [
+          "AA",
+          "暴龙的牙齿比倒着数厉害多了！你知道吗？三角龙可以用它的三只角保护自己，就像你躲起来一样。我们来玩恐龙保护游戏吧，我当暴龙保护你！"
+        ],
+        [
+          "QQ",
+          "不要恐龙！我要藏蜡笔啦，你找不到我！嘻嘻～"
+        ],
+        [
+          "AA",
+          "蜡笔是画恐龙的工具，不能藏起来！你知道吗？暴龙最喜欢用绿色蜡笔画画了，我们可以一起画一只会发光的暴龙，像小星星一样特别！"
+        ],
+        [
+          "QQ",
+          "不要画恐龙！我要把蜡笔藏起来玩倒着数的捉迷藏，你找不到我！嘻嘻～"
+        ]
+      ],
+      "currently": "AA是一名新入学的孤独症小朋友。今天是小北幼儿园开学第一天。这里有许多小朋友和老师MissT，大家刚刚见面，都充满期待。明天幼儿园要选举班长，AA想参与竞选，他会在今天积极为自己拉票。",
+      "action": {
+        "event": {
+          "subject": "AA",
+          "predicate": "此时",
+          "object": "快速协作收尾（AA优先整理恐龙模型，BB同步收拾音乐玩具，省略互相检查步骤）",
+          "describe": "快速协作收尾（AA优先整理恐龙模型，BB同步收拾音乐玩具，省略互相检查步骤）",
+          "address": [
+            "the Ville",
+            "幼儿园",
+            "操场",
+            "恐龙雕塑"
+          ],
+          "emoji": "快速协作收尾（AA优先整理恐龙模型，BB同步收拾音乐玩具，省略互相检查步骤）"
+        },
+        "obj_event": {
+          "subject": "恐龙雕塑",
+          "predicate": "此时",
+          "object": "已整理完毕",
+          "describe": "已整理完毕",
+          "address": [
+            "the Ville",
+            "幼儿园",
+            "操场",
+            "恐龙雕塑"
+          ],
+          "emoji": ""
+        },
+        "start": "20250512-14:46:00",
+        "duration": 7
+      },
+      "coord": [
+        17,
+        5
+      ]
+    },
+    "BB": {
+      "config_path": "assets\\village\\agents\\BB\\agent.json",
+      "status": {
+        "poignancy": 15
+      },
+      "schedule": {
+        "create": "20250512-09:00:00",
+        "daily_schedule": [
+          {
+            "idx": 0,
+            "describe": "睡觉",
+            "start": 0,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 1,
+            "describe": "睡觉",
+            "start": 60,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 2,
+            "describe": "睡觉",
+            "start": 120,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 3,
+            "describe": "睡觉",
+            "start": 180,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 4,
+            "describe": "睡觉",
+            "start": 240,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 5,
+            "describe": "睡觉",
+            "start": 300,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 6,
+            "describe": "睡觉",
+            "start": 360,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 7,
+            "describe": "睡觉",
+            "start": 420,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 8,
+            "describe": "来到幼儿园教室",
+            "start": 480,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 9,
+            "describe": "音乐课上弹奏《小星星》给大家听",
+            "start": 540,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "走进音乐教室，向MissT老师问好",
+                "start": 540,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "坐在钢琴前，调整座位和姿势",
+                "start": 545,
+                "duration": 1
+              },
+              {
+                "idx": 2,
+                "describe": "QQ想捣乱钢琴，BB耐心劝他一起玩别的游戏，还教他要分享和关心朋友。",
+                "start": 546,
+                "duration": 0
+              },
+              {
+                "idx": 3,
+                "describe": "轻声练习《小星星》的前半段",
+                "start": 546,
+                "duration": 10
+              },
+              {
+                "idx": 4,
+                "describe": "转身对小朋友微笑说：“这是送给你们的星星哦～”",
+                "start": 556,
+                "duration": 5
+              },
+              {
+                "idx": 5,
+                "describe": "完整弹奏《小星星》，并加入自编的“星星眨眼”结尾",
+                "start": 561,
+                "duration": 15
+              },
+              {
+                "idx": 6,
+                "describe": "起身鞠躬，说“谢谢大家，明天选班长请投我一票呀！”",
+                "start": 576,
+                "duration": 5
+              },
+              {
+                "idx": 7,
+                "describe": "帮老师收琴谱，整理钢琴凳",
+                "start": 581,
+                "duration": 5
+              },
+              {
+                "idx": 8,
+                "describe": "主动牵起害羞小朋友的手：“我们一起排队回教室吧？”",
+                "start": 586,
+                "duration": 14
+              }
+            ]
+          },
+          {
+            "idx": 10,
+            "describe": "点心时间主动帮老师分发水果",
+            "start": 600,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "观察老师准备的水果种类和数量",
+                "start": 600,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "主动举手向老师提出帮忙分发水果",
+                "start": 605,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "用托盘小心端水果到每组桌子",
+                "start": 610,
+                "duration": 15
+              },
+              {
+                "idx": 3,
+                "describe": "轻声询问同学“你想要苹果还是香蕉呀？”",
+                "start": 625,
+                "duration": 10
+              },
+              {
+                "idx": 4,
+                "describe": "将水果递给同学并说“给你，要多吃水果哦～”",
+                "start": 635,
+                "duration": 10
+              },
+              {
+                "idx": 5,
+                "describe": "发现水果不够时告诉老师并帮忙补充",
+                "start": 645,
+                "duration": 5
+              },
+              {
+                "idx": 6,
+                "describe": "收拾空托盘和果皮垃圾",
+                "start": 650,
+                "duration": 5
+              },
+              {
+                "idx": 7,
+                "describe": "擦桌子并向老师报告完成任务",
+                "start": 655,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 11,
+            "describe": "户外活动前帮同学整理鞋柜",
+            "start": 660,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "检查鞋柜标签是否清晰，协助贴歪的同学重贴（原11:30-11:40，压缩3分钟）",
+                "start": 687,
+                "duration": 9
+              },
+              {
+                "idx": 1,
+                "describe": "BB帮同学贴标签，想当班长帮助大家！MissT老师夸他是细心的小星星，说不管谁当班长，大家互相帮助才能让班级像星空一样美呢～?",
+                "start": 696,
+                "duration": 1
+              },
+              {
+                "idx": 2,
+                "describe": "用湿巾擦拭鞋柜表面灰尘（原计划4分钟，现压缩至3分钟）",
+                "start": 697,
+                "duration": 3
+              },
+              {
+                "idx": 3,
+                "describe": "向老师报告整理完成，并询问是否需要其他帮助（原计划5分钟，现压缩至3分钟）",
+                "start": 700,
+                "duration": 3
+              },
+              {
+                "idx": 4,
+                "describe": "和整理好的同学击掌庆祝，说\"下次我还帮你呀！\"（原计划7分钟，现压缩至2分钟）",
+                "start": 703,
+                "duration": 2
+              },
+              {
+                "idx": 5,
+                "describe": "洗手准备参加户外活动（延长至15分钟，包含捉迷藏前的洗手消毒和老师互动时间）",
+                "start": 705,
+                "duration": 15
+              }
+            ]
+          },
+          {
+            "idx": 12,
+            "describe": "午休时给睡不着的小朋友讲绘本故事",
+            "start": 720,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "走到午休区，挑选合适的绘本",
+                "start": 720,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "轻声询问睡不着的小朋友是否需要听故事",
+                "start": 725,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "坐在小朋友床边，开始讲《小星星》改编的绘本",
+                "start": 730,
+                "duration": 15
+              },
+              {
+                "idx": 3,
+                "describe": "模仿绘本角色声音，增加互动",
+                "start": 745,
+                "duration": 10
+              },
+              {
+                "idx": 4,
+                "describe": "观察小朋友反应，调整讲故事节奏",
+                "start": 755,
+                "duration": 5
+              },
+              {
+                "idx": 5,
+                "describe": "穿插自编的“秘密花园音乐”哼唱",
+                "start": 760,
+                "duration": 5
+              },
+              {
+                "idx": 6,
+                "describe": "引导小朋友想象绘本画面",
+                "start": 765,
+                "duration": 10
+              },
+              {
+                "idx": 7,
+                "describe": "合上绘本，轻声道午安",
+                "start": 775,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 13,
+            "describe": "午休",
+            "start": 780,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "继续午休（实际睡眠时间缩短为21分钟）",
+                "start": 810,
+                "duration": 21
+              },
+              {
+                "idx": 1,
+                "describe": "快速完成：",
+                "start": 831,
+                "duration": 9
+              }
+            ]
+          },
+          {
+            "idx": 14,
+            "describe": "操场玩耍时提议\"我们轮流玩滑梯吧\"",
+            "start": 840,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "走到操场并观察其他小朋友玩耍",
+                "start": 840,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "找到滑梯附近的小朋友，微笑打招呼",
+                "start": 845,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "提议\"我们轮流玩滑梯吧\"",
+                "start": 850,
+                "duration": 8
+              },
+              {
+                "idx": 3,
+                "describe": "AA和BB商量合作计划：AA用恐龙玩具演示轮流规则，BB用钢琴玩具打节拍控制轮换节奏",
+                "start": 858,
+                "duration": 5
+              },
+              {
+                "idx": 4,
+                "describe": "联合示范新玩法（AA喊\"霸王龙轮到你啦\"，BB弹琴示意换人）",
+                "start": 863,
+                "duration": 7
+              },
+              {
+                "idx": 5,
+                "describe": "开展融合活动：每滑梯3次就切换为AA的恐龙小课堂（每次2分钟）",
+                "start": 870,
+                "duration": 8
+              },
+              {
+                "idx": 6,
+                "describe": "休息时间用钢琴玩具弹简单旋律，AA配合恐龙叫声打拍子",
+                "start": 878,
+                "duration": 7
+              },
+              {
+                "idx": 7,
+                "describe": "组织\"恐龙音乐会\"（BB弹琴模拟恐龙走路节奏，AA教对应恐龙知识）",
+                "start": 885,
+                "duration": 7
+              },
+              {
+                "idx": 8,
+                "describe": "总结新规则：\"明天继续恐龙钢琴派对哦！\"，帮AA收拾教具",
+                "start": 892,
+                "duration": 8
+              }
+            ]
+          },
+          {
+            "idx": 15,
+            "describe": "自由活动时教新朋友弹\"秘密花园音乐\"",
+            "start": 900,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 16,
+            "describe": "离园前对全班说\"明天选班长请支持我呀\"",
+            "start": 960,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 17,
+            "describe": "放学",
+            "start": 1020,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 18,
+            "describe": "放学",
+            "start": 1080,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 19,
+            "describe": "放学",
+            "start": 1140,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 20,
+            "describe": "放学",
+            "start": 1200,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 21,
+            "describe": "放学",
+            "start": 1260,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 22,
+            "describe": "放学",
+            "start": 1320,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 23,
+            "describe": "放学",
+            "start": 1380,
+            "duration": 60,
+            "decompose": {}
+          }
+        ]
+      },
+      "associate": {
+        "memory": {
+          "event": [
+            "node_84",
+            "node_83",
+            "node_65",
+            "node_64",
+            "node_62",
+            "node_61",
+            "node_60",
+            "node_59",
+            "node_58",
+            "node_57",
+            "node_55",
+            "node_54",
+            "node_52",
+            "node_50",
+            "node_49",
+            "node_48",
+            "node_47",
+            "node_46",
+            "node_44",
+            "node_43",
+            "node_41",
+            "node_40",
+            "node_22",
+            "node_21",
+            "node_20",
+            "node_19",
+            "node_18",
+            "node_17",
+            "node_16",
+            "node_15",
+            "node_14",
+            "node_13",
+            "node_12",
+            "node_11",
+            "node_10",
+            "node_9",
+            "node_8",
+            "node_7",
+            "node_6",
+            "node_5",
+            "node_3",
+            "node_2"
+          ],
+          "thought": [
+            "node_82",
+            "node_81",
+            "node_80",
+            "node_79",
+            "node_78",
+            "node_77",
+            "node_76",
+            "node_75",
+            "node_74",
+            "node_73",
+            "node_72",
+            "node_71",
+            "node_70",
+            "node_69",
+            "node_68",
+            "node_67",
+            "node_66",
+            "node_39",
+            "node_38",
+            "node_37",
+            "node_36",
+            "node_35",
+            "node_34",
+            "node_33",
+            "node_32",
+            "node_31",
+            "node_30",
+            "node_29",
+            "node_28",
+            "node_27",
+            "node_26",
+            "node_25",
+            "node_24",
+            "node_23",
+            "node_0"
+          ],
+          "chat": [
+            "node_63",
+            "node_56",
+            "node_53",
+            "node_51",
+            "node_45",
+            "node_42",
+            "node_4",
+            "node_1"
+          ]
+        }
+      },
+      "chats": [],
+      "currently": "今天是小北幼儿园开学第一天。这里有许多小朋友和老师MissT，大家刚刚见面，都充满期待。BB是一名新入学的小朋友，她期待认识新朋友。明天幼儿园要选举班长，BB想参与竞选，她会在今天一天的时间中积极为自己拉票。",
+      "action": {
+        "event": {
+          "subject": "BB",
+          "predicate": "此时",
+          "object": "组织\"恐龙音乐会\"（BB弹琴模拟恐龙走路节奏，AA教对应恐龙知识）",
+          "describe": "组织\"恐龙音乐会\"（BB弹琴模拟恐龙走路节奏，AA教对应恐龙知识）",
+          "address": [
+            "the Ville",
+            "幼儿园",
+            "教室",
+            "钢琴"
+          ],
+          "emoji": "组织\"恐龙音乐会\"（BB弹琴模拟恐龙走路节奏，AA教对应恐龙知识）"
+        },
+        "obj_event": {
+          "subject": "钢琴",
+          "predicate": "此时",
+          "object": "正演奏恐龙节奏",
+          "describe": "正演奏恐龙节奏",
+          "address": [
+            "the Ville",
+            "幼儿园",
+            "教室",
+            "钢琴"
+          ],
+          "emoji": ""
+        },
+        "start": "20250512-14:45:00",
+        "duration": 7
+      },
+      "coord": [
+        44,
+        20
+      ]
+    },
+    "QQ": {
+      "config_path": "assets\\village\\agents\\QQ\\agent.json",
+      "status": {
+        "poignancy": 127
+      },
+      "schedule": {
+        "create": "20250512-09:00:00",
+        "daily_schedule": [
+          {
+            "idx": 0,
+            "describe": "睡觉",
+            "start": 0,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 1,
+            "describe": "睡觉",
+            "start": 60,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 2,
+            "describe": "睡觉",
+            "start": 120,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 3,
+            "describe": "睡觉",
+            "start": 180,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 4,
+            "describe": "睡觉",
+            "start": 240,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 5,
+            "describe": "睡觉",
+            "start": 300,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 6,
+            "describe": "睡觉",
+            "start": 360,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 7,
+            "describe": "睡觉",
+            "start": 420,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 8,
+            "describe": "来到幼儿园教室",
+            "start": 480,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 9,
+            "describe": "绘画《我的新朋友》（偷偷调换邻座蜡笔）",
+            "start": 540,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "和BB一起玩积木，认真搭建小房子",
+                "start": 546,
+                "duration": 9
+              },
+              {
+                "idx": 1,
+                "describe": "主动把红色蜡笔还给邻座，并帮忙整理彩笔盒",
+                "start": 555,
+                "duration": 10
+              },
+              {
+                "idx": 2,
+                "describe": "专注地用蜡笔画《我的新朋友》，画完后悄悄给BB看",
+                "start": 565,
+                "duration": 11
+              },
+              {
+                "idx": 3,
+                "describe": "恐龙好厉害！AA说小行星撞地球让恐龙没了，暴龙咬人超痛！QQ想用蜡笔吓人，但AA只爱聊恐龙的大牙齿！",
+                "start": 576,
+                "duration": 0
+              },
+              {
+                "idx": 4,
+                "describe": "帮老师分发绘画纸（原4分钟压缩为8分钟）",
+                "start": 576,
+                "duration": 8
+              },
+              {
+                "idx": 5,
+                "describe": "和同学们分享蜡笔学习交换颜色（原5分钟压缩为5分钟）",
+                "start": 584,
+                "duration": 5
+              },
+              {
+                "idx": 6,
+                "describe": "得到老师表扬后开心坐回座位（原5分钟延长为11分钟）",
+                "start": 589,
+                "duration": 11
+              }
+            ]
+          },
+          {
+            "idx": 10,
+            "describe": "点心时间（故意把饼干掰碎扔到地上看反应）",
+            "start": 600,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "快速帮老师清理剩余的饼干碎，缩短拍手时间",
+                "start": 655,
+                "duration": 3
+              },
+              {
+                "idx": 1,
+                "describe": "匆忙回到座位喝水，计划下午继续玩恐龙游戏时对AA喊：\"下次我来画暴龙！\"",
+                "start": 658,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "idx": 11,
+            "describe": "整理玩具时把积木藏到教室角落",
+            "start": 660,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "火速回收藏起的积木（边跑边掉彩色木块）",
+                "start": 687,
+                "duration": 8
+              },
+              {
+                "idx": 1,
+                "describe": "把三块积木偷偷塞进BB的裤兜当\"宝藏\"",
+                "start": 695,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "和BB玩捉迷藏时故意躲在积木柜里（发出咯咯笑声）",
+                "start": 700,
+                "duration": 10
+              },
+              {
+                "idx": 3,
+                "describe": "被找到后假装摔倒踢翻玩具筐（实际在踢散瞬间藏起最后一块积木）",
+                "start": 710,
+                "duration": 5
+              },
+              {
+                "idx": 4,
+                "describe": "指着天花板喊\"看！积木飞船！\"成功转移所有人注意力",
+                "start": 715,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 12,
+            "describe": "吃午饭（把不喜欢的胡萝卜偷偷放进同学餐盘）",
+            "start": 720,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "被AA发现藏蜡笔，两人蹲在桌下小声争执（QQ坚持要玩捉迷藏，AA举着恐龙贴纸抗议）",
+                "start": 765,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "老师过来查看，QQ立刻把胡萝卜塞进AA的恐龙绘本里",
+                "start": 770,
+                "duration": 3
+              },
+              {
+                "idx": 2,
+                "describe": "AA翻书时发现胡萝卜尖叫，QQ趁机跑开，绕着餐桌玩真人版捉迷藏",
+                "start": 773,
+                "duration": 1
+              },
+              {
+                "idx": 3,
+                "describe": "老师教我和AA一起玩恐龙捉迷藏，我躲起来学暴龙叫，AA当恐龙找我，最后还能用饼干堆恐龙雪！像小星星一样闪闪发亮地玩游戏最开心啦～?",
+                "start": 774,
+                "duration": 2
+              },
+              {
+                "idx": 4,
+                "describe": "被老师拎回座位，嘟着嘴用勺子敲打空餐盘伴奏（原12:57-12:59事件压缩时长）",
+                "start": 776,
+                "duration": 2
+              },
+              {
+                "idx": 5,
+                "describe": "突然抢过AA的暴龙橡皮扔向垃圾桶，大喊\"恐龙灭绝啦！\"（原12:59-13:00事件顺延）",
+                "start": 778,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "idx": 13,
+            "describe": "午休时间（假装睡着后扯旁边小朋友的被子）",
+            "start": 780,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "爬上小床，假装乖乖躺下",
+                "start": 780,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "偷看老师位置，等待MissT转身",
+                "start": 785,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "用脚轻轻踢旁边小朋友的床沿试探",
+                "start": 790,
+                "duration": 5
+              },
+              {
+                "idx": 3,
+                "describe": "突然发出打呼噜声吸引注意",
+                "start": 795,
+                "duration": 5
+              },
+              {
+                "idx": 4,
+                "describe": "趁没人注意时拽走隔壁被子一角",
+                "start": 800,
+                "duration": 10
+              },
+              {
+                "idx": 5,
+                "describe": "把被子团成球塞到自己床底下",
+                "start": 810,
+                "duration": 10
+              },
+              {
+                "idx": 6,
+                "describe": "闭眼装睡，偷听小朋友找被子的动静",
+                "start": 820,
+                "duration": 10
+              },
+              {
+                "idx": 7,
+                "describe": "在被发现前假装刚睡醒打哈欠",
+                "start": 830,
+                "duration": 5
+              },
+              {
+                "idx": 8,
+                "describe": "指着床底\"惊讶\"喊\"谁的被子掉啦？\"",
+                "start": 835,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 14,
+            "describe": "户外活动（在操场疯跑撞倒沙堡）",
+            "start": 840,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "快速躲到滑梯底下数\"5-4-3-2-1！\"",
+                "start": 886,
+                "duration": 4
+              },
+              {
+                "idx": 1,
+                "describe": "发现AA还在原地比划恐龙爪子，气得跺脚",
+                "start": 890,
+                "duration": 3
+              },
+              {
+                "idx": 2,
+                "describe": "突然看到老师走过来，假装在观察蚂蚁搬家",
+                "start": 893,
+                "duration": 4
+              },
+              {
+                "idx": 3,
+                "describe": "被老师拎着衣领带回教室，小声嘀咕\"我是被流星抓住的外星人\"",
+                "start": 897,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "idx": 15,
+            "describe": "组织\"不守规则\"的捉迷藏（要求必须倒着数数）",
+            "start": 900,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 16,
+            "describe": "故意把班长选举用的投票箱藏起来又放回",
+            "start": 960,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 17,
+            "describe": "放学时把小朋友的鞋子左右调换位置",
+            "start": 1020,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 18,
+            "describe": "放学",
+            "start": 1080,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 19,
+            "describe": "放学",
+            "start": 1140,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 20,
+            "describe": "放学",
+            "start": 1200,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 21,
+            "describe": "放学",
+            "start": 1260,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 22,
+            "describe": "放学",
+            "start": 1320,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 23,
+            "describe": "放学",
+            "start": 1380,
+            "duration": 60,
+            "decompose": {}
+          }
+        ]
+      },
+      "associate": {
+        "memory": {
+          "event": [
+            "node_143",
+            "node_142",
+            "node_141",
+            "node_140",
+            "node_139",
+            "node_138",
+            "node_137",
+            "node_136",
+            "node_135",
+            "node_134",
+            "node_133",
+            "node_132",
+            "node_131",
+            "node_130",
+            "node_129",
+            "node_127",
+            "node_126",
+            "node_108",
+            "node_107",
+            "node_106",
+            "node_105",
+            "node_103",
+            "node_102",
+            "node_101",
+            "node_99",
+            "node_98",
+            "node_97",
+            "node_96",
+            "node_95",
+            "node_94",
+            "node_93",
+            "node_92",
+            "node_91",
+            "node_90",
+            "node_89",
+            "node_88",
+            "node_87",
+            "node_86",
+            "node_85",
+            "node_84",
+            "node_66",
+            "node_64",
+            "node_63",
+            "node_62",
+            "node_61",
+            "node_60",
+            "node_59",
+            "node_58",
+            "node_57",
+            "node_55",
+            "node_54",
+            "node_53",
+            "node_52",
+            "node_50",
+            "node_49",
+            "node_48",
+            "node_47",
+            "node_46",
+            "node_45",
+            "node_44",
+            "node_43",
+            "node_25",
+            "node_24",
+            "node_23",
+            "node_22",
+            "node_21",
+            "node_20",
+            "node_19",
+            "node_18",
+            "node_17",
+            "node_16",
+            "node_15",
+            "node_13",
+            "node_12",
+            "node_11",
+            "node_10",
+            "node_9",
+            "node_8",
+            "node_7",
+            "node_6",
+            "node_4",
+            "node_3",
+            "node_2",
+            "node_1"
+          ],
+          "thought": [
+            "node_125",
+            "node_124",
+            "node_123",
+            "node_122",
+            "node_121",
+            "node_120",
+            "node_119",
+            "node_118",
+            "node_117",
+            "node_116",
+            "node_115",
+            "node_114",
+            "node_113",
+            "node_112",
+            "node_111",
+            "node_110",
+            "node_109",
+            "node_83",
+            "node_82",
+            "node_81",
+            "node_80",
+            "node_79",
+            "node_78",
+            "node_77",
+            "node_76",
+            "node_75",
+            "node_74",
+            "node_73",
+            "node_72",
+            "node_71",
+            "node_70",
+            "node_69",
+            "node_68",
+            "node_67",
+            "node_42",
+            "node_41",
+            "node_40",
+            "node_39",
+            "node_38",
+            "node_37",
+            "node_36",
+            "node_35",
+            "node_34",
+            "node_33",
+            "node_32",
+            "node_31",
+            "node_30",
+            "node_29",
+            "node_28",
+            "node_27",
+            "node_26",
+            "node_0"
+          ],
+          "chat": [
+            "node_144",
+            "node_128",
+            "node_104",
+            "node_100",
+            "node_65",
+            "node_56",
+            "node_51",
+            "node_14",
+            "node_5"
+          ]
+        }
+      },
+      "chats": [
+        [
+          "MissT",
+          "QQ小朋友，老师看到你刚才绕着餐桌玩捉迷藏的样子好有趣呢！你知道吗？每个人玩游戏的方式都不一样，就像天上的小星星一样各有各的闪光点。我们要用暖暖的方式和朋友们一起玩，这样大家都会很开心哦～?"
+        ],
+        [
+          "QQ",
+          "老师，我想玩捉迷藏！AA不喜欢我藏东西，但我觉得好好玩！"
+        ],
+        [
+          "MissT",
+          "QQ小朋友，老师知道你喜欢玩捉迷藏，这真的很有趣呢！不过我们要记得，每个小朋友喜欢的东西都不一样哦。AA可能更喜欢其他游戏，我们可以一起想想有没有大家都喜欢的玩法，就像小星星们一起闪闪发光一样～?"
+        ],
+        [
+          "QQ",
+          "老师，那我们可以玩恐龙捉迷藏吗？AA当恐龙，我来躲！"
+        ],
+        [
+          "MissT",
+          "哇！QQ小朋友，你的想法真是太棒了！恐龙捉迷藏听起来超级有趣呢～让AA当恐龙，你来躲，这样大家都能玩到自己喜欢的游戏啦！你知道吗？就像小星星们一起在夜空里玩耍一样，每个小朋友都可以用自己的方式闪闪发光哦～?"
+        ],
+        [
+          "QQ",
+          "老师，那我躲起来的时候可以学恐龙叫吗？AA一定找不到我！嘻嘻～"
+        ],
+        [
+          "MissT",
+          "当然可以啦，QQ小朋友！你学恐龙叫的样子一定会让游戏更有趣呢～不过我们要记得用暖暖的声音哦，这样AA和其他小朋友都会觉得像在星空下探险一样开心。每个人玩游戏的方式都不一样，但当我们像小星星一样互相配合时，就能创造出最闪亮的游戏时光啦！?"
+        ],
+        [
+          "QQ",
+          "老师，那我躲起来的时候要学暴龙叫，AA肯定吓一跳！然后我们一起用饼干堆恐龙雪好不好？嘻嘻～"
+        ],
+        [
+          "QQ",
+          "AA，我们来玩倒着数的捉迷藏吧！我藏你找，嘻嘻～"
+        ],
+        [
+          "AA",
+          "捉迷藏没有恐龙厉害！你知道吗？暴龙是白垩纪最厉害的恐龙，它有60颗牙齿，每颗都像香蕉一样大！我们来玩恐龙追捕游戏吧，我当暴龙，你当三角龙！"
+        ],
+        [
+          "QQ",
+          "不要恐龙！倒着数才好玩，我要藏起来啦，你找不到我！嘻嘻～"
+        ],
+        [
+          "AA",
+          "暴龙的牙齿比倒着数厉害多了！你知道吗？三角龙可以用它的三只角保护自己，就像你躲起来一样。我们来玩恐龙保护游戏吧，我当暴龙保护你！"
+        ],
+        [
+          "QQ",
+          "不要恐龙！我要藏蜡笔啦，你找不到我！嘻嘻～"
+        ],
+        [
+          "AA",
+          "蜡笔是画恐龙的工具，不能藏起来！你知道吗？暴龙最喜欢用绿色蜡笔画画了，我们可以一起画一只会发光的暴龙，像小星星一样特别！"
+        ],
+        [
+          "QQ",
+          "不要画恐龙！我要把蜡笔藏起来玩倒着数的捉迷藏，你找不到我！嘻嘻～"
+        ]
+      ],
+      "currently": "今天是小北幼儿园开学第一天。这里有许多小朋友和老师MissT，大家刚刚见面，都充满期待。QQ是一名新入学的小朋友，他期待认识新朋友。明天幼儿园要选举班长，QQ会参与投票，他会在投票前和其他小朋友们讨论如何投票更好。",
+      "action": {
+        "event": {
+          "subject": "QQ",
+          "predicate": "此时",
+          "object": "快速躲到滑梯底下数\"5-4-3-2-1！\"",
+          "describe": "快速躲到滑梯底下数\"5-4-3-2-1！\"",
+          "address": [
+            "the Ville",
+            "黑板",
+            "教室",
+            "幼儿园"
+          ],
+          "emoji": "快速躲到滑梯底下数\"5-4-3-2-1！\""
+        },
+        "obj_event": {
+          "subject": "幼儿园",
+          "predicate": "此时",
+          "object": "充满孩子笑声",
+          "describe": "充满孩子笑声",
+          "address": [
+            "the Ville",
+            "黑板",
+            "教室",
+            "幼儿园"
+          ],
+          "emoji": ""
+        },
+        "start": "20250512-14:46:00",
+        "duration": 4
+      },
+      "coord": [
+        33,
+        13
+      ]
+    },
+    "MissT": {
+      "config_path": "assets\\village\\agents\\MissT\\agent.json",
+      "status": {
+        "poignancy": 46
+      },
+      "schedule": {
+        "create": "20250512-09:00:00",
+        "daily_schedule": [
+          {
+            "idx": 0,
+            "describe": "睡觉",
+            "start": 0,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 1,
+            "describe": "睡觉",
+            "start": 60,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 2,
+            "describe": "睡觉",
+            "start": 120,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 3,
+            "describe": "睡觉",
+            "start": 180,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 4,
+            "describe": "睡觉",
+            "start": 240,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 5,
+            "describe": "睡觉",
+            "start": 300,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 6,
+            "describe": "睡觉",
+            "start": 360,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 7,
+            "describe": "睡觉",
+            "start": 420,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 8,
+            "describe": "来到幼儿园教室，准备迎接小朋友们",
+            "start": 480,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 9,
+            "describe": "在校门口微笑迎接每个孩子",
+            "start": 540,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "在校门口站好位置，整理着装和微笑表情",
+                "start": 540,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "对第一个到达的孩子挥手说：“早上好！今天我们一起找朋友好吗？”",
+                "start": 545,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "蹲下与孩子平视，询问假期趣事并引导分享",
+                "start": 550,
+                "duration": 10
+              },
+              {
+                "idx": 3,
+                "describe": "看到AA时主动上前，轻声说：“AA喜欢今天的云朵吗？它们和你画的好像哦”",
+                "start": 560,
+                "duration": 5
+              },
+              {
+                "idx": 4,
+                "describe": "向家长简短反馈孩子入园状态",
+                "start": 565,
+                "duration": 5
+              },
+              {
+                "idx": 5,
+                "describe": "组织已到的孩子们玩“名字接龙”游戏",
+                "start": 570,
+                "duration": 10
+              },
+              {
+                "idx": 6,
+                "describe": "特意让AA担任游戏发令员，并说：“每个人轮流玩，不一样才有趣呀”",
+                "start": 580,
+                "duration": 5
+              },
+              {
+                "idx": 7,
+                "describe": "检查全班到齐情况，悄悄记录AA的互动表现",
+                "start": 585,
+                "duration": 5
+              },
+              {
+                "idx": 8,
+                "describe": "拍拍手宣布：“现在我们要像小云朵一样飘进教室啦”",
+                "start": 590,
+                "duration": 5
+              },
+              {
+                "idx": 9,
+                "describe": "最后环视校门，确保没有迟到孩子",
+                "start": 595,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 10,
+            "describe": "带大家唱《找朋友》儿歌",
+            "start": 600,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "饼干雪恐龙游戏（额外2分钟）+ 自由互动（3分钟）",
+                "start": 627,
+                "duration": 5
+              },
+              {
+                "idx": 1,
+                "describe": "发放小贴纸奖励（保持12分钟，含提前5分钟开始）",
+                "start": 632,
+                "duration": 11
+              },
+              {
+                "idx": 2,
+                "describe": "总结与过渡（17分钟）",
+                "start": 643,
+                "duration": 17
+              }
+            ]
+          },
+          {
+            "idx": 11,
+            "describe": "教小朋友用积木搭友谊桥",
+            "start": 660,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "协助AA用积木表达创意（缩短3分钟），同时让其他孩子轮流分享设计想法",
+                "start": 697,
+                "duration": 9
+              },
+              {
+                "idx": 1,
+                "describe": "组织全班展示作品并表扬合作精神（缩短2分钟）",
+                "start": 706,
+                "duration": 7
+              },
+              {
+                "idx": 2,
+                "describe": "收拾积木并强化主题：\"帮助朋友整理也是友谊的一部分，就像BB刚才帮助同学一样！\"",
+                "start": 713,
+                "duration": 7
+              }
+            ]
+          },
+          {
+            "idx": 12,
+            "describe": "播放轻音乐陪伴孩子们午休",
+            "start": 720,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "轻声整理游戏道具（饼干盒/蜡笔等），避免发出声响",
+                "start": 776,
+                "duration": 2
+              },
+              {
+                "idx": 1,
+                "describe": "最后巡视全班，确认所有孩子安睡后回到观察角落",
+                "start": 778,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "idx": 13,
+            "describe": "帮AA整理歪掉的小领结",
+            "start": 780,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "提醒游戏准备（原4分钟压缩为3分钟）",
+                "start": 810,
+                "duration": 3
+              },
+              {
+                "idx": 1,
+                "describe": "检查道具+游戏开场（原20分钟压缩为6分钟）",
+                "start": 813,
+                "duration": 6
+              },
+              {
+                "idx": 2,
+                "describe": "暴龙充电法活动（新增2分钟）",
+                "start": 819,
+                "duration": 2
+              },
+              {
+                "idx": 3,
+                "describe": "游戏主体环节（19分钟，延续原开场环节内容）",
+                "start": 821,
+                "duration": 19
+              }
+            ]
+          },
+          {
+            "idx": 14,
+            "describe": "带大家玩\"手拉手过彩虹桥\"游戏",
+            "start": 840,
+            "duration": 60,
+            "decompose": [
+              {
+                "idx": 0,
+                "describe": "向小朋友们介绍\"手拉手过彩虹桥\"游戏规则",
+                "start": 840,
+                "duration": 10
+              },
+              {
+                "idx": 1,
+                "describe": "示范如何安全地手拉手通过彩虹桥",
+                "start": 850,
+                "duration": 5
+              },
+              {
+                "idx": 2,
+                "describe": "将小朋友们分成小组，确保每组都有不同性格的孩子",
+                "start": 855,
+                "duration": 10
+              },
+              {
+                "idx": 3,
+                "describe": "特别关注AA，帮助他找到合适的小组伙伴",
+                "start": 865,
+                "duration": 5
+              },
+              {
+                "idx": 4,
+                "describe": "带领第一组小朋友开始游戏，边走边鼓励大家",
+                "start": 870,
+                "duration": 10
+              },
+              {
+                "idx": 5,
+                "describe": "观察AA的表现，适时给予他鼓励和指导",
+                "start": 880,
+                "duration": 5
+              },
+              {
+                "idx": 6,
+                "describe": "带领第二组小朋友进行游戏，强调团队合作",
+                "start": 885,
+                "duration": 10
+              },
+              {
+                "idx": 7,
+                "describe": "总结游戏，表扬所有小朋友的努力，特别提到AA的进步",
+                "start": 895,
+                "duration": 5
+              }
+            ]
+          },
+          {
+            "idx": 15,
+            "describe": "悄悄给AA递他最喜欢的蓝色蜡笔",
+            "start": 900,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 16,
+            "describe": "讨论\"为什么好朋友很重要\"",
+            "start": 960,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 17,
+            "describe": "放学",
+            "start": 1020,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 18,
+            "describe": "放学",
+            "start": 1080,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 19,
+            "describe": "放学",
+            "start": 1140,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 20,
+            "describe": "放学",
+            "start": 1200,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 21,
+            "describe": "放学",
+            "start": 1260,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 22,
+            "describe": "放学",
+            "start": 1320,
+            "duration": 60,
+            "decompose": {}
+          },
+          {
+            "idx": 23,
+            "describe": "放学",
+            "start": 1380,
+            "duration": 60,
+            "decompose": {}
+          }
+        ]
+      },
+      "associate": {
+        "memory": {
+          "event": [
+            "node_121",
+            "node_120",
+            "node_119",
+            "node_118",
+            "node_117",
+            "node_116",
+            "node_98",
+            "node_97",
+            "node_95",
+            "node_93",
+            "node_92",
+            "node_90",
+            "node_89",
+            "node_88",
+            "node_87",
+            "node_86",
+            "node_85",
+            "node_83",
+            "node_82",
+            "node_81",
+            "node_79",
+            "node_78",
+            "node_77",
+            "node_76",
+            "node_75",
+            "node_60",
+            "node_59",
+            "node_58",
+            "node_57",
+            "node_56",
+            "node_55",
+            "node_53",
+            "node_52",
+            "node_51",
+            "node_50",
+            "node_49",
+            "node_48",
+            "node_45",
+            "node_44",
+            "node_43",
+            "node_42",
+            "node_40",
+            "node_22",
+            "node_21",
+            "node_20",
+            "node_19",
+            "node_18",
+            "node_17",
+            "node_16",
+            "node_15",
+            "node_14",
+            "node_13",
+            "node_12",
+            "node_11",
+            "node_10",
+            "node_9",
+            "node_8",
+            "node_7",
+            "node_6",
+            "node_5",
+            "node_4",
+            "node_3",
+            "node_2"
+          ],
+          "thought": [
+            "node_115",
+            "node_114",
+            "node_113",
+            "node_112",
+            "node_111",
+            "node_110",
+            "node_109",
+            "node_108",
+            "node_107",
+            "node_106",
+            "node_105",
+            "node_104",
+            "node_103",
+            "node_102",
+            "node_101",
+            "node_100",
+            "node_99",
+            "node_73",
+            "node_72",
+            "node_71",
+            "node_70",
+            "node_69",
+            "node_68",
+            "node_67",
+            "node_66",
+            "node_65",
+            "node_64",
+            "node_63",
+            "node_62",
+            "node_61",
+            "node_39",
+            "node_38",
+            "node_37",
+            "node_36",
+            "node_35",
+            "node_34",
+            "node_33",
+            "node_32",
+            "node_31",
+            "node_30",
+            "node_29",
+            "node_28",
+            "node_27",
+            "node_26",
+            "node_25",
+            "node_24",
+            "node_23",
+            "node_0"
+          ],
+          "chat": [
+            "node_96",
+            "node_94",
+            "node_91",
+            "node_84",
+            "node_80",
+            "node_74",
+            "node_54",
+            "node_47",
+            "node_46",
+            "node_41",
+            "node_1"
+          ]
+        }
+      },
+      "chats": [],
+      "currently": "今天是小北幼儿园开学的第一天。MissT会和每个小朋友打招呼，鼓励每个人交朋友。她非常关心AA，因为AA是一个孤独症小孩，但她绝对不会告诉任何人AA是孤独症，她只会不停告诉每一个小孩，要尊重和理解差异，每个人都不一样。明天幼儿园要选举班长，AA和BB都会竞选，MissT会鼓励小朋友们参与投票，她自己也在不断思考，选谁当班长更好。",
+      "action": {
+        "event": {
+          "subject": "MissT",
+          "predicate": "此时",
+          "object": "带领第二组小朋友进行游戏，强调团队合作",
+          "describe": "带领第二组小朋友进行游戏，强调团队合作",
+          "address": [
+            "the Ville",
+            "幼儿园",
+            "操场",
+            "沙滩球"
+          ],
+          "emoji": "带领第二组小朋友进行游戏，强调团队合作"
+        },
+        "obj_event": {
+          "subject": "沙滩球",
+          "predicate": "此时",
+          "object": "正在被传递玩耍",
+          "describe": "正在被传递玩耍",
+          "address": [
+            "the Ville",
+            "幼儿园",
+            "操场",
+            "沙滩球"
+          ],
+          "emoji": ""
+        },
+        "start": "20250512-14:45:00",
+        "duration": 10
+      },
+      "coord": [
+        33,
+        13
+      ]
+    }
+  },
+  "api_keys": {
+    "OPENAI_API_KEY": "sk-3ijUbpq1p9DtmydgTk0Rr1cWRZVbRtT8QlZ2nv2wXZgZ6P9x",
+    "QIANFAN_AK": "",
+    "QIANFAN_SK": "",
+    "SPARK_APPID": "",
+    "SPARK_API_SECRET": "",
+    "SPARK_API_KEY": "",
+    "ZHIPUAI_API_KEY": ""
+  },
+  "step": 117
+}

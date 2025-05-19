@@ -1,0 +1,2883 @@
+===== Node: node_0 =====
+Type: thought
+Subject: AA
+Predicate: 计划
+Object: 2025年05月12日（星期一）09:00
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:00:00
+Expire: 20250611-09:00:00
+Access: 20250512-09:00:00
+Doc Hash: cd982ac8cf861a511519531c0091adbdb86b8780d1691f88c16b30e8bc6e5ac6
+Text:
+这是 AA 在 2025年05月12日（星期一）09:00 的计划：早上8点来到幼儿园教室，向MissT老师问好并重复自己的生日信息；上午8:30在晨圈时间主动举手背诵太阳系行星知识；上午9点美术课时坚持只使用绿色蜡笔，并向邻座小朋友讲解恐龙灭绝理论；上午10点课间休息时拦住三个小朋友询问生日，然后宣布"我要当班长因为我知道100种恐龙名字"；上午10:30点心时间把饼干摆成恐龙骨架形状才肯食用；中午11点集体活动时突然拍手三下打断老师讲话，开始介绍翼龙飞行原理；中午12点午餐时把胡萝卜挑出来排成"VOTE AA"字样；下午1点午休时间拒绝躺下，坐着绿色小凳子数恐龙模型；下午2点户外活动时在沙坑建造侏罗纪场景，向路过的每个老师拉票；下午3点离园前突然捂住耳朵尖叫，因为放学铃声像"暴龙的吼叫声"
+
+===== Node: node_1 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 进入美术教室并找到绿色凳子坐下
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 8
+flapeye: 7
+Create: 20250512-09:03:00
+Expire: 20250611-09:03:00
+Access: 20250512-09:03:00
+Doc Hash: b57755a000abdc29c88ace36557205a20342366e1e4c865442a885766710ada2
+Text:
+AA 进入美术教室并找到绿色凳子坐下
+
+===== Node: node_10 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 迅速整理绿色蜡笔，仍拒绝归还其他颜色蜡笔（原09:55-10:00延长至10分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-09:54:00
+Expire: 20250611-09:54:00
+Access: 20250512-09:54:00
+Doc Hash: 29b6bb77073b0c05221915381a777544a2273ea519e1a1d3b96f14e9c4410471
+Text:
+AA 迅速整理绿色蜡笔，仍拒绝归还其他颜色蜡笔（原09:55-10:00延长至10分钟）
+
+===== Node: node_100 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 向MissT老师展示合作成果（AA讲解恐龙知识，BB弹奏背景音乐）
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:33:00
+Expire: 20250611-14:33:00
+Access: 20250512-14:33:00
+Doc Hash: 7a124f91aa6627349d722d9d37af4611a33e745cd8f52aaf0df3364f9acc8424
+Text:
+向MissT老师展示合作成果（AA讲解恐龙知识，BB弹奏背景音乐）
+
+===== Node: node_101 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 共同邀请同学参与（AA询问生日，BB补充"我们轮流当班长哦"）
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:39:00
+Expire: 20250611-14:39:00
+Access: 20250512-14:39:00
+Doc Hash: 0080bce81f81eeb2913a35913bc675faf602b93448af22616d3e4a1d23bb72e7
+Text:
+共同邀请同学参与（AA询问生日，BB补充"我们轮流当班长哦"）
+
+===== Node: node_102 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 双人游戏时间（AA指导恐龙场景规则，BB设计音乐互动环节）
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 492e99a7d714313ea7bf5c0e69aeba4a95c84aa4fbc30431b316a99aed5aa484
+Text:
+双人游戏时间（AA指导恐龙场景规则，BB设计音乐互动环节）
+
+===== Node: node_103 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 像只快乐的小恐龙，只喜欢绿色，连凳子和蜡笔都要绿色的，真特别！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 46b48a55f94bf9cdb7433573037d9c0f08e6f9c36cc04707d87cbc564cbdf85d
+Text:
+AA像只快乐的小恐龙，只喜欢绿色，连凳子和蜡笔都要绿色的，真特别！
+
+===== Node: node_104 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 拍手三下就像变魔法，然后开始讲恐龙，大家都觉得好神奇！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 9224d7924e1c0d990c7cf31f3c42243b593cd1f64c0202b4e637ce1264823d87
+Text:
+AA拍手三下就像变魔法，然后开始讲恐龙，大家都觉得好神奇！
+
+===== Node: node_105 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 用胡萝卜拼“VOTE AA”拉票，还想当班长，因为他知道好多恐龙名字！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 5d6976d824b4790d8617d7b66e7581a72e934047c792cea2049cc6c24a2c946b
+Text:
+AA用胡萝卜拼“VOTE AA”拉票，还想当班长，因为他知道好多恐龙名字！
+
+===== Node: node_106 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 把饼干摆成恐龙骨头，连吃点心都在想恐龙，他一定是恐龙专家！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 153e6ebaf4ce71f030636780446a4e61d04714930240ba649d7fbb6963f64ebd
+Text:
+AA把饼干摆成恐龙骨头，连吃点心都在想恐龙，他一定是恐龙专家！
+
+===== Node: node_107 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 觉得放学铃声像暴龙吼叫，尖叫的样子像被吓到的小恐龙，我懂这种感觉！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 9ded3d2933fb7d8b5e93c857a38c5917141f24edc7afc95363c90e61749140ea
+Text:
+AA觉得放学铃声像暴龙吼叫，尖叫的样子像被吓到的小恐龙，我懂这种感觉！
+
+===== Node: node_108 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 虽然有点特别，但他对恐龙的热爱和认真让他成为了好朋友，就像暴龙一样厉害！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 24884aeccd96c43cb98d6ac582ffeafdd61698d68c74bbcf593c641a4c2636ba
+Text:
+AA虽然有点特别，但他对恐龙的热爱和认真让他成为了好朋友，就像暴龙一样厉害！
+
+===== Node: node_109 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 用绿色蜡笔画恐龙和胡萝卜拼字，像在变魔法，大家都觉得好有趣！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 419e4386c2e73cfb5cd82d540042853a0f32923354fa1e21e9d20aad2caab1f5
+Text:
+AA用绿色蜡笔画恐龙和胡萝卜拼字，像在变魔法，大家都觉得好有趣！
+
+===== Node: node_11 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 在走廊拦住第一个小朋友，询问生日并记录
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:06:00
+Expire: 20250611-10:06:00
+Access: 20250512-10:06:00
+Doc Hash: fb88ecc47bb694b6f3cd2166f2cc46b02a9f64101c70e8fd17808a6bc580ba25
+Text:
+AA 在走廊拦住第一个小朋友，询问生日并记录
+
+===== Node: node_110 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 拍手三下就开始讲恐龙，像在表演魔法，连老师都忍不住看他！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 760627433e9a636612f01f490f98204849b975c4f087542f727effa98e8665be
+Text:
+AA拍手三下就开始讲恐龙，像在表演魔法，连老师都忍不住看他！
+
+===== Node: node_111 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 想当班长，拦住小朋友问生日，像在玩“收集秘密号码”的游戏，好聪明！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: e45f4281a75314bc595c88cc866444368e90e351717add9c8f2ab6145ec80963
+Text:
+AA想当班长，拦住小朋友问生日，像在玩“收集秘密号码”的游戏，好聪明！
+
+===== Node: node_112 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 觉得放学铃声像暴龙吼叫，尖叫的样子像只被吓到的小恐龙，好可爱！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 86f33cad7dae400a7f839fd5f60b529031e4d1ac6b30a34f7f586577ddc5e7c7
+Text:
+AA觉得放学铃声像暴龙吼叫，尖叫的样子像只被吓到的小恐龙，好可爱！
+
+===== Node: node_113 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 像小魔法师，拍手三下就变出恐龙故事，好神奇呀！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 7284180dda1eb83ccc37c7f9e952ba98dd8b3b8cda145ceb6edd38a2bc599298
+Text:
+AA像小魔法师，拍手三下就变出恐龙故事，好神奇呀！
+
+===== Node: node_114 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 收集生日就像收集恐龙密码，AA想当班长保护所有小朋友呢！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: a428e611c78f0d12779096c6b4957ea9ba7efadf2c7544a124e2f81cf769727a
+Text:
+收集生日就像收集恐龙密码，AA想当班长保护所有小朋友呢！
+
+===== Node: node_115 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 绿色是AA的恐龙颜色，连凳子和蜡笔都要穿"绿衣服"才开心！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 0f50efa5598b54eae4c70e72231e2e19f353058b8513c4ba349be5e869b0de8f
+Text:
+绿色是AA的恐龙颜色，连凳子和蜡笔都要穿"绿衣服"才开心！
+
+===== Node: node_116 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 胡萝卜会魔法！AA把它们变成会喊"选我"的小士兵啦～
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: 02a1cd559b3d31ef8c39f93a25f291dd2d5335dfcecdc98ba44699cecdbe0311
+Text:
+胡萝卜会魔法！AA把它们变成会喊"选我"的小士兵啦～
+
+===== Node: node_117 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 放学铃声是暴龙在吼叫？AA捂住耳朵的样子像只受惊的小三角龙！
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: c4aa87487eb3718928d013678012df841860fc1cebb324b4002ff7e5037f48e3
+Text:
+放学铃声是暴龙在吼叫？AA捂住耳朵的样子像只受惊的小三角龙！
+
+===== Node: node_118 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 对于 AA 的计划："我要记住明天要表演《暴龙小星星》，还要把恐龙排成太阳系的样子，这样就能当班长教大家恐龙知识啦！" 🌟🦖
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: ff58ea30de42d9d71416b5602d27a464675240c78964fc4cb25b9d5248020ad1
+Text:
+对于 AA 的计划："我要记住明天要表演《暴龙小星星》，还要把恐龙排成太阳系的样子，这样就能当班长教大家恐龙知识啦！" 🌟🦖
+
+===== Node: node_119 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  "MissT老师让我用恐龙数星星充电，还能把霸王龙变成水星，这样我就能当最厉害的暴龙班长教大家唱《暴龙小星星》啦！" 🌟🦖
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:42:00
+Expire: 20250611-14:42:00
+Access: 20250512-14:42:00
+Doc Hash: d691010e9bfb9891a6ac17f4ddecb9575ea9c92a321e07ceb8310eb8c857138f
+Text:
+AA "MissT老师让我用恐龙数星星充电，还能把霸王龙变成水星，这样我就能当最厉害的暴龙班长教大家唱《暴龙小星星》啦！" 🌟🦖
+
+===== Node: node_12 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 9
+Election: 2
+AAfriend: 6
+flapflap: 6
+flapeye: 7
+Create: 20250512-10:15:00
+Expire: 20250611-10:15:00
+Access: 20250512-10:15:00
+Doc Hash: 5f54a46fa82cb69f78f05e6579390b079ae1a5ff15d474d4ada12b0b694ab5db
+Text:
+AA小朋友超喜欢恐龙，一直说暴龙最厉害，还想当班长教大家恐龙知识！MissT老师温柔地夸他是知识小星星，还和他一起把恐龙编进《小星星》歌词里，像画画和表演游戏一样让分享变得超有趣～(✧ω✧)
+
+===== Node: node_120 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: QQ
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:48:00
+Expire: 20250611-14:48:00
+Access: 20250512-14:48:00
+Doc Hash: ef19130e5534be5822e87a4cd4a9de9d9f6a03d922c4406483661d6e2a521153
+Text:
+QQ想玩倒着数的捉迷藏，但AA只想玩恐龙游戏，一直说暴龙多厉害。QQ躲蜡笔，AA却说蜡笔是画恐龙的。最后QQ还是坚持要玩捉迷藏！（小朋友版：QQ躲猫猫，AA总说恐龙，蜡笔也不让藏，真调皮！）
+
+===== Node: node_121 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 快速协作收尾（AA优先整理恐龙模型，BB同步收拾音乐玩具，省略互相检查步骤）
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:51:00
+Expire: 20250611-14:51:00
+Access: 20250512-14:51:00
+Doc Hash: dced914a328e40a27a616e3f0b8ddcb8fd3abab27c2ceab4f093e87e0e267a9f
+Text:
+快速协作收尾（AA优先整理恐龙模型，BB同步收拾音乐玩具，省略互相检查步骤）
+
+===== Node: node_122 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 灵活处理收尾（AA帮BB折叠钢琴罩，BB协助固定恐龙收纳盒搭扣）
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-14:57:00
+Expire: 20250611-14:57:00
+Access: 20250512-14:57:00
+Doc Hash: 44cd9278928cfd8a3882334e86341a04748de7c339e42812b9827d0bbe372cd1
+Text:
+灵活处理收尾（AA帮BB折叠钢琴罩，BB协助固定恐龙收纳盒搭扣）
+
+===== Node: node_123 =====
+Type: event
+Subject: MissT
+Predicate: 对话
+Object: QQ
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:57:00
+Expire: 20250611-14:57:00
+Access: 20250512-14:57:00
+Doc Hash: f8e01443b154da1d9701dc8ff3807891300efc029bbec636bfca711983afed8a
+Text:
+MissT 老师教我们要像小星星一样互相照顾～QQ想玩倒着数捉迷藏，AA喜欢恐龙游戏，老师说可以轮流玩，这样大家都能开心闪闪亮啦！✨
+
+===== Node: node_124 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:黑板:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-15:00:00
+Expire: 20250611-15:00:00
+Access: 20250512-15:00:00
+Doc Hash: 3678812716767301e4bcffffa2d807972e5ddbb0d645e7cf7bc9614cb3b23d9b
+Text:
+AA小朋友超爱恐龙！他想当班长教大家把恐龙变成会唱歌的太阳系，连生日都记得超清楚～MissT老师一直夸他的恐龙小宇宙像彩虹星星一样闪闪亮，还说不管当不当班长他都是最棒的暴龙小博士！✨🦖
+
+===== Node: node_125 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在举行游戏活动
+Address: the Ville:树:操场:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:06:00
+Expire: 20250611-15:06:00
+Access: 20250512-15:06:00
+Doc Hash: 6d58ea4e84e10c0c8792c5841d3ce168fef130b15e1bae8d4f367b21e1422481
+Text:
+幼儿园 正在举行游戏活动
+
+===== Node: node_126 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 召集小朋友宣布"倒着数数"的捉迷藏新规则
+Address: the Ville:树:操场:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-15:06:00
+Expire: 20250611-15:06:00
+Access: 20250512-15:06:00
+Doc Hash: 06ccf5a3e2f2458696a68ce1c1245c38b1b500f508dc876f31d8f3cf4932d579
+Text:
+QQ 召集小朋友宣布"倒着数数"的捉迷藏新规则
+
+===== Node: node_127 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 听到放学铃声，感到不安
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:06:00
+Expire: 20250611-15:06:00
+Access: 20250512-15:06:00
+Doc Hash: 4ca254b308e3d9d14fe4487f2802bff21796adefaea9a8ed8924b3a7568cc498
+Text:
+AA 听到放学铃声，感到不安
+
+===== Node: node_128 =====
+Type: event
+Subject: QQ
+Predicate: 对话
+Object: AA
+Address: the Ville:树:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:09:00
+Expire: 20250611-15:09:00
+Access: 20250512-15:09:00
+Doc Hash: 4fb7299b393b29d97e7b0d74167df2541f880e3af8864e9e7d06ccf8b9ff7ca6
+Text:
+AA想画绿色暴龙玩游戏，但QQ更想玩倒着数的捉迷藏，还藏起了蜡笔！（像小朋友躲猫猫时抢玩具一样）
+
+===== Node: node_129 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 因蜡笔被藏加剧焦虑，持续尖叫并跺脚
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:12:00
+Expire: 20250611-15:12:00
+Access: 20250512-15:12:00
+Doc Hash: 5587c38b8dbfc56108903a6346bd6d37b5c0c79eeee1f3e89655e0c86f2a8391
+Text:
+AA 因蜡笔被藏加剧焦虑，持续尖叫并跺脚
+
+===== Node: node_13 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 拦住第二个小朋友，询问生日并记录（原10分钟缩短为7分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 8
+flapeye: 7
+Create: 20250512-10:21:00
+Expire: 20250611-10:21:00
+Access: 20250512-10:21:00
+Doc Hash: 08d168a734bef1a363041e33203a4e9b805c0b9af78e51824fc19f824b6b186e
+Text:
+AA 拦住第二个小朋友，询问生日并记录（原10分钟缩短为7分钟）
+
+===== Node: node_130 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 闭眼蜷缩在角落，拒绝参与任何游戏
+Address: the Ville:幼儿园:教室:窗户
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:21:00
+Expire: 20250611-15:21:00
+Access: 20250512-15:21:00
+Doc Hash: 5b21f15edaba6dc39271ade0fb29b6a391e5e5efbf670df7d1539e61084ad704
+Text:
+AA 闭眼蜷缩在角落，拒绝参与任何游戏
+
+===== Node: node_131 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: MissT介入，先找回蜡笔并展示绿色恐龙贴纸安抚
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:24:00
+Expire: 20250611-15:24:00
+Access: 20250512-15:24:00
+Doc Hash: 7e7f9344b8aa3cf611cf13a4a49f3b01f44ad76bd2fe65b3f08ce115f66f4b29
+Text:
+AA MissT介入，先找回蜡笔并展示绿色恐龙贴纸安抚
+
+===== Node: node_132 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: QQ
+Address: the Ville:黄色椅子:教室:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:27:00
+Expire: 20250611-15:27:00
+Access: 20250512-15:27:00
+Doc Hash: 0411f1d2388285521abc69f56069641d2c8de8e54f6b850b9daf326066d1ac80
+Text:
+QQ想玩倒着数捉迷藏，把蜡笔藏起来当魔法棒，但AA想先画绿色暴龙。QQ说蜡笔是魔法棒，不要画恐龙～（像小朋友抢玩具时的可爱争执✨）
+
+===== Node: node_133 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 二次冲突引发更剧烈跺脚，将恐龙贴纸揉成团（焦虑升级）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:30:00
+Expire: 20250611-15:30:00
+Access: 20250512-15:30:00
+Doc Hash: daf3d6851530804acca01d2d0dc3b1d6fd301b0ea0123d7d81bb804e88117931
+Text:
+AA 二次冲突引发更剧烈跺脚，将恐龙贴纸揉成团（焦虑升级）
+
+===== Node: node_134 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 引导其他孩子注意AA的画作并夸奖色彩选择（原15分钟缩短为15分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:30:00
+Expire: 20250611-15:30:00
+Access: 20250512-15:30:00
+Doc Hash: 2525514532be61c6d2224d42cab6ab1259e8e9f4cb4d2f8d314616cbe8781a7f
+Text:
+MissT 引导其他孩子注意AA的画作并夸奖色彩选择（原15分钟缩短为15分钟）
+
+===== Node: node_135 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:33:00
+Expire: 20250611-15:33:00
+Access: 20250512-15:33:00
+Doc Hash: c1be5cb68344708d1057e9c2768c5d5f83618f92d6e35b06b8f160fdb5b55e23
+Text:
+AA MissT老师说我的绿色暴龙像会发光的小星星✨！明天我要当班长教大家唱《暴龙小星星》，把恐龙排成太阳系🌌～我们不一样才让班级像星空一样漂亮呀！
+
+===== Node: node_136 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 抽泣着用半截蜡笔涂绿色线条，同时偷瞄QQ的"魔法棒"（原4分钟缩短为3分钟）
+Address: the Ville:幼儿园:教室:台灯
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:36:00
+Expire: 20250611-15:36:00
+Access: 20250512-15:36:00
+Doc Hash: 900c0f4462984492cd1427d42bcf3ed3e316653fa727754a59c07172bb9d6f34
+Text:
+AA 抽泣着用半截蜡笔涂绿色线条，同时偷瞄QQ的"魔法棒"（原4分钟缩短为3分钟）
+
+===== Node: node_137 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 老师用恐龙魔法师绘本引导（原8分钟缩短为7分钟，快速翻到关键插图）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:39:00
+Expire: 20250611-15:39:00
+Access: 20250512-15:39:00
+Doc Hash: 52ceaf2152bffc92e358c2b69252097aba68a1554642c5c5c4caced49fb81013
+Text:
+AA 老师用恐龙魔法师绘本引导（原8分钟缩短为7分钟，快速翻到关键插图）
+
+===== Node: node_138 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 突然主动把半截蜡笔递给QQ："暴龙...借你魔法"（原4分钟缩短为3分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:45:00
+Expire: 20250611-15:45:00
+Access: 20250512-15:45:00
+Doc Hash: e13f20747a10ceb6e5a5e39789f1f475eecaebd6e19bace101631cb075bd5eec
+Text:
+AA 突然主动把半截蜡笔递给QQ："暴龙...借你魔法"（原4分钟缩短为3分钟）
+
+===== Node: node_139 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 共同完成"魔法暴龙"涂鸦（原6分钟缩短为5分钟，加速添加闪光特效）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 4e9193b4c71b6bfefa94b4ea9a5e15e2d281feb5136ae26dab8386869b2eb8f7
+Text:
+AA 共同完成"魔法暴龙"涂鸦（原6分钟缩短为5分钟，加速添加闪光特效）
+
+===== Node: node_14 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 突然拍手三下并宣布"我要当班长因为我知道100种恐龙名字"（维持3分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:27:00
+Expire: 20250611-10:27:00
+Access: 20250512-10:27:00
+Doc Hash: 9022a1134674dbdaeeb887e54dc229e0758fd786ca009295b0e8d5f16998391c
+Text:
+AA 突然拍手三下并宣布"我要当班长因为我知道100种恐龙名字"（维持3分钟）
+
+===== Node: node_140 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 像个小魔法师，用绿色蜡笔和胡萝卜变魔法，大家都觉得好神奇！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 53d2b1411b9db02f4f8ba0551378a7ea3659e84e47dcdb759c8170d0c8a26e2e
+Text:
+AA像个小魔法师，用绿色蜡笔和胡萝卜变魔法，大家都觉得好神奇！
+
+===== Node: node_141 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 虽然QQ想玩捉迷藏，但AA的绿色暴龙像会发光的小星星一样特别！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 8e593c643c88a187a9395755c3d0b3c55f67e9b09afcbe9ef6c9eaf33fc57888
+Text:
+虽然QQ想玩捉迷藏，但AA的绿色暴龙像会发光的小星星一样特别！
+
+===== Node: node_142 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 拍手三下就能讲恐龙故事，连老师都忍不住看他，AA真的好厉害呀！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: db4f48eed731ed509f37fae56f1da354cce96a390b4a1c3ceeb80590ba110cf8
+Text:
+拍手三下就能讲恐龙故事，连老师都忍不住看他，AA真的好厉害呀！
+
+===== Node: node_143 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 蜡笔被藏起来时AA会难过，但MissT老师用绿色贴纸安慰他，就像小星星一样温暖。
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: d2ce80ae6ab71065d80e5b9209755706bbb72a195ccf33287ab700afd514a50c
+Text:
+蜡笔被藏起来时AA会难过，但MissT老师用绿色贴纸安慰他，就像小星星一样温暖。
+
+===== Node: node_144 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 想当暴龙班长教大家唱歌，就像恐龙排成太阳系一样酷！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 6
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: cc36bb07e0e304401baf36dfd2d8ccb43bd3206b46d8eb104d73a2e0eb9270d0
+Text:
+AA想当暴龙班长教大家唱歌，就像恐龙排成太阳系一样酷！
+
+===== Node: node_145 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 像小星星一样特别，虽然有时会跺脚，但老师夸他的绿色暴龙会发光呢！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 4ba7af6b86340157427948552618dc8887fd5e319bb2be38e34381eab81dcb54
+Text:
+AA像小星星一样特别，虽然有时会跺脚，但老师夸他的绿色暴龙会发光呢！
+
+===== Node: node_146 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 轮流玩游戏就像分享糖果，QQ捉迷藏和AA恐龙游戏都能让小朋友闪闪亮～
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: ae8de7b40e14d514f76f62c9a3ad00b48594e31f0bdba1ce3615778f2d2946f3
+Text:
+轮流玩游戏就像分享糖果，QQ捉迷藏和AA恐龙游戏都能让小朋友闪闪亮～
+
+===== Node: node_147 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 绿色是AA的魔法颜色！蜡笔、凳子甚至胡萝卜都能变成恐龙宝藏～
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 246b237ebc9ca59aa8a57094a9e59ce183b3f42fbb262b4f24a9e9feac2adf7b
+Text:
+绿色是AA的魔法颜色！蜡笔、凳子甚至胡萝卜都能变成恐龙宝藏～
+
+===== Node: node_148 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 收集生日号码像恐龙密码，AA想当班长保护大家，像暴龙保护小恐龙！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 67b91519a8107ffae32c4a1ba0b7555de97aa89c22bca6c764f749d2b897f0cd
+Text:
+收集生日号码像恐龙密码，AA想当班长保护大家，像暴龙保护小恐龙！
+
+===== Node: node_149 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 亮晶晶的贴纸能让AA安静，原来每个小朋友心里都住着喜欢发光宝石的小龙～
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: d042e90493ae3804666f14abd81898c5d0041263604c9bc1a4b82f7368557d99
+Text:
+亮晶晶的贴纸能让AA安静，原来每个小朋友心里都住着喜欢发光宝石的小龙～
+
+===== Node: node_15 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 拦住第三个小朋友，询问生日并记录（原10分钟缩短为7分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:30:00
+Expire: 20250611-10:30:00
+Access: 20250512-10:30:00
+Doc Hash: 540ae9eb5d03989e590817e17163656c2a36618982d582ef74cf41ffb0e88f55
+Text:
+AA 拦住第三个小朋友，询问生日并记录（原10分钟缩短为7分钟）
+
+===== Node: node_150 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  用恐龙魔法教大家知识，就像小星星一样闪闪发光，MissT老师说他特别棒！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 0389c532981e40d2a69c4eac57d10be2d73c9982c0037191192ce1e0c04050d5
+Text:
+AA 用恐龙魔法教大家知识，就像小星星一样闪闪发光，MissT老师说他特别棒！
+
+===== Node: node_151 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  喜欢绿色，连蜡笔和凳子都要绿色的，这样他才能开心地变恐龙魔法！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: d3fa8951e675ba5df7235e42c193d7b9b881fa3c63953d9c12799cbaa17460cd
+Text:
+AA 喜欢绿色，连蜡笔和凳子都要绿色的，这样他才能开心地变恐龙魔法！
+
+===== Node: node_152 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  拍手三下就像念咒语，然后开始讲恐龙，大家都觉得好神奇！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: ae246032eee6aa8142a825106610d65596abe316f15ff27d2576c8fab5f316a4
+Text:
+AA 拍手三下就像念咒语，然后开始讲恐龙，大家都觉得好神奇！
+
+===== Node: node_153 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  想当班长保护小朋友，就像暴龙保护小恐龙一样厉害！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 0ae86876e7bbb52fdcfadfd03d426adeb9bc481ae3cecd2112c132c4ca9eb40e
+Text:
+AA 想当班长保护小朋友，就像暴龙保护小恐龙一样厉害！
+
+===== Node: node_154 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  和BB一起玩，一个摆恐龙，一个弹钢琴，合作起来像星星一样亮！
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: ae7167d6b77a81edd65b4c865944eb4e55adceac93a80201d1e32ec1ec4541d9
+Text:
+AA 和BB一起玩，一个摆恐龙，一个弹钢琴，合作起来像星星一样亮！
+
+===== Node: node_155 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 对于 AA 的计划：AA需要记住自己的计划，因为明天要当班长教大家唱《暴龙小星星》，还要把恐龙排成太阳系的样子，像小星星一样闪闪发光！✨🦖
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: 4f031b15e0a51bb862515e08fdec846be4e072d55c902ebfcba529328a51a0b1
+Text:
+对于 AA 的计划：AA需要记住自己的计划，因为明天要当班长教大家唱《暴龙小星星》，还要把恐龙排成太阳系的样子，像小星星一样闪闪发光！✨🦖
+
+===== Node: node_156 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  "MissT老师说我的恐龙小星星像彩虹一样特别，QQ却总想藏蜡笔玩捉迷藏，但最开心的是能把霸王龙变成水星唱《暴龙小星星》！" 🌈🦖✨
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:48:00
+Expire: 20250611-15:48:00
+Access: 20250512-15:48:00
+Doc Hash: b80901e2e3686b9721775e1e85c1e364a9aa1fce316037eb12973cdeae9acf05
+Text:
+AA "MissT老师说我的恐龙小星星像彩虹一样特别，QQ却总想藏蜡笔玩捉迷藏，但最开心的是能把霸王龙变成水星唱《暴龙小星星》！" 🌈🦖✨
+
+===== Node: node_157 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 模仿绘本玩改编版捉迷藏：倒数时学暴龙吼叫（原6分钟缩短为4分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:54:00
+Expire: 20250611-15:54:00
+Access: 20250512-15:54:00
+Doc Hash: 534e9c509029c599e6e00e7461174f311e4938b30df27036a5e47f5ec8f1eac1
+Text:
+AA 模仿绘本玩改编版捉迷藏：倒数时学暴龙吼叫（原6分钟缩短为4分钟）
+
+===== Node: node_158 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 把合作涂鸦塞进QQ书包，快速画迷你暴龙标记+哼《暴龙小星星》旋律（原6分钟延长为7分钟，新增哼歌环节）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-15:57:00
+Expire: 20250611-15:57:00
+Access: 20250512-15:57:00
+Doc Hash: 88953807ad3b7631dc802e05be9441fc8faf74ae1016bdd447258810c1e091e2
+Text:
+AA 把合作涂鸦塞进QQ书包，快速画迷你暴龙标记+哼《暴龙小星星》旋律（原6分钟延长为7分钟，新增哼歌环节）
+
+===== Node: node_159 =====
+Type: event
+Subject: BB
+Predicate: 对话
+Object: MissT
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-16:03:00
+Expire: 20250611-16:03:00
+Access: 20250512-16:03:00
+Doc Hash: 40c769c61598d83c07c400d4521d6c5f6d5777542979624533ea7fe1e7a28288
+Text:
+MissT老师夸BB弹琴像小星星✨，还说明天和AA一起表演《小星星》会让班级变成星空🌌！BB开心地说要和AA一起发光，让班级更漂亮💖！
+
+===== Node: node_16 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:爬行毯:教室:幼儿园
+Poignancy: 9
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:33:00
+Expire: 20250611-10:33:00
+Access: 20250512-10:33:00
+Doc Hash: 0a43d900567a70bbc9cc00d13423af650f6421785ac46c771ce8bbfd08564d01
+Text:
+老师夸AA是恐龙小专家，AA开心地分享暴龙知识，还把暴龙编进《小星星》歌词里，老师邀请他领唱新编的《暴龙小星星》！✨🦖
+
+===== Node: node_17 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 快速重复自己的生日信息（原3分钟保留）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:36:00
+Expire: 20250611-10:36:00
+Access: 20250512-10:36:00
+Doc Hash: 803ecd071240f66a6f70162a8630d8cf35ee31e3eb4c74834a0cae415779ea1c
+Text:
+AA 快速重复自己的生日信息（原3分钟保留）
+
+===== Node: node_18 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 展示恐龙知识卡片（原15分钟缩短为10分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:39:00
+Expire: 20250611-10:39:00
+Access: 20250512-10:39:00
+Doc Hash: 193aa73f0bd98d0f0b20b4aa999c4a36fbffcb07cc8e4b371976881bdbf03cdd
+Text:
+AA 展示恐龙知识卡片（原15分钟缩短为10分钟）
+
+===== Node: node_19 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 发放小贴纸奖励（保持12分钟，含提前5分钟开始）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:45:00
+Expire: 20250611-10:45:00
+Access: 20250512-10:45:00
+Doc Hash: 9c41308ee4bdf3fe3ee383395ed731a1158b3fc49fe4b99b87a570704f65129a
+Text:
+MissT 发放小贴纸奖励（保持12分钟，含提前5分钟开始）
+
+===== Node: node_2 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 拒绝使用非绿色蜡笔，坚持只拿绿色蜡笔
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-09:09:00
+Expire: 20250611-09:09:00
+Access: 20250512-09:09:00
+Doc Hash: c9eba3547a74833e2ddb04fbcb0e880161f50a2b001c17177d0062513cade5d6
+Text:
+AA 拒绝使用非绿色蜡笔，坚持只拿绿色蜡笔
+
+===== Node: node_20 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 整理书包+同步哼唱恐龙版《小星星》（原10分钟保留）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:51:00
+Expire: 20250611-10:51:00
+Access: 20250512-10:51:00
+Doc Hash: b02ce829970518f0afcd35364c29fd09f4039c65b9585b6fe7ade6ae43f87601
+Text:
+AA 整理书包+同步哼唱恐龙版《小星星》（原10分钟保留）
+
+===== Node: node_21 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满童趣活动
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: e6ae4bb366a0b1918aa9fdfddb4969f7857f9fbb6e404c44f067bf4c3694d620
+Text:
+幼儿园 充满童趣活动
+
+===== Node: node_22 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 将饼干碎当作雪花撒在恐龙模型周围，邀请其他小朋友围观
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 986a45223495e72e2c82df49b63e7fc581965cbdc44963b5a037c3bf76089f0e
+Text:
+QQ 将饼干碎当作雪花撒在恐龙模型周围，邀请其他小朋友围观
+
+===== Node: node_23 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  好喜欢绿色和恐龙，连凳子和蜡笔都要绿色的，像只快乐的小恐龙！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 7b0106111b5e0080f264ea5ebd9d8b8fd8eb404a10de178f3b233863cdbbe1e8
+Text:
+AA 好喜欢绿色和恐龙，连凳子和蜡笔都要绿色的，像只快乐的小恐龙！
+
+===== Node: node_24 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  想当班长，拦住小朋友问生日，像在玩"收集秘密号码"的游戏。
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: da3b807c07b1d4a4d3a2f85aaf54b1da447f45cf91b75919feb1cce50594c90b
+Text:
+AA 想当班长，拦住小朋友问生日，像在玩"收集秘密号码"的游戏。
+
+===== Node: node_25 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: QQ 把饼干碎当雪花撒，他一定有个魔法冰雪世界！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 111f2251b687224aadd5f89a79dc69a4d2c18887eacc31fef4593735a2404080
+Text:
+AA QQ 把饼干碎当雪花撒，他一定有个魔法冰雪世界！
+
+===== Node: node_26 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  尖叫因为铃声像暴龙，我懂！有时候影子也会变成怪兽呢。
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: e3ac794c44193b05c4a209d98991dd42d4a8e1055d6d3ba7a8f7399380e49bca
+Text:
+AA 尖叫因为铃声像暴龙，我懂！有时候影子也会变成怪兽呢。
+
+===== Node: node_27 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 老师发贴纸时AA最安静，原来小朋友都会为亮晶晶的东西停下来呀。
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 59f1a02017db8655651b8331057e4a63333f13c08141584d6c1ba62c6491e4a9
+Text:
+老师发贴纸时AA最安静，原来小朋友都会为亮晶晶的东西停下来呀。
+
+===== Node: node_28 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  好喜欢恐龙，每次拍手都要说恐龙的事情，还想当班长呢！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: dfe97fd80eccde4916fbc99e3dcd8f1ebec56371c1ad36f705050dbd65d810dc
+Text:
+AA 好喜欢恐龙，每次拍手都要说恐龙的事情，还想当班长呢！
+
+===== Node: node_29 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  只爱绿色，连蜡笔和凳子都要绿色的，真奇怪！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 2d2b618d250724fee915608050e1853a1cdd7353e1c5c3864a068036dc29edbd
+Text:
+AA 只爱绿色，连蜡笔和凳子都要绿色的，真奇怪！
+
+===== Node: node_3 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 用绿色蜡笔涂画恐龙图案
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-09:21:00
+Expire: 20250611-09:21:00
+Access: 20250512-09:21:00
+Doc Hash: 6fcee74ae62f9ad20878eb6f13535c5dfb0f0688d559e1309569b155cde75447
+Text:
+AA 用绿色蜡笔涂画恐龙图案
+
+===== Node: node_30 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  总是问别人生日，还记下来，像个小侦探。
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: e7a2806352e83cf66f3b81108b6a4d119139fb9ab4c43f2e592dbc45cd807c7a
+Text:
+AA 总是问别人生日，还记下来，像个小侦探。
+
+===== Node: node_31 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: QQ 把饼干碎当雪花，好有趣，我也想一起玩！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: fb9ea06537594a96d40f7644087f32138dce537751d5c44258f217fbde8eff43
+Text:
+AA QQ 把饼干碎当雪花，好有趣，我也想一起玩！
+
+===== Node: node_32 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  把胡萝卜排成字，像在变魔法，可是老师会不会生气呀？
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 879cc1b9e7d9f72c198c8646897f31f41e7d3c8987c0263175443efd7b17162d
+Text:
+AA 把胡萝卜排成字，像在变魔法，可是老师会不会生气呀？
+
+===== Node: node_33 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  好喜欢恐龙啊，连饼干都要摆成恐龙骨头，还一直说恐龙的事情，他一定是恐龙专家吧！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: f39a737d322376deb8c063489d29141d52b13b2318ab38b2e8ee1d365ed5bbd1
+Text:
+AA 好喜欢恐龙啊，连饼干都要摆成恐龙骨头，还一直说恐龙的事情，他一定是恐龙专家吧！
+
+===== Node: node_34 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  总是拍手三下，像在表演魔法一样，然后就开始讲恐龙，好有趣！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 3f82e158156824cfce2f583d982c4528eedb705d9d53036d03d1c4bed2f176ac
+Text:
+AA 总是拍手三下，像在表演魔法一样，然后就开始讲恐龙，好有趣！
+
+===== Node: node_35 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  只喜欢绿色，蜡笔、凳子都要绿色的，绿色一定是他的幸运颜色！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 951f2f39c2677d4e63b8f0b7d824e288a526d2064c673b9f78330eabd9aaa179
+Text:
+AA 只喜欢绿色，蜡笔、凳子都要绿色的，绿色一定是他的幸运颜色！
+
+===== Node: node_36 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  想当班长，因为他知道好多恐龙名字，还会用胡萝卜拼字拉票，好聪明！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: a8d22c21b9e82e4d5c6f08e084e29ab283a9270c6f4ea4c1f42cd98f7c2e9878
+Text:
+AA 想当班长，因为他知道好多恐龙名字，还会用胡萝卜拼字拉票，好聪明！
+
+===== Node: node_37 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: QQ 画画好认真，画完还偷偷给BB看，他一定是个害羞的好朋友！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: 8217cc245860ad1e5c52a2d92841bce91ef9c7312e093e8f0445eb914dccf351
+Text:
+AA QQ 画画好认真，画完还偷偷给BB看，他一定是个害羞的好朋友！
+
+===== Node: node_38 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 对于 AA 的计划：AA需要记住自己当班长和教大家恐龙知识的计划，还要记得用绿色蜡笔画恐龙！
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: e98565b962efec823c8fe5813b526edd7907d629600fc61b778f5c16127f351b
+Text:
+对于 AA 的计划：AA需要记住自己当班长和教大家恐龙知识的计划，还要记得用绿色蜡笔画恐龙！
+
+===== Node: node_39 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  "QQ总想藏我的蜡笔，但我知道所有恐龙的知识，连腕龙的长脖子都能画出来！"
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-10:54:00
+Expire: 20250611-10:54:00
+Access: 20250512-10:54:00
+Doc Hash: d33dfdcb2a3da1f8deacd898c33cf55d8156ea38acbae8ebbd1f132bff7348fd
+Text:
+AA "QQ总想藏我的蜡笔，但我知道所有恐龙的知识，连腕龙的长脖子都能画出来！"
+
+===== Node: node_4 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满童趣活动
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-09:36:00
+Expire: 20250611-09:36:00
+Access: 20250512-09:36:00
+Doc Hash: ee3fbf9b15c53da40a46da2dab1c65479759c945428373255378529243dcff12
+Text:
+幼儿园 充满童趣活动
+
+===== Node: node_40 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: QQ
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-10:57:00
+Expire: 20250611-10:57:00
+Access: 20250512-10:57:00
+Doc Hash: dc621997ae4c7e172749b6eeb6e1d05c76aca121c1ff4e4226aca5e0d151a605
+Text:
+"AA想用蜡笔画恐龙教QQ知识，但QQ总想藏蜡笔捣蛋，AA就换温和的恐龙哄他玩~" (◕‿◕)
+
+===== Node: node_41 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 检查生日记录并准备领唱（原5分钟压缩为4分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:00:00
+Expire: 20250611-11:00:00
+Access: 20250512-11:00:00
+Doc Hash: 6e7d0864847a2f4712d05a424253cfddc562d972dce57ed8e5268cf9c2469e11
+Text:
+AA 检查生日记录并准备领唱（原5分钟压缩为4分钟）
+
+===== Node: node_42 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 在集体活动开始前找到绿色凳子坐下
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:03:00
+Expire: 20250611-11:03:00
+Access: 20250512-11:03:00
+Doc Hash: 81f4d5b5e258ed5f44edb2ef223c8911e15b82b388fd0cc927e745ae2c9c620a
+Text:
+AA 在集体活动开始前找到绿色凳子坐下
+
+===== Node: node_43 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 观察周围环境，确认集体活动开始
+Address: the Ville:幼儿园:教室:窗户
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: 28a5e1248a999d8fdc55b1fb6676893c6d8e6056007450188014036616652239
+Text:
+AA 观察周围环境，确认集体活动开始
+
+===== Node: node_44 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 突然拍手三下打断老师讲话
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: 978b85096a0459a83a9f2b69ccba725f61421d8e8d2980f9c9a8a309d65b4bbd
+Text:
+AA 突然拍手三下打断老师讲话
+
+===== Node: node_45 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 开始介绍翼龙飞行原理，使用书面化语言
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: b96296fd300e67bda779eadccdcf52bc1793a6ce7010af069fa10b16aec51674
+Text:
+AA 开始介绍翼龙飞行原理，使用书面化语言
+
+===== Node: node_46 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 忽略其他小朋友的反应，继续讲解
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:39:00
+Expire: 20250611-11:39:00
+Access: 20250512-11:39:00
+Doc Hash: ee7f189c124854842abf2b4b586e8419d56ed6f985d27917a84fb9d1998fc66d
+Text:
+AA 忽略其他小朋友的反应，继续讲解
+
+===== Node: node_47 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 被老师提醒后停止讲解，但仍坚持拍手三下
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-11:51:00
+Expire: 20250611-11:51:00
+Access: 20250512-11:51:00
+Doc Hash: 16cfc6ef975e75d0fa34cf466958472390372540d79906b0024aada1eeb00afa
+Text:
+AA 被老师提醒后停止讲解，但仍坚持拍手三下
+
+===== Node: node_48 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 回到绿色凳子坐下，等待活动结束
+Address: the Ville:幼儿园:教室:窗户
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 6
+flapeye: 6
+Create: 20250512-11:54:00
+Expire: 20250611-11:54:00
+Access: 20250512-11:54:00
+Doc Hash: d1e3e868869b8a858c3178a7a4812678a62312394aebc07ceab11fde35bf9f72
+Text:
+AA 回到绿色凳子坐下，等待活动结束
+
+===== Node: node_49 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 整理自己的物品，准备下一项活动
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 6
+Create: 20250512-12:00:00
+Expire: 20250611-12:00:00
+Access: 20250512-12:00:00
+Doc Hash: 844cd19be3f81a75d6b928bac3811124b722ddad814fab0c227d3b630191de18
+Text:
+AA 整理自己的物品，准备下一项活动
+
+===== Node: node_5 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 向家长简短反馈孩子入园状态
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-09:36:00
+Expire: 20250611-09:36:00
+Access: 20250512-09:36:00
+Doc Hash: 7e3d6fdb683904e1ae08f42eb002c787dbb3ffebc5041b84a9964f444a062107
+Text:
+MissT 向家长简短反馈孩子入园状态
+
+===== Node: node_50 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 走到午餐座位，确认绿色凳子可用
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:06:00
+Expire: 20250611-12:06:00
+Access: 20250512-12:06:00
+Doc Hash: 1504c3df2367d98d712f9efe4685dde02cc935a62038118f269094d2ba9768cd
+Text:
+AA 走到午餐座位，确认绿色凳子可用
+
+===== Node: node_51 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 将餐盘中的胡萝卜挑出并分类
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:09:00
+Expire: 20250611-12:09:00
+Access: 20250512-12:09:00
+Doc Hash: 664d4534e870d60c4b45ae6885392090caf9608ed7232c20e2ab5c6888960d20
+Text:
+AA 将餐盘中的胡萝卜挑出并分类
+
+===== Node: node_52 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在午休时间
+Address: the Ville:树:操场:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-12:24:00
+Expire: 20250611-12:24:00
+Access: 20250512-12:24:00
+Doc Hash: 550584994afd89dd95d4ad33cab712b92a244e1cc2ac33e99d0690b10541eca2
+Text:
+幼儿园 正在午休时间
+
+===== Node: node_53 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 用胡萝卜排列"V"字母
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:24:00
+Expire: 20250611-12:24:00
+Access: 20250512-12:24:00
+Doc Hash: 7fdfee8699f0ea27485736cda8b1e80f0565c014e86130b5e6ff11bafead7ff7
+Text:
+AA 用胡萝卜排列"V"字母
+
+===== Node: node_54 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 假装认真吃饭，趁同学不注意时拨弄自己餐盘
+Address: the Ville:树:操场:幼儿园
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:24:00
+Expire: 20250611-12:24:00
+Access: 20250512-12:24:00
+Doc Hash: 2c708850f28e300e2ba8f8f181c91684c304d84ee657ca39f3cca1425b263645
+Text:
+QQ 假装认真吃饭，趁同学不注意时拨弄自己餐盘
+
+===== Node: node_55 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: QQ
+Address: the Ville:树:操场:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:27:00
+Expire: 20250611-12:27:00
+Access: 20250512-12:27:00
+Doc Hash: d667a5c610d21fcb5d6ea1e04d8b01390a044ca3301321ec1b2e73d15455de02
+Text:
+QQ不想玩胡萝卜恐龙，只想把胡萝卜藏起来和AA玩捉迷藏！AA一直说恐龙多厉害，可QQ觉得暴龙可怕，只想嘻嘻哈哈躲猫猫~
+
+===== Node: node_56 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 快速用胡萝卜排列"O"字母（压缩7分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:30:00
+Expire: 20250611-12:30:00
+Access: 20250512-12:30:00
+Doc Hash: 386e090244e93a2a05618a60ea78f665363f927661beec8b07851ab42a9d8312
+Text:
+AA 快速用胡萝卜排列"O"字母（压缩7分钟）
+
+===== Node: node_57 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 快速用胡萝卜排列"T"字母（压缩6分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:36:00
+Expire: 20250611-12:36:00
+Access: 20250512-12:36:00
+Doc Hash: 02b0d58059d78ac240391b3d165dec1d49fe8a0087ae5a38922fb81e09a912e7
+Text:
+AA 快速用胡萝卜排列"T"字母（压缩6分钟）
+
+===== Node: node_58 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 轻声讲述一个关于友谊的短故事
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:36:00
+Expire: 20250611-12:36:00
+Access: 20250512-12:36:00
+Doc Hash: 939a93f3e809cb520bc3d7321edd82ad680a849f551b21298ce49779ebfb0fc6
+Text:
+MissT 轻声讲述一个关于友谊的短故事
+
+===== Node: node_59 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:39:00
+Expire: 20250611-12:39:00
+Access: 20250512-12:39:00
+Doc Hash: 94ed90c588b33f5e8e2a9457d0c55bef14e91887fcd4163724e9ed0f42bda301
+Text:
+MissT老师夸AA是恐龙小博士！AA想当班长教大家恐龙知识，老师说要像彩虹一样分享。AA要用绿色蜡笔画厉害的暴龙，老师说他的勇气像暴龙举重物一样棒！✨🦖
+
+===== Node: node_6 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 转向邻座小朋友，开始讲解“恐龙灭绝与小行星撞击理论”
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-09:36:00
+Expire: 20250611-09:36:00
+Access: 20250512-09:36:00
+Doc Hash: 48f685d08a5a2ac3c9f40cb863df57ec77fc1419546d1572438e423597785518
+Text:
+AA 转向邻座小朋友，开始讲解“恐龙灭绝与小行星撞击理论”
+
+===== Node: node_60 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 快速用胡萝卜排列"E"字母（压缩5分钟 → 实际压缩4分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:45:00
+Expire: 20250611-12:45:00
+Access: 20250512-12:45:00
+Doc Hash: 99824c66d68edcfcc3448a856842609adf960eb9956bff9e2011c87fe85bff5d
+Text:
+AA 快速用胡萝卜排列"E"字母（压缩5分钟 → 实际压缩4分钟）
+
+===== Node: node_61 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 假装无事发生，继续吃饭并偷看同学反应
+Address: the Ville:黄色椅子:教室:幼儿园
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:45:00
+Expire: 20250611-12:45:00
+Access: 20250512-12:45:00
+Doc Hash: 25ab3907e6ab92fb09e60a77306a083b5d8bff6631b42d80dc3aeca2082fe607
+Text:
+QQ 假装无事发生，继续吃饭并偷看同学反应
+
+===== Node: node_62 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: QQ
+Address: the Ville:黄色椅子:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:48:00
+Expire: 20250611-12:48:00
+Access: 20250512-12:48:00
+Doc Hash: d8a9956a7b02550d952faa521fbef9626d155ca41e4655810bc5f446427c81f6
+Text:
+两个小朋友在聊恐龙和游戏！AA超喜欢暴龙和腕龙，想当班长教大家画恐龙，还总提自己生日那天是晴天。QQ觉得恐龙可怕，只想玩捉迷藏和数数游戏，还把蜡笔藏起来啦~ (◕‿◕✿)
+
+===== Node: node_63 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 向周围同学展示"VOTE AA"字样并解释竞选（原13分钟展示时间压缩为13分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 814d903b32f774edf90600ed4c8f92244604b812e80a943f4463fb3bd0474703
+Text:
+向周围同学展示"VOTE AA"字样并解释竞选（原13分钟展示时间压缩为13分钟）
+
+===== Node: node_64 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 好喜欢恐龙，总是用绿色蜡笔画恐龙，还会用胡萝卜拼字拉票，好有趣！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 905ce4752e5cef697ecac01eac7679f675de4bab017a7efe188bdb1fa456725a
+Text:
+AA好喜欢恐龙，总是用绿色蜡笔画恐龙，还会用胡萝卜拼字拉票，好有趣！
+
+===== Node: node_65 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 像变魔法一样拍手三下，然后就开始讲恐龙知识，大家都觉得好神奇！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: eed62f8c09b0180811915e7cf1622790b566fb93fdfdd4e9ff788a824d4b361b
+Text:
+AA像变魔法一样拍手三下，然后就开始讲恐龙知识，大家都觉得好神奇！
+
+===== Node: node_66 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 想当班长，拦住小朋友问生日，像在玩“收集秘密号码”的游戏，好聪明！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 8
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 98ef505da6ba82dedd81e120353410da575626295ab02637a0b74e78134d6041
+Text:
+AA想当班长，拦住小朋友问生日，像在玩“收集秘密号码”的游戏，好聪明！
+
+===== Node: node_67 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 总是坚持用绿色凳子，连蜡笔也只选绿色，他一定觉得绿色是恐龙的颜色！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: cba547473465c866227b68b0a95cb3baf04ffeb4d5a74d2344e9df4ecbe2c556
+Text:
+AA总是坚持用绿色凳子，连蜡笔也只选绿色，他一定觉得绿色是恐龙的颜色！
+
+===== Node: node_68 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 有点怪怪的，但他对恐龙那么认真，还会拼“VOTE AA”，他一定是好朋友！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 4b0c868790f6bfe5733f51b1be35f2d4e1af091b901377f72857b373c9588107
+Text:
+AA有点怪怪的，但他对恐龙那么认真，还会拼“VOTE AA”，他一定是好朋友！
+
+===== Node: node_69 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  好喜欢恐龙，连饼干都要摆成恐龙骨头，还一直说恐龙的事情，他一定是恐龙专家吧！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 896d4b2ec98419998a646b4a2ed2cdb5e96348fc268f530f55ba02f4c7d2140a
+Text:
+AA 好喜欢恐龙，连饼干都要摆成恐龙骨头，还一直说恐龙的事情，他一定是恐龙专家吧！
+
+===== Node: node_7 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 专注地用蜡笔画《我的新朋友》，画完后悄悄给BB看
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-09:36:00
+Expire: 20250611-09:36:00
+Access: 20250512-09:36:00
+Doc Hash: 0c96cd9ceeb51d39c447e4eba87b2f650a437ab5c72d761f592e8c9676817822
+Text:
+QQ 专注地用蜡笔画《我的新朋友》，画完后悄悄给BB看
+
+===== Node: node_70 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: QQ 假装认真吃饭，其实在偷偷玩饼干碎，像变魔法一样撒雪花，好有趣！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: be0f32686977c4789b2052daca05f574b6a8dcc8c4977a5fa643ea801bfafaaf
+Text:
+AA QQ 假装认真吃饭，其实在偷偷玩饼干碎，像变魔法一样撒雪花，好有趣！
+
+===== Node: node_71 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  总是突然拍手三下，像在表演魔法，然后就开始讲恐龙，好特别呀！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 67421af8610b1b61ca4a9e6ee6636ea32382b07e639a7d871d11d0bd4e30d3f5
+Text:
+AA 总是突然拍手三下，像在表演魔法，然后就开始讲恐龙，好特别呀！
+
+===== Node: node_72 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  用胡萝卜拼字拉票，好聪明！可是老师会不会生气呀？
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 77a0261d501ba72dace9eeb4d88c65a21828537378e933bcee0188259a7e6ddb
+Text:
+AA 用胡萝卜拼字拉票，好聪明！可是老师会不会生气呀？
+
+===== Node: node_73 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: QQ 看起来在乖乖吃饭，其实眼睛一直在看别人，像在玩秘密游戏！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 234da5f7b5620e2957639a445409cbff919f5c36df30ebd7414bec8905b89e96
+Text:
+AA QQ 看起来在乖乖吃饭，其实眼睛一直在看别人，像在玩秘密游戏！
+
+===== Node: node_74 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 好聪明，会用胡萝卜拼字拉票，像变魔法一样！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 3045a3b0dc0fe0f8039d52271144d40c523607ef06e84c7327cc4aebbdb4780b
+Text:
+AA好聪明，会用胡萝卜拼字拉票，像变魔法一样！
+
+===== Node: node_75 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 只喜欢绿色，连凳子和蜡笔都要绿色的，像只快乐的小恐龙！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: a4a32691487515e3d7b4519050a3ee20a7997595e52b4f801f2d86714038fa12
+Text:
+AA只喜欢绿色，连凳子和蜡笔都要绿色的，像只快乐的小恐龙！
+
+===== Node: node_76 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 总是拍手三下就开始讲恐龙，像在表演魔法，好有趣！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 79ebc02a42dc6274651df748c39b328ae9feffad2d6a6b2b62201fd1ecbe62fd
+Text:
+AA总是拍手三下就开始讲恐龙，像在表演魔法，好有趣！
+
+===== Node: node_77 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 觉得放学铃声像暴龙吼叫，尖叫的样子像被吓到的小恐龙！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 9193cf5c94e3d42c15b873f2208b0b596463cd8d0544ad4be40b97562d842bf2
+Text:
+AA觉得放学铃声像暴龙吼叫，尖叫的样子像被吓到的小恐龙！
+
+===== Node: node_78 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 拦住小朋友问生日，像在玩“收集秘密号码”的游戏！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: d5f71793331d01ba5cc2e25427a1b675b0d29d6cb14f7a53635f0683d3e65d67
+Text:
+AA拦住小朋友问生日，像在玩“收集秘密号码”的游戏！
+
+===== Node: node_79 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object: 对于 AA 的计划：AA需要记住自己的计划，因为当班长教大家恐龙知识是他的小星星梦想，就像暴龙永远记得自己是最厉害的恐龙一样！
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 4409198dc9c0eda6904a8b1f8ca99aa545b58d237376a2827c9dd0303fb927e6
+Text:
+对于 AA 的计划：AA需要记住自己的计划，因为当班长教大家恐龙知识是他的小星星梦想，就像暴龙永远记得自己是最厉害的恐龙一样！
+
+===== Node: node_8 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: QQ
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 6
+flapflap: 7
+flapeye: 6
+Create: 20250512-09:39:00
+Expire: 20250611-09:39:00
+Access: 20250512-09:39:00
+Doc Hash: 4931dd4f34329714a6918ae1f217c27d5aac611de515c4a7522b4550036b733d
+Text:
+恐龙好厉害！AA说小行星撞地球让恐龙没了，暴龙咬人超痛！QQ想用蜡笔吓人，但AA只爱聊恐龙的大牙齿！
+
+===== Node: node_80 =====
+Type: thought
+Subject: AA
+Predicate: 此时
+Object:  "我最喜欢用胡萝卜和蜡笔教大家恐龙知识啦，虽然QQ总想藏起来玩捉迷藏，但MissT老师说我的绿色暴龙像会发光的小星星一样特别！"  
+
+（5岁小朋友视角：把恐龙知识、绿色安全感和老师的鼓励都装进星星口袋里✨）
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:51:00
+Expire: 20250611-12:51:00
+Access: 20250512-12:51:00
+Doc Hash: 8ebd25cf634c604d2e80ff9d27eb184439eb161f85a499886e0a0d9f273bf024
+Text:
+AA "我最喜欢用胡萝卜和蜡笔教大家恐龙知识啦，虽然QQ总想藏起来玩捉迷藏，但MissT老师说我的绿色暴龙像会发光的小星星一样特别！"  
+
+（5岁小朋友视角：把恐龙知识、绿色安全感和老师的鼓励都装进星星口袋里✨）
+
+===== Node: node_81 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在上课中
+Address: the Ville:树:禁林:幼儿园
+Poignancy: 6
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-12:57:00
+Expire: 20250611-12:57:00
+Access: 20250512-12:57:00
+Doc Hash: 632502d211d420268148b9b85c191d71fe2ffa04cfd1cb74d8f69e9e49ed94da
+Text:
+幼儿园 正在上课中
+
+===== Node: node_82 =====
+Type: event
+Subject: BB
+Predicate: 正在
+Object: 睡觉
+Address: the Ville:幼儿园:操场:床
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:00:00
+Expire: 20250611-13:00:00
+Access: 20250512-13:00:00
+Doc Hash: c82346a6c3198759955cb31de3220d3f213414c95d2136fc3c3fb79e017d7fb5
+Text:
+BB 正在 睡觉
+
+===== Node: node_83 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 找到并确认绿色小凳子的位置
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:03:00
+Expire: 20250611-13:03:00
+Access: 20250512-13:03:00
+Doc Hash: 24f9dfb409d76752491e2636539c737033d8f4cc0b97ed2d0fbe05df06688892
+Text:
+AA 找到并确认绿色小凳子的位置
+
+===== Node: node_84 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:绿色椅子:教室:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:06:00
+Expire: 20250611-13:06:00
+Access: 20250512-13:06:00
+Doc Hash: dd4fbf351834fab98bd540a1eaec5357d629ec741c57acb7685f3ea711d563db
+Text:
+MissT老师夸AA像聪明的小恐龙，AA想当班长教大家恐龙知识，还要画厉害的暴龙！老师说AA像彩虹一样特别，明天可以表演《暴龙小星星》，不管当不当班长都是最棒的恐龙小博士啦～✨🦖
+
+===== Node: node_85 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 将恐龙模型按种类排列在凳子周围（原13:05-13:15，压缩2分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-13:09:00
+Expire: 20250611-13:09:00
+Access: 20250512-13:09:00
+Doc Hash: 0cacdb01784075c4a6d328f8f5a96e5313f736493022d10b31c070b5d617f2b5
+Text:
+AA 将恐龙模型按种类排列在凳子周围（原13:05-13:15，压缩2分钟）
+
+===== Node: node_86 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 换上舒适的午休衣服
+Address: the Ville:幼儿园:教室:窗户
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-13:15:00
+Expire: 20250611-13:15:00
+Access: 20250512-13:15:00
+Doc Hash: c0d1745d595ac6b4b4fc57c337789405bb9ca7942e1408ca567ddb92348f661e
+Text:
+BB 换上舒适的午休衣服
+
+===== Node: node_87 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: BB
+Address: the Ville:操场:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:18:00
+Expire: 20250611-13:18:00
+Access: 20250512-13:18:00
+Doc Hash: c82ba62d6eda0ec9a8001b1388aacbb56ea8876acdda75a6a24e34153122b346
+Text:
+两个小朋友AA和BB聊天。AA很喜欢恐龙，知道暴龙很厉害，还想当班长教大家恐龙知识。BB觉得AA很棒，提议一起当班长，AA教恐龙，BB弹钢琴，大家轮流当班长。他们都很开心！
+
+===== Node: node_88 =====
+Type: event
+Subject: QQ
+Predicate: 正在
+Object: 睡觉
+Address: the ViMMe:幼儿园:操场:床
+Poignancy: 3
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:21:00
+Expire: 20250611-13:21:00
+Access: 20250512-13:21:00
+Doc Hash: 5a431b463d2c0d61eee8b699ab037ec0cdaf5a1fa6866e1a8358ee91354df599
+Text:
+QQ 正在 睡觉
+
+===== Node: node_89 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 继续数恐龙模型并检查顺序（原13:26-13:39，压缩9分钟→改为11分钟活动+压缩7分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:21:00
+Expire: 20250611-13:21:00
+Access: 20250512-13:21:00
+Doc Hash: 71ea308645665549e1c1585e8064700b85a9794c3e9e5810b621b3a7ea2632cf
+Text:
+AA 继续数恐龙模型并检查顺序（原13:26-13:39，压缩9分钟→改为11分钟活动+压缩7分钟）
+
+===== Node: node_9 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 无视老师提醒“课堂安静”，加速拍手三下并快速重复恐龙知识（原09:50-09:55压缩至14分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 6
+flapflap: 7
+flapeye: 7
+Create: 20250512-09:42:00
+Expire: 20250611-09:42:00
+Access: 20250512-09:42:00
+Doc Hash: 5502ed6131ae77717fdda843da88aae94efad91188b62a683e8fb0c0f6df8428
+Text:
+AA 无视老师提醒“课堂安静”，加速拍手三下并快速重复恐龙知识（原09:50-09:55压缩至14分钟）
+
+===== Node: node_90 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 听到躺下指令时拍手三下（原13:31-13:39，压缩1分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 6
+flapeye: 7
+Create: 20250512-13:33:00
+Expire: 20250611-13:33:00
+Access: 20250512-13:33:00
+Doc Hash: bb169bcc3d77887b94f9a660abe79aeb7a66cb80dfee63dc927543bf75f4d6e5
+Text:
+AA 听到躺下指令时拍手三下（原13:31-13:39，压缩1分钟）
+
+===== Node: node_91 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 拒绝躺下坚持坐凳子（原13:39-13:43，压缩2分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:36:00
+Expire: 20250611-13:36:00
+Access: 20250512-13:36:00
+Doc Hash: b4cdbec4c883d60d4d9ae57637396a7461ed507f716784ed516c87b6fa6bfd39
+Text:
+AA 拒绝躺下坚持坐凳子（原13:39-13:43，压缩2分钟）
+
+===== Node: node_92 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 检查道具+游戏开场（原20分钟压缩为27分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 6
+Create: 20250512-13:39:00
+Expire: 20250611-13:39:00
+Access: 20250512-13:39:00
+Doc Hash: a8b4b7160eebfa1c10bb6dc378d502096fd7c567172d8586e3c4ff4f2d865c4c
+Text:
+MissT 检查道具+游戏开场（原20分钟压缩为27分钟）
+
+===== Node: node_93 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: MissT
+Address: the Ville:树:禁林:幼儿园
+Poignancy: 9
+Election: 1
+AAfriend: 7
+flapflap: 6
+flapeye: 6
+Create: 20250512-13:42:00
+Expire: 20250611-13:42:00
+Access: 20250512-13:42:00
+Doc Hash: c04109af44e84b392253510d4a0a6a48bf7bf187ac0fab2b13fe0fecef23c15e
+Text:
+MissT老师让AA用恐龙数数来午休充电，AA把恐龙排成太阳系行星，还发明了"暴龙充电法"！他们约好起床后要唱超大声的《暴龙小星星》，还要把恐龙行星图挂在星星墙上～✨🦖
+
+===== Node: node_94 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 向老师展示模型并提班长竞选（原13:47-13:52，压缩5分钟→改为3分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:45:00
+Expire: 20250611-13:45:00
+Access: 20250512-13:45:00
+Doc Hash: 258b474d346603f1aee9bb9f3aeab47fc12dad5afbc7f962ab5df519ea9ae3c2
+Text:
+AA 向老师展示模型并提班长竞选（原13:47-13:52，压缩5分钟→改为3分钟）
+
+===== Node: node_95 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 自由缓冲时间（原剩余8分钟+新增7分钟压缩时间+从展示环节压缩的2分钟=17分钟→调整为16分钟）
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-13:48:00
+Expire: 20250611-13:48:00
+Access: 20250512-13:48:00
+Doc Hash: cf1af3269793f44adb571c75a04cd3fc2383dac88ad87a359e118d849c4f1e72
+Text:
+AA 自由缓冲时间（原剩余8分钟+新增7分钟压缩时间+从展示环节压缩的2分钟=17分钟→调整为16分钟）
+
+===== Node: node_96 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 确认绿色小凳子在沙坑旁的安全位置
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:06:00
+Expire: 20250611-14:06:00
+Access: 20250512-14:06:00
+Doc Hash: f96adc35b896a9cb11cc194eaad6c7918840be1b8e1ebc338f8186f5d98e9001
+Text:
+AA 确认绿色小凳子在沙坑旁的安全位置
+
+===== Node: node_97 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 用铲子挖出沙坑基础地形
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:09:00
+Expire: 20250611-14:09:00
+Access: 20250512-14:09:00
+Doc Hash: 1fff89f85ef7a77c112ec1634a30761e598e7c9b570fb4736ac8a6e8ec9a7286
+Text:
+AA 用铲子挖出沙坑基础地形
+
+===== Node: node_98 =====
+Type: chat
+Subject: AA
+Predicate: 对话
+Object: BB
+Address: the Ville:窗户:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:21:00
+Expire: 20250611-14:21:00
+Access: 20250512-14:21:00
+Doc Hash: dfed9e9780a12c1c32c892104cf6853bef93003fda92dd90215a0eaf501316cc
+Text:
+AA和BB开心地商量一起玩！AA喜欢恐龙，想教大家知识；BB喜欢弹钢琴。他们决定轮流当班长，AA讲恐龙，BB弹琴，互相帮助～
+
+===== Node: node_99 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 与BB合作布置沙坑：AA摆放恐龙模型，BB用玩具钢琴伴奏
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 7
+flapeye: 7
+Create: 20250512-14:24:00
+Expire: 20250611-14:24:00
+Access: 20250512-14:24:00
+Doc Hash: f38290d92115e0e5ce136c5bb39eef05a1d2f20742fee0c4576c3a7b6fce834a
+Text:
+与BB合作布置沙坑：AA摆放恐龙模型，BB用玩具钢琴伴奏

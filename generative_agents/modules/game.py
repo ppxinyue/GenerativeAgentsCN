@@ -66,6 +66,8 @@ class Game:
         title = "{}.summary @ {}".format(
             name, utils.get_timer().get_date("%Y%m%d-%H:%M:%S")
         )
+        # unicode escape
+        title = title.encode("unicode_escape").decode("utf-8")
         self.logger.info("\n{}\n{}\n".format(utils.split_line(title), agent))
         return {"plan": plan, "info": info}
 

@@ -1,8 +1,0 @@
-openai
-qianfan
-zhipuai
-spark-ai-python
-llama-index
-llama-index-embeddings-huggingface
-llama-index-embeddings-ollama
-flask

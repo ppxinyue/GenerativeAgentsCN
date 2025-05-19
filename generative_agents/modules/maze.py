@@ -136,7 +136,11 @@ class Maze:
         map = [[0 for _ in range(self.maze_width)] for _ in range(self.maze_height)]
         frontier, visited = [src_coord], set()
         map[src_coord[1]][src_coord[0]] = 1
+        print("find_path", src_coord, dst_coord)
         while map[dst_coord[1]][dst_coord[0]] == 0:
+            if dst_coord[1] < 1 or dst_coord[1] >= self.maze_height - 1 or dst_coord[0] < 1 or dst_coord[0] >= self.maze_width -1:
+                dst_coord = (20,20)
+            print("dst_coord", dst_coord)
             new_frontier = []
             for f in frontier:
                 for c in self.get_around(f):

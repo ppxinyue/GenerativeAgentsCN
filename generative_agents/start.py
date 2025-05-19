@@ -16,7 +16,7 @@ personas = ["AA","BB","CC","DD",
     "QQ","MissT"
 ]
 
-# personas = ["QQ","MissT"]
+# personas = ["AA","BB","QQ","MissT"]
 
 # personas = [
 #     "阿伊莎", "克劳斯", "玛丽亚", "沃尔夫冈",  # 学生
@@ -178,6 +178,9 @@ parser.add_argument("--verbose", type=str, default="debug", help="The verbose le
 parser.add_argument("--log", type=str, default="", help="Name of the log file")
 args = parser.parse_args()
 
+
+import sys
+import os
 
 if __name__ == "__main__":
     checkpoints_path = "results/checkpoints"

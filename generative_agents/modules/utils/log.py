@@ -37,21 +37,36 @@ class IOLogger(object):
         )
 
     def info(self, msg):
+        msg = self.unicode_escape(msg)
         if self._level <= logging.INFO:
             self._get_printer("green")("[INFO]{}: {}".format(self._prefix(), msg))
 
     def debug(self, msg):
+        msg = self.unicode_escape(msg)
         if self._level <= logging.DEBUG:
             self._get_printer("green")("[DEBUG]{}: {}".format(self._prefix(), msg))
 
     def warning(self, msg):
+        msg = self.unicode_escape(msg)
         if self._level >= logging.WARN:
             self._get_printer("yellow")("[WARNING]{}: {}".format(self._prefix(), msg))
 
     def error(self, msg):
+        msg = self.unicode_escape(msg)
         self._get_printer("red")("[ERROR]{}: {}".format(self._prefix(), msg))
         raise Exception(msg)
+    
+    def unicode_escape(self, msg):
+        if isinstance(msg, str):
+            return msg.encode('gbk', errors='replace').decode('gbk')
+        elif isinstance(msg, dict):
+            return {k: self.unicode_escape(v) for k, v in msg.items()}
+        elif isinstance(msg, list):
+            return [self.unicode_escape(v) for v in msg]
+        else:
+            return msg
 
+       
 
 def create_io_logger(level: Union[str, int] = logging.INFO):
     if isinstance(level, str):
@@ -127,8 +142,19 @@ def create_file_logger(
 def split_line(title, symbol="-", width=80):
     return "{0}{1}{0}".format(symbol * 10, title.center(width - 20))
 
+def unicode_escape(msg):
+    if isinstance(msg, str):
+        return msg.encode('gbk', errors='replace').decode('gbk')
+    elif isinstance(msg, dict):
+        return {k: unicode_escape(v) for k, v in msg.items()}
+    elif isinstance(msg, list):
+        return [unicode_escape(v) for v in msg]
+    else:
+        return msg
+
 
 def block_msg(title, msg, symbol="-", width=80):
+    msg = unicode_escape(msg)
     if isinstance(msg, dict):
         msg = dump_dict(msg)
     return "\n{}\n{}".format(split_line(title, symbol, width), msg)
