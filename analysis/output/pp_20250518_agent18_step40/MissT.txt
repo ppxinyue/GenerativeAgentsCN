@@ -560,6 +560,78 @@ Doc Hash: 0b63408c485b9dbba87360daf9d8007cd7b50ab7b0911ae14dec7c9dcf799ed5
 Text:
 BB和II要开闪亮魔法派对！他们弹钢琴、变魔法、唱歌，还要邀请LL和JJ一起玩。大家变身成公主和魔法师，像星星一样闪闪发光，连点点熊都来看表演，超级开心！
 
+===== Node: node_126 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 加速完成"我喜欢的幼儿园"画作（合并原两个绘画阶段）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 8
+flapflap: 8
+flapeye: 6
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: 9123786e6655d85856f289a114d5e7eec54b0a6ecc9cae3a57d84bca5e7783aa
+Text:
+DD 加速完成"我喜欢的幼儿园"画作（合并原两个绘画阶段）
+
+===== Node: node_127 =====
+Type: chat
+Subject: MissT
+Predicate: 对话
+Object: DD
+Address: the Ville:台灯:教室:幼儿园
+Poignancy: 8
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 7
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: 9b180aeb95fe8d3e999990a6b2614a3e10fb15e7a2b8799d463bc93ee8c29e10
+Text:
+MissT老师说小鸟和小老虎不一样也能做好朋友，DD用彩虹色画它们一起玩，贴在墙上让大家都看到！不一样的友谊最魔法啦～
+
+===== Node: node_128 =====
+Type: event
+Subject: KK
+Predicate: 对话
+Object: CC
+Address: the Ville:床:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 7
+flapflap: 8
+flapeye: 6
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: 67517982b15b5d109547573d1219aa690b74d88cbde6aee87dd676f65a2aca6c
+Text:
+CC和KK像小星星和点点熊一样快乐！他们手拉手转彩虹圈圈，变成霸王龙吼吼叫，还喷火火救小星星，最后一起啾啾笑～闪电侠KK超级快超级好玩！✨
+
+===== Node: node_129 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 观察AA反应，用夸张表情示范说"谢谢"（压缩2分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 1
+AAfriend: 8
+flapflap: 8
+flapeye: 6
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: 607e4a92d8abd8d44594f8806a4146c8e81324e02301806ca425b1c056268e35
+Text:
+MissT 观察AA反应，用夸张表情示范说"谢谢"（压缩2分钟）
+
 ===== Node: node_13 =====
 Type: event
 Subject: OO
@@ -577,6 +649,24 @@ Access: 20250512-09:33:00
 Doc Hash: 1573266b0613bed39a6559ecb5a444fb37829890a1dfc43f81cd0b6a492d3e08
 Text:
 OO 蜡笔涂鸦演化成三龙混战（新增PP的翼龙）
+
+===== Node: node_130 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 快速讨论"分享为什么让人开心"（压缩5分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 1
+AAfriend: 8
+flapflap: 8
+flapeye: 6
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: 2e8ea8cf215751322648877ea16755606b4066dd76afcfcdc9ccf837565016be
+Text:
+MissT 快速讨论"分享为什么让人开心"（压缩5分钟）
 
 ===== Node: node_14 =====
 Type: event

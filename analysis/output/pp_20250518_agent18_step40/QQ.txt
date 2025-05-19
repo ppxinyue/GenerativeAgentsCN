@@ -52,6 +52,60 @@ Doc Hash: 9c22c8e54a713daece1c8556d069e06ba83f670c1694c5f1fa5deff7a0934735
 Text:
 QQ 被老师发现后简短批评（原5分钟压缩为2分钟）
 
+===== Node: node_100 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 假装认真学儿歌但故意唱错词
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 3
+flapflap: 5
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: c377ecd21d84850f6d0c1148b5443ce7cf28c56e5f99b84445fdb4c868ce9806
+Text:
+QQ 假装认真学儿歌但故意唱错词
+
+===== Node: node_101 =====
+Type: chat
+Subject: QQ
+Predicate: 对话
+Object: HH
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 3
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: d9ff20e45f61544b691fa7faa06afaf6246cb4e322cc6442b58f358ceb3e13c8
+Text:
+MissT说每个人都不一样～QQ想唱大恐龙歌，HH说先唱QQ喜欢的，再一起讲故事给点点熊听，大家都开心啦！✨🦖
+
+===== Node: node_102 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 看到绘本里难过的画面，低头摸摸点点的头（原11:20-11:25段压缩1分钟+前移6分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 3
+Election: 2
+AAfriend: 3
+flapflap: 5
+flapeye: 6
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: 49aac73ca54eabb455344a56059640aef7fbf8a5fa81038fe0390dc8667a71fb
+Text:
+HH 看到绘本里难过的画面，低头摸摸点点的头（原11:20-11:25段压缩1分钟+前移6分钟）
+
 ===== Node: node_11 =====
 Type: event
 Subject: QQ
@@ -1657,3 +1711,147 @@ Access: 20250512-11:06:00
 Doc Hash: 0b1a5665c71ac6d64ea3d32a77612db5ce3a84275b71d4e3c4967adb877a48a9
 Text:
 BB 观察同学们的点心需求，准备帮忙分发水果
+
+===== Node: node_92 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满童趣喧闹
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 3
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: a43c5375d22778d65834f5cbdfc692c9bb3f65cc6a071789df0e953d1f9d9884
+Text:
+幼儿园 充满童趣喧闹
+
+===== Node: node_93 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 突然抢走旁边小朋友的彩纸折飞机
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 4
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: 84c74f2827e98ff7bbeeb5dd747bee7777acfd8f5b8191a9cdb06f9f4be1d630
+Text:
+QQ 突然抢走旁边小朋友的彩纸折飞机
+
+===== Node: node_94 =====
+Type: event
+Subject: BB
+Predicate: 对话
+Object: II
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 5
+Election: 1
+AAfriend: 3
+flapflap: 5
+flapeye: 5
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: 57e4074663dd8685af4a60a4b2107dfc58e56e26fb0dc97444748bc72a0a89a4
+Text:
+BB和II要开闪亮魔法派对！他们弹钢琴、变魔法、唱歌，还要邀请LL和JJ一起玩。大家变身成公主和魔法师，像星星一样闪闪发光，连点点熊都来看表演，超级开心！
+
+===== Node: node_95 =====
+Type: chat
+Subject: QQ
+Predicate: 对话
+Object: BB
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 4
+flapflap: 5
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: 014cfa4cb4f05c04491033a3f31c4f43a6299cec79dd4c3451f37443a71747ad
+Text:
+QQ想玩抢水果游戏，但BB说分享水果更开心。QQ想当霸王龙吼吼叫，BB答应分完水果一起玩。最后他们决定先分享，再一起当霸王龙！
+
+===== Node: node_96 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满纸飞机
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 3
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: aa940a5797224f7206025e651c21f2d4cff6a140f55adc4fff904b42b0fe7e11
+Text:
+幼儿园 充满纸飞机
+
+===== Node: node_97 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 在教室里乱扔折好的纸飞机
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 4
+flapflap: 5
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: d40abbb98aa4279643d23e07457337bd8070ebc7adfc371821179bf8a5aa6a62
+Text:
+QQ 在教室里乱扔折好的纸飞机
+
+===== Node: node_98 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 正在上课
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 4
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: aa51c271c130e4b2ef2359166c13d412df960853f55a3e2ebf63825717b3b36c
+Text:
+幼儿园 正在上课
+
+===== Node: node_99 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 被罚站时偷偷扯前面女孩的辫子
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 3
+flapflap: 5
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: cb083e4e43ec6f454f08dd3e0b18fef067f5828c6e15a9e22efc860382d7a4b4
+Text:
+QQ 被罚站时偷偷扯前面女孩的辫子

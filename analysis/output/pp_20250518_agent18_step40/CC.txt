@@ -52,6 +52,60 @@ Doc Hash: 09b18ad06ae67d2970bf9ee026d5bd4cacaceac6f3a574f6bda44a1f5bf714cc
 Text:
 AA 捂耳朵调整音量（原5分钟→4分钟）
 
+===== Node: node_100 =====
+Type: chat
+Subject: CC
+Predicate: 对话
+Object: GG
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: 175ba9a0184558753eba2c13d87d86952743fdcd72813adf148d61998fab9a6d
+Text:
+CC 恐龙吼吼叫，彩虹转圈圈！先当三角龙挖化石，再像小星星熊一样跳舞闪闪亮～一起变身最开心啦！(✧ω✧)
+
+===== Node: node_101 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 分配其他角色：指定小朋友当"会跳舞的蘑菇"和"发光萤火虫"配合表演
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: e3ca6a2d5178212038af6e11053682d303588dfd06660fd80e86e7559b4a5ee9
+Text:
+II 分配其他角色：指定小朋友当"会跳舞的蘑菇"和"发光萤火虫"配合表演
+
+===== Node: node_102 =====
+Type: event
+Subject: BB
+Predicate: 对话
+Object: MM
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 8
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: a9b709b285556bbba8e10502f4f734c26fbe263361eb9fb1b2d93e085e166ecd
+Text:
+吼吼！MM和BB一起吃水果，轮流当霸王龙吼吼叫，像彩虹恐龙联盟一样团结又开心！老师说轮流玩最棒啦～
+
 ===== Node: node_11 =====
 Type: event
 Subject: CC
@@ -1657,3 +1711,147 @@ Access: 20250512-11:09:00
 Doc Hash: e93e4619fd60fd2d1fa8ce694ad52ab6c51e08a053a2c4d90e5db5d6ff65e1f6
 Text:
 NN 听老师讲解手工课的主题和要求
+
+===== Node: node_92 =====
+Type: chat
+Subject: CC
+Predicate: 对话
+Object: MM
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 4
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: b2b13ccc14d5b5bb1b7abb612c35b2323d09afe7406a7b0067a11a0e4ede9bcd
+Text:
+CC 两个小朋友商量一起玩，一个想玩恐龙打架，一个想跳舞救星星。最后他们决定先开心地跳舞救星星，再变成恐龙好朋友一起吼吼叫！霸王龙和三角龙手拉手，是最棒的恐龙联盟啦～🌈🦖✨
+
+===== Node: node_93 =====
+Type: event
+Subject: MM
+Predicate: 此时
+Object: 打开水龙头，用肥皂洗手
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 3
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: b37a34753dcd9e526eb4dc995edcbd0b85d3c234adc67eb4162fda8fd443f4f5
+Text:
+MM 打开水龙头，用肥皂洗手
+
+===== Node: node_94 =====
+Type: event
+Subject: NN
+Predicate: 对话
+Object: OO
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: 883670a6f5226e75db8ce06eb01f447912e6ab7fc64c675d797ab9f74ab1d2ac
+Text:
+NN 两个小朋友开心地扮演三角龙吼吼叫，还说要一起挖化石！后来他们还想和小老虎开热闹的音乐会，像派对一样啾啾吼吼玩~
+
+===== Node: node_95 =====
+Type: event
+Subject: KK
+Predicate: 此时
+Object: 扮演超级英雄，带领小朋友们进行探险游戏（原19分钟压缩为18分钟）
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: 71a0cdbba76ae58ee295a556ad753ecab5a72b297dc1bdafaf56d0563c1321ab
+Text:
+KK 扮演超级英雄，带领小朋友们进行探险游戏（原19分钟压缩为18分钟）
+
+===== Node: node_96 =====
+Type: chat
+Subject: CC
+Predicate: 对话
+Object: KK
+Address: the Ville:床:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: 47d6f73243f8ec214be314cc7139bc53d66ede3ccc30bb5580a6cfeba65a8a50
+Text:
+CC和KK像小星星和点点熊一样快乐！他们手拉手转彩虹圈圈，变成霸王龙吼吼叫，还喷火火救小星星，最后一起啾啾笑～闪电侠KK超级快超级好玩！✨
+
+===== Node: node_97 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 和新朋友一起收拾游戏道具，互相击掌庆祝
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: 0bd0eeae9a371df0e7982c636bbea0e2eae0b90c759e450afd90b85dd03012ee
+Text:
+CC 和新朋友一起收拾游戏道具，互相击掌庆祝
+
+===== Node: node_98 =====
+Type: event
+Subject: GG
+Predicate: 此时
+Object: 若被拒绝，短暂表达不开心但很快被音乐会回忆逗笑
+Address: the Ville:幼儿园:教室:钢琴
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: d3d650250aa12c722f89563e2456b78614938cb64517d19fd53f197009699f7e
+Text:
+GG 若被拒绝，短暂表达不开心但很快被音乐会回忆逗笑
+
+===== Node: node_99 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 坐在操场长椅上分享水壶里的水，自然地问小伙伴"你最喜欢刚才哪个游戏呀？"
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: 91ec4b1c80e9c8040cfe6b9ca6314802e478ca141a7841243b311975709aa19a
+Text:
+CC 坐在操场长椅上分享水壶里的水，自然地问小伙伴"你最喜欢刚才哪个游戏呀？"

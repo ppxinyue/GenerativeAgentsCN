@@ -1590,6 +1590,24 @@ Doc Hash: b9a1a185e5e4a95aa4c572949b0a8664a9404d20c726f1d1ebf8de4ce0935b61
 Text:
 FF 听老师讲解《找朋友》舞蹈的动作（原11:05-11:15压缩为4分钟）
 
+===== Node: node_89 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 跟着音乐练习舞蹈动作（原11:15-11:30压缩为13分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: 4ec10fd869e062c0f28f5ea9b989cf6615011ede3da6719b805a35f4da639b36
+Text:
+FF 跟着音乐练习舞蹈动作（原11:15-11:30压缩为13分钟）
+
 ===== Node: node_9 =====
 Type: event
 Subject: FF
@@ -1607,3 +1625,111 @@ Access: 20250512-09:30:00
 Doc Hash: 55fc5e7d7ccdfd09e0c03d75c02048c445efee83452f4a72744ebe61bfee316b
 Text:
 FF 对新朋友微笑点头（压缩原5分钟至3分钟）
+
+===== Node: node_90 =====
+Type: event
+Subject: JJ
+Predicate: 对话
+Object: HH
+Address: the Ville:皮鼓:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: a6b3f9bdb993e939bf9c79f1ac16625c30db863da47844aadbef379131c1f9f8
+Text:
+JJ和HH要跟点点熊开森林音乐会！小鸟啾啾唱歌，小老虎吼吼跳舞，还给点点熊穿星星衣服、画彩虹森林～像MissT老师说的，分享颜色和快乐最棒啦！✨🎵
+
+===== Node: node_91 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 与KK合作绘制彩虹英雄救援主题画（原18分钟压缩为15分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: b7923a7afb628af48d109e26e2d4a605db96dd41b2b516d5f441bbcd0a3ce3d3
+Text:
+DD 与KK合作绘制彩虹英雄救援主题画（原18分钟压缩为15分钟）
+
+===== Node: node_92 =====
+Type: chat
+Subject: FF
+Predicate: 对话
+Object: DD
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 8
+flapeye: 5
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: 5021e906d6c8fbd3cded3a35b1d610d725690a3348bda4bfb43e38439f1bcb74
+Text:
+FF 两个小朋友像超级英雄一样开心地转圈圈跳舞，保护小星星、积木城堡和小动物，像彩虹一样闪闪亮，像小鸟啾啾叫一样快乐～
+
+===== Node: node_93 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 听老师讲《好朋友》绘本，偶尔小声重复关键词（原11:05-11:20段压缩1分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: c5831544a8984cebad7e8baae83cc0aa8762ed1bb8fb388f00ef2ef6964d8af7
+Text:
+HH 听老师讲《好朋友》绘本，偶尔小声重复关键词（原11:05-11:20段压缩1分钟）
+
+===== Node: node_94 =====
+Type: chat
+Subject: FF
+Predicate: 对话
+Object: EE
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: 33d30b30a0fd08644c54b96a4201ab5ba1484ab0b7777cc773bdcfad90646688
+Text:
+EE想画画不想跳舞，FF一直夸EE的彩虹鞋子和画，还说要唱歌陪她，像小星星一样闪闪亮～
+
+===== Node: node_95 =====
+Type: chat
+Subject: FF
+Predicate: 对话
+Object: DD
+Address: the Ville:池塘:操场:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: 80780ecf3511dafae657a769a4a893ef65d941243bb4d58b43a5e6355eeeb7fb
+Text:
+DD和FF一起开心地画彩虹英雄救小星星，像小鸟唱歌一样闪闪亮，像超人一样数一二三冲呀！MissT老师说这样玩最棒啦～

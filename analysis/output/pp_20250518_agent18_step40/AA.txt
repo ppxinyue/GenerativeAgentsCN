@@ -1528,6 +1528,78 @@ Doc Hash: ed4df7d1bc86628fd6f79e399bfe2f618fcc8148fc1191c08c4253c6d67aa1b6
 Text:
 小GG喜欢三角龙，但AA说霸王龙也很棒，大家一起玩轮流当恐龙最开心，像彩虹伞一样充满笑声！
 
+===== Node: node_86 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 举手宣布竞选班长意愿（原11:35-11:45压缩为5分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: c9312313decc4452241004a190ea74af9a7cf6e58e866d5ba1dd3fd77cec9db1
+Text:
+AA 举手宣布竞选班长意愿（原11:35-11:45压缩为5分钟）
+
+===== Node: node_87 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 老师引导课程后拍手三次（原11:45-11:50压缩为3分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: 357da5de193acfb39e6be44bf84aa2c91ef76886da4f76aeb0085d2ace565c5c
+Text:
+AA 老师引导课程后拍手三次（原11:45-11:50压缩为3分钟）
+
+===== Node: node_88 =====
+Type: event
+Subject: GG
+Predicate: 对话
+Object: LL
+Address: the Ville:池塘边的石头路:操场:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 6
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: 1cddbec57007856c96b02fc608b72bc30bb9f555ebf10c9eadc6aa0c031f0c4a
+Text:
+GG 小三角龙和好朋友一起开音乐会啦！三角龙当鼓手“咚咚”打雷，小朋友弹琴“嗡嗡”像小蜜蜂，他们又挖化石又唱歌，玩得超级开心！✨🦕🎵
+
+===== Node: node_89 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 整理书包恐龙玩具（原11:50-11:55压缩为5分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 6
+Election: 1
+AAfriend: 5
+flapflap: 5
+flapeye: 5
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: ad7ee44fb8b4b852e6f965f5ccee5885a9a3c1d4d547e19b0eca749955a9addf
+Text:
+AA 整理书包恐龙玩具（原11:50-11:55压缩为5分钟）
+
 ===== Node: node_9 =====
 Type: event
 Subject: AA
@@ -1545,3 +1617,111 @@ Access: 20250512-09:33:00
 Doc Hash: 7db6ee3efda0d91fa1e156b98e8ae5f238cb0ccc4e04673e2abd2dced5ce9daa
 Text:
 AA 捂耳朵调整音量（原5分钟→4分钟）
+
+===== Node: node_90 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 听老师讲《好朋友》绘本，偶尔小声重复关键词（原11:05-11:20段压缩1分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 4
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: 1deee88342452bc04515a5878d04296a825e84741ad0cd6fea7b97f2d87d4857
+Text:
+HH 听老师讲《好朋友》绘本，偶尔小声重复关键词（原11:05-11:20段压缩1分钟）
+
+===== Node: node_91 =====
+Type: event
+Subject: BB
+Predicate: 此时
+Object: 加速完成水果分发（因协商事件缩短原定15分钟分发动作为15分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: 8a95d4c1325b7152743388207bc146a996fdcc648b5c7745690756686d573c22
+Text:
+BB 加速完成水果分发（因协商事件缩短原定15分钟分发动作为15分钟）
+
+===== Node: node_92 =====
+Type: event
+Subject: AA
+Predicate: 此时
+Object: 检查绿色凳子+自由时间（原11:55-12:00延长至38分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: a8b53a28e4964f0d2f94f2796ab5444b2eb6cfd528b3e3314e5acb1184945f0f
+Text:
+AA 检查绿色凳子+自由时间（原11:55-12:00延长至38分钟）
+
+===== Node: node_93 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满童趣喧闹
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 1
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:30:00
+Expire: 20250611-11:30:00
+Access: 20250512-11:30:00
+Doc Hash: f253efe264c2be310d49fc9bb44a2e8a6a6bfa7d378c8ba9d6a0887066ccfb76
+Text:
+幼儿园 充满童趣喧闹
+
+===== Node: node_94 =====
+Type: event
+Subject: HH
+Predicate: 此时
+Object: 看到绘本里难过的画面，低头摸摸点点的头（原11:20-11:25段压缩1分钟+前移6分钟）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 3
+Election: 1
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:30:00
+Expire: 20250611-11:30:00
+Access: 20250512-11:30:00
+Doc Hash: b66c5e8edab05b620ffe290ca44ed7d46d365a21f2596467427a58d030ecf359
+Text:
+HH 看到绘本里难过的画面，低头摸摸点点的头（原11:20-11:25段压缩1分钟+前移6分钟）
+
+===== Node: node_95 =====
+Type: event
+Subject: QQ
+Predicate: 对话
+Object: HH
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:30:00
+Expire: 20250611-11:30:00
+Access: 20250512-11:30:00
+Doc Hash: 6e4c3ff5c6d847cccc1cc91676ff70ab7283788f9cc04dce9bab43bbb8a40236
+Text:
+MissT说每个人都不一样～QQ想唱大恐龙歌，HH说先唱QQ喜欢的，再一起讲故事给点点熊听，大家都开心啦！✨🦖

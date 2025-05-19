@@ -199,47 +199,47 @@
   },
   "JJ": {
     "character": "JJ",
-    "node_id": "node_62",
-    "poignancy": 9.0,
-    "metadata": {
-      "node_type": "event",
-      "subject": "DD",
-      "predicate": "此时",
-      "object": "JJ和DD要一起搭动物园，玩动物广播游戏！JJ当长颈鹿主持人，DD当小老虎“吼吼”叫，还要邀请BB和LL来开音乐会，像森林里的小动物一样开心！（新增30分钟）",
-      "address": "the Ville:幼儿园:教室:钢琴",
-      "poignancy": 9,
-      "election": 2,
-      "AAfriend": 8,
-      "flapflap": 8,
-      "flapeye": 6,
-      "create": "20250512-10:33:00",
-      "expire": "20250611-10:33:00",
-      "access": "20250512-10:33:00"
-    },
-    "text": "JJ和DD要一起搭动物园，玩动物广播游戏！JJ当长颈鹿主持人，DD当小老虎“吼吼”叫，还要邀请BB和LL来开音乐会，像森林里的小动物一样开心！（新增30分钟）",
-    "doc_hash": "132f3b4c221ae03b17ba17f76505e0e9d9ecd57a9ff526bcb7b61e59cd6cf932"
-  },
-  "KK": {
-    "character": "KK",
-    "node_id": "node_42",
+    "node_id": "node_105",
     "poignancy": 9.0,
     "metadata": {
       "node_type": "thought",
-      "subject": "KK",
+      "subject": "JJ",
       "predicate": "此时",
-      "object": " KK觉得最有趣的是和CC一起用彩泥做会喷火的红色火山，还能当超级英雄救援小动物，就像闪电侠一样飞快地冲呀！",
-      "address": "the Ville:沙滩球:操场:幼儿园",
+      "object": "和朋友们一起当小动物开音乐会最开心啦！长颈鹿主持人采访小老虎和小鸟，就像森林派对一样热闹！",
+      "address": "the Ville:皮鼓:教室:幼儿园",
       "poignancy": 9,
-      "election": 1,
-      "AAfriend": 7,
+      "election": 2,
+      "AAfriend": 6,
+      "flapflap": 8,
+      "flapeye": 5,
+      "create": "20250512-11:09:00",
+      "expire": "20250611-11:09:00",
+      "access": "20250512-11:09:00"
+    },
+    "text": "JJ 和朋友们一起当小动物开音乐会最开心啦！长颈鹿主持人采访小老虎和小鸟，就像森林派对一样热闹！",
+    "doc_hash": "8c9e1fcb021144e5961ce9269e4dc28d2cae88ce5f4cd5e4daa3cea4d60c181c"
+  },
+  "KK": {
+    "character": "KK",
+    "node_id": "node_103",
+    "poignancy": 9.0,
+    "metadata": {
+      "node_type": "chat",
+      "subject": "KK",
+      "predicate": "对话",
+      "object": "DD",
+      "address": "the Ville:毛绒玩具:教室:幼儿园",
+      "poignancy": 9,
+      "election": 2,
+      "AAfriend": 5,
       "flapflap": 7,
       "flapeye": 5,
-      "create": "20250512-09:54:00",
-      "expire": "20250611-09:54:00",
-      "access": "20250512-09:54:00"
+      "create": "20250512-11:09:00",
+      "expire": "20250611-11:09:00",
+      "access": "20250512-11:09:00"
     },
-    "text": "KK KK觉得最有趣的是和CC一起用彩泥做会喷火的红色火山，还能当超级英雄救援小动物，就像闪电侠一样飞快地冲呀！",
-    "doc_hash": "3088775588715511f4814e40b3c5045fb4c03cddfde3360236a58f41fc1db820"
+    "text": "MissT说不一样才好玩！KK和DD画闪电侠、啾啾小鸟和吼吼小老虎，像彩虹英雄一样冲进火山救小星星，大家叫得开心就像超级音乐会呀！✨",
+    "doc_hash": "39fdb56b8b9511fb55a0e22488518b5221bf0f74f99833739520c6a99d4928f3"
   },
   "LL": {
     "character": "LL",
@@ -265,25 +265,25 @@
   },
   "MM": {
     "character": "MM",
-    "node_id": "node_0",
-    "poignancy": 8.0,
+    "node_id": "node_176",
+    "poignancy": 9.0,
     "metadata": {
       "node_type": "thought",
       "subject": "MM",
-      "predicate": "计划",
-      "object": "2025年05月12日（星期一）09:00",
-      "address": "the Ville:操场:幼儿园",
-      "poignancy": 8,
-      "election": 9,
+      "predicate": "此时",
+      "object": " \"吼——最开心的是霸王龙和三角龙能像小熊一样手拉手转圈圈，还能组成最厉害的彩虹恐龙联盟！\"  \n\n（用MM喜欢的恐龙元素+小熊的可爱动作+\"联盟\"这个孩子觉得超酷的词，完美融合了两个小朋友的创意~）",
+      "address": "the Ville:盆栽:教室:幼儿园",
+      "poignancy": 9,
+      "election": 2,
       "AAfriend": 5,
-      "flapflap": 5,
-      "flapeye": 3,
-      "create": "20250512-09:00:00",
-      "expire": "20250611-09:00:00",
-      "access": "20250512-09:00:00"
+      "flapflap": 6,
+      "flapeye": 5,
+      "create": "20250512-11:12:00",
+      "expire": "20250611-11:12:00",
+      "access": "20250512-11:12:00"
     },
-    "text": "这是 MM 在 2025年05月12日（星期一）09:00 的计划：早上8点来到幼儿园教室；早上8:15和MissT老师打招呼并介绍自己；早上8:30和小朋友们一起玩晨间互动游戏；早上9:00参加开学典礼，听园长讲话；早上9:30在教室学习简单的课堂规则；早上10:00和小朋友们一起唱歌、跳舞；早上10:30进行“恐龙大乱斗”角色扮演游戏（MM扮演霸王龙）；中午11:00洗手准备吃午饭；中午12:00在教室吃午饭；中午12:30午休时间，听老师讲故事；下午2:00去操场进行户外活动；下午2:30玩滑梯、秋千等游乐设施；下午3:00和小朋友们讨论明天的班长选举；下午3:30吃点心时间；下午4:00整理书包，准备放学；下午4:30家长接回家",
-    "doc_hash": "afb5704059b6cbec49b471ca7db2bedbd434723b70da3f6ba7d98d8eff218999"
+    "text": "MM \"吼——最开心的是霸王龙和三角龙能像小熊一样手拉手转圈圈，还能组成最厉害的彩虹恐龙联盟！\"  \n\n（用MM喜欢的恐龙元素+小熊的可爱动作+\"联盟\"这个孩子觉得超酷的词，完美融合了两个小朋友的创意~）",
+    "doc_hash": "d388843983c1dd433d709dd996c27adfd6934ff69c66b59120256f2a343a8b04"
   },
   "NN": {
     "character": "NN",
@@ -331,25 +331,25 @@
   },
   "PP": {
     "character": "PP",
-    "node_id": "node_112",
-    "poignancy": 8.0,
+    "node_id": "node_211",
+    "poignancy": 9.0,
     "metadata": {
       "node_type": "thought",
       "subject": "PP",
       "predicate": "此时",
-      "object": "轮流当恐龙、邀请新朋友，游戏就会像彩虹伞一样充满笑声～",
+      "object": " PP觉得最有趣的是和MM、OO一起当三角龙挖化石，还能组成彩虹恐龙联盟，像小熊一样手拉手转圈圈，三角龙最棒啦！吼吼~",
       "address": "the Ville:盆栽:教室:幼儿园",
-      "poignancy": 8,
-      "election": 1,
-      "AAfriend": 8,
-      "flapflap": 8,
+      "poignancy": 9,
+      "election": 2,
+      "AAfriend": 4,
+      "flapflap": 7,
       "flapeye": 5,
-      "create": "20250512-10:33:00",
-      "expire": "20250611-10:33:00",
-      "access": "20250512-10:33:00"
+      "create": "20250512-11:21:00",
+      "expire": "20250611-11:21:00",
+      "access": "20250512-11:21:00"
     },
-    "text": "PP 轮流当恐龙、邀请新朋友，游戏就会像彩虹伞一样充满笑声～",
-    "doc_hash": "69500c1a032fff5a66acf24e2ddcdff74a4b943e7d7998c8b56915b2d9aa68d6"
+    "text": "PP PP觉得最有趣的是和MM、OO一起当三角龙挖化石，还能组成彩虹恐龙联盟，像小熊一样手拉手转圈圈，三角龙最棒啦！吼吼~",
+    "doc_hash": "9a54af01e32edbecd5d20ee94ac6ac572d18dc8fc3731284cfd5245b109cd0aa"
   },
   "QQ": {
     "character": "QQ",

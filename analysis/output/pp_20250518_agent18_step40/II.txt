@@ -52,6 +52,24 @@ Doc Hash: 34bc0d75fe3447b8f1d9d8dc7afd23b367146646b7eece6acac5d7f56b288136
 Text:
 GG 观察周围的小朋友，尝试记住他们的名字（原10分钟压缩）
 
+===== Node: node_100 =====
+Type: event
+Subject: CC
+Predicate: 对话
+Object: GG
+Address: the Ville:红色椅子:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: 34fb083c3bac5e7817a608c774d43b549e503ba96c7c4786f5df2c41d4428d0d
+Text:
+CC 恐龙吼吼叫，彩虹转圈圈！先当三角龙挖化石，再像小星星熊一样跳舞闪闪亮～一起变身最开心啦！(✧ω✧)
+
 ===== Node: node_11 =====
 Type: event
 Subject: II
@@ -1635,3 +1653,165 @@ Access: 20250512-11:06:00
 Doc Hash: c1256ac45498b0cf41eac30a4de2d06839447d07ab474c45555fef706d2cddca
 Text:
 BB和II要开闪亮魔法派对！他们弹钢琴、变魔法、唱歌，还要邀请LL和JJ一起玩。大家变身成公主和魔法师，像星星一样闪闪发光，连点点熊都来看表演，超级开心！
+
+===== Node: node_91 =====
+Type: event
+Subject: 幼儿园
+Predicate: 此时
+Object: 充满孩童嬉闹声
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: db222bdf5d356115a71fbb330b6b655b2ddd310335374adcda227708b2a30091
+Text:
+幼儿园 充满孩童嬉闹声
+
+===== Node: node_92 =====
+Type: event
+Subject: QQ
+Predicate: 此时
+Object: 被老师批评后做鬼脸，然后躲到角落观察
+Address: the Ville:钢琴:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:09:00
+Expire: 20250611-11:09:00
+Access: 20250512-11:09:00
+Doc Hash: d51a19028fc86a5e71a5fc6d6c78990f96cb1ee9fde75c2ac2053d733867b1e3
+Text:
+QQ 被老师批评后做鬼脸，然后躲到角落观察
+
+===== Node: node_93 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 共同设计剧情：魔法公主用闪光魔法驯服暴躁三角龙（OO吼叫时II假装施法）
+Address: the Ville:幼儿园:禁林:树
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: e18a3dd56f6ad8d40b87e13836b9edd02dd00dcd334c993a412965faf2ac4442
+Text:
+共同设计剧情：魔法公主用闪光魔法驯服暴躁三角龙（OO吼叫时II假装施法）
+
+===== Node: node_94 =====
+Type: event
+Subject: JJ
+Predicate: 对话
+Object: HH
+Address: the Ville:皮鼓:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: e0bec64359a126d7c7a81f246aa5da82a7a66ef50744f0e586e50c7d5d984d41
+Text:
+JJ和HH要跟点点熊开森林音乐会！小鸟啾啾唱歌，小老虎吼吼跳舞，还给点点熊穿星星衣服、画彩虹森林～像MissT老师说的，分享颜色和快乐最棒啦！✨🎵
+
+===== Node: node_95 =====
+Type: event
+Subject: FF
+Predicate: 此时
+Object: 跟着音乐练习舞蹈动作（原11:15-11:30压缩为13分钟）
+Address: the Ville:幼儿园:教室:皮鼓
+Poignancy: 6
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: e4089c1645a337b3b16f8b344534ceeb363bba66c5a321c92a262a994ad1eb9e
+Text:
+FF 跟着音乐练习舞蹈动作（原11:15-11:30压缩为13分钟）
+
+===== Node: node_96 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 分配其他角色：指定小朋友当"会跳舞的蘑菇"和"发光萤火虫"配合表演
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 8
+Election: 2
+AAfriend: 5
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: c8f1587fd1ad05c4fb2fb0bf636cfbf8ecdd8a45571bc2c5d54360b7471f4e68
+Text:
+II 分配其他角色：指定小朋友当"会跳舞的蘑菇"和"发光萤火虫"配合表演
+
+===== Node: node_97 =====
+Type: event
+Subject: CC
+Predicate: 此时
+Object: 坐在操场长椅上分享水壶里的水，自然地问小伙伴"你最喜欢刚才哪个游戏呀？"
+Address: the Ville:幼儿园:操场:沙滩球
+Poignancy: 5
+Election: 2
+AAfriend: 5
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: 3aa9dfd0e93c474f2d308d29d7cad59ad6204387a50c211348e5c15bf880836e
+Text:
+CC 坐在操场长椅上分享水壶里的水，自然地问小伙伴"你最喜欢刚才哪个游戏呀？"
+
+===== Node: node_98 =====
+Type: event
+Subject: II
+Predicate: 此时
+Object: 即兴编造合作台词："闪耀之力！让恐龙变成我的跳舞伙伴！"（OO配合吼叫转圈）
+Address: the Ville:幼儿园:操场:恐龙雕塑
+Poignancy: 8
+Election: 2
+AAfriend: 4
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: 2b423f315c78ec7fa379c6436a7e9275e639beecd75e56460496d36fa60e1c7c
+Text:
+II 即兴编造合作台词："闪耀之力！让恐龙变成我的跳舞伙伴！"（OO配合吼叫转圈）
+
+===== Node: node_99 =====
+Type: event
+Subject: BB
+Predicate: 对话
+Object: MM
+Address: the Ville:盆栽:教室:幼儿园
+Poignancy: 7
+Election: 2
+AAfriend: 4
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: 8ca62bbfcb5cd7550dba5fa8645dd1ffbe620000743f81bcdac105f6b6d71619
+Text:
+吼吼！MM和BB一起吃水果，轮流当霸王龙吼吼叫，像彩虹恐龙联盟一样团结又开心！老师说轮流玩最棒啦～

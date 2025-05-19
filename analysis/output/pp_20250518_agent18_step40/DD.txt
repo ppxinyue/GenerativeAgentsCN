@@ -70,6 +70,132 @@ Doc Hash: 7ded3a8d2b6ccd5c37328270ebc90fc04c91645f78d774905b92cc3d8643fb24
 Text:
 MissT说不一样才好玩！KK和DD画闪电侠、啾啾小鸟和吼吼小老虎，像彩虹英雄一样冲进火山救小星星，大家叫得开心就像超级音乐会呀！✨
 
+===== Node: node_101 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 加速完成"我喜欢的幼儿园"画作（合并原两个绘画阶段）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 7
+Election: 2
+AAfriend: 3
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:12:00
+Expire: 20250611-11:12:00
+Access: 20250512-11:12:00
+Doc Hash: 7c3d2fa90393d168b941790bf20c402958d96c7b173734693f67732a36d497eb
+Text:
+DD 加速完成"我喜欢的幼儿园"画作（合并原两个绘画阶段）
+
+===== Node: node_102 =====
+Type: chat
+Subject: DD
+Predicate: 对话
+Object: MissT
+Address: the Ville:台灯:教室:幼儿园
+Poignancy: 8
+Election: 2
+AAfriend: 4
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: 11d7a39f6c856f5e90e008d2e97cc2916212f4afad491b4ad4ab163fc82d6c42
+Text:
+MissT老师说小鸟和小老虎不一样也能做好朋友，DD用彩虹色画它们一起玩，贴在墙上让大家都看到！不一样的友谊最魔法啦～
+
+===== Node: node_103 =====
+Type: event
+Subject: MissT
+Predicate: 此时
+Object: 分发零食并示范如何礼貌传递饼干盒（原11:05-11:15，顺延压缩）
+Address: the Ville:幼儿园:教室:书架
+Poignancy: 7
+Election: 2
+AAfriend: 3
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:15:00
+Expire: 20250611-11:15:00
+Access: 20250512-11:15:00
+Doc Hash: f4c2f4f51c5da3a3ddc658023e2b951a10283c1765fd2404823830467a52fd2a
+Text:
+MissT 分发零食并示范如何礼貌传递饼干盒（原11:05-11:15，顺延压缩）
+
+===== Node: node_104 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 与KK合作绘制彩虹英雄救援主题画（原18分钟压缩为15分钟）
+Address: the Ville:幼儿园:教室:黑板
+Poignancy: 6
+Election: 2
+AAfriend: 3
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:18:00
+Expire: 20250611-11:18:00
+Access: 20250512-11:18:00
+Doc Hash: 071888c85df412d39139dd3fb53f101398913419d0d986653ccdd9dfb0734ac0
+Text:
+DD 与KK合作绘制彩虹英雄救援主题画（原18分钟压缩为15分钟）
+
+===== Node: node_105 =====
+Type: chat
+Subject: DD
+Predicate: 对话
+Object: FF
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 6
+Election: 2
+AAfriend: 3
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:21:00
+Expire: 20250611-11:21:00
+Access: 20250512-11:21:00
+Doc Hash: 00e1cd001336b788d314f9ce6a74bbf32df2f6129189a16bca512e388ba274d7
+Text:
+DD 两个小朋友像超级英雄一样开心地转圈圈跳舞，保护小星星、积木城堡和小动物，像彩虹一样闪闪亮，像小鸟啾啾叫一样快乐～
+
+===== Node: node_106 =====
+Type: event
+Subject: DD
+Predicate: 此时
+Object: 继续完成彩虹英雄救援画（原剩余12分钟+3分钟缓冲）
+Address: the Ville:幼儿园:教室:台灯
+Poignancy: 6
+Election: 2
+AAfriend: 4
+flapflap: 6
+flapeye: 5
+Create: 20250512-11:24:00
+Expire: 20250611-11:24:00
+Access: 20250512-11:24:00
+Doc Hash: a8c261ee948ceadaa8c25938e9c106faeed0d4c8a37aeb6fd634c90573eb40f1
+Text:
+DD 继续完成彩虹英雄救援画（原剩余12分钟+3分钟缓冲）
+
+===== Node: node_107 =====
+Type: event
+Subject: FF
+Predicate: 对话
+Object: EE
+Address: the Ville:沙滩球:操场:幼儿园
+Poignancy: 5
+Election: 2
+AAfriend: 3
+flapflap: 7
+flapeye: 5
+Create: 20250512-11:27:00
+Expire: 20250611-11:27:00
+Access: 20250512-11:27:00
+Doc Hash: a879c3b8aaa081138956db2b4b28c44b1cd9032cd08316bb3c10b07fdb3656da
+Text:
+EE想画画不想跳舞，FF一直夸EE的彩虹鞋子和画，还说要唱歌陪她，像小星星一样闪闪亮～
+
 ===== Node: node_11 =====
 Type: event
 Subject: DD
