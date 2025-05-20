@@ -671,10 +671,16 @@ class Agent:
         else:
             poignancy = self.completion("poignancy_event", event)
 
-        election = self.completion("election_event", event, associate = self.associate.abstract())
-        AAfriend = self.completion("AAfriend_event", event, associate = self.associate.abstract())
-        flapflap = self.completion("flapflap_event", event, associate = self.associate.abstract())
-        flapeye = self.completion("flapeye_event", event, associate = self.associate.abstract())
+        associate_abstract = self.associate.abstract()
+        trimmed_data = {
+        'event': associate_abstract['event'][-50:],
+        'chat': associate_abstract['chat'][-50:],
+        'thought': associate_abstract['thought'][-50:]
+    }
+        election = self.completion("election_event", event, associate = trimmed_data)
+        AAfriend = self.completion("AAfriend_event", event, associate = trimmed_data)
+        flapflap = self.completion("flapflap_event", event, associate = trimmed_data)
+        flapeye = self.completion("flapeye_event", event, associate = trimmed_data)
         self.logger.debug("{} add associate {}".format(self.name, event))
         return self.associate.add_node(
             e_type,
